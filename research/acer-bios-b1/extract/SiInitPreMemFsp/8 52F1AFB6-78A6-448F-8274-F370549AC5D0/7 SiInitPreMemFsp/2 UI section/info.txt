@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: DED030h
+Header address: FFE68348h
+Data address: FFE6834Ch
+Offset: A0234h
+Type: 15h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Text: SiInitPreMemFsp

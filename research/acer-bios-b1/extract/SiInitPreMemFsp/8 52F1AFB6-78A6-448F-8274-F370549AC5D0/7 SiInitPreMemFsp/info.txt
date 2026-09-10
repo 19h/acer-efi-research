@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SiInitPreMemFsp
+Fixed: No
+Base: D4CDFCh
+Header address: FFDC8114h
+Data address: FFDC812Ch
+Offset: 8E70h
+File GUID: D9117BD7-0807-4F38-B773-AD86A791EAFC
+Type: 06h
+Attributes: 00h
+Full size: A0266h (655974)
+Header size: 18h (24)
+Body size: A024Eh (655950)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid
