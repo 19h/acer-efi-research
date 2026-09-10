@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerUfsDeviceConfigurationSetupVar
+Fixed: Yes
+Base: 4F693h
+Header address: FF04F693h
+Data address: FF04F6C1h
+Offset: 1F61Bh
+Variable GUID: 414976B9-1E77-4062-A7C8-E1C810B0A2A2
+GUID index: 54
+Full size: 33h (51)
+Header size: 2Eh (46)
+Body size: 5h (5)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

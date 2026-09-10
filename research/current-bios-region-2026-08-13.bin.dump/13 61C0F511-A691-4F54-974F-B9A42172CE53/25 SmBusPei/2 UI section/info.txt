@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F4C304h
+Header address: FFF4C304h
+Data address: FFF4C308h
+Offset: 134h
+Type: 15h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Text: SmBusPei

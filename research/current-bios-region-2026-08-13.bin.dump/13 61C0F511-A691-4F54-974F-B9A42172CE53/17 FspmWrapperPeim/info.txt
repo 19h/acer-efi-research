@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspmWrapperPeim
+Fixed: No
+Base: F35730h
+Header address: FFF35730h
+Data address: FFF35748h
+Offset: 15730h
+File GUID: 9FAAD0FF-0E0C-4885-A738-BAB4E4FA1E66
+Type: 06h
+Attributes: 00h
+Full size: 60Ah (1546)
+Header size: 18h (24)
+Body size: 5F2h (1522)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Ch, valid
+Data checksum: AAh, valid

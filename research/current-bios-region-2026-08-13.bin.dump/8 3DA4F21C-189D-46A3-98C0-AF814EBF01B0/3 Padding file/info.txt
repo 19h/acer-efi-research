@@ -1,0 +1,17 @@
+Type: File
+Subtype: Pad
+Fixed: No
+Base: C500C0h
+Header address: FFC500C0h
+Data address: FFC500D8h
+Offset: C0h
+File GUID: FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF
+Type: F0h
+Attributes: 00h
+Full size: F28h (3880)
+Header size: 18h (24)
+Body size: F10h (3856)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E9h, valid
+Data checksum: AAh, valid

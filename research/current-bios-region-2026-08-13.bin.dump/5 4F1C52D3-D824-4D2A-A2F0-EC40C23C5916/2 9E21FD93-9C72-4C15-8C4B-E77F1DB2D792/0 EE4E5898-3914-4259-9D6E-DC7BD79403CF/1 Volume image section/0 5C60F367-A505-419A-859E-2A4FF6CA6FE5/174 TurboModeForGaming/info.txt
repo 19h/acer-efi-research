@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TurboModeForGaming
+Fixed: No
+Offset: 713260h
+File GUID: 8625B34E-F25D-435A-954C-DF6EFA3BBF14
+Type: 07h
+Attributes: 00h
+Full size: B8Eh (2958)
+Header size: 18h (24)
+Body size: B76h (2934)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

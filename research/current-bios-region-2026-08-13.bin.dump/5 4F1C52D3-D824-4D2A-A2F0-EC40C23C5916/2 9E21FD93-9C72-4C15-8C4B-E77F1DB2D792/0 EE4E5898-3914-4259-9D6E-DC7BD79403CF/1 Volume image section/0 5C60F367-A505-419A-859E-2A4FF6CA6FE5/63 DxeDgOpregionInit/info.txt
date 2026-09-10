@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DxeDgOpregionInit
+Fixed: No
+Offset: 22E440h
+File GUID: 121D5264-990F-4716-8061-C2144A7D4D0D
+Type: 07h
+Attributes: 00h
+Full size: C2Eh (3118)
+Header size: 18h (24)
+Body size: C16h (3094)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FDh, valid
+Data checksum: AAh, valid

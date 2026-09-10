@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerSystemStatusProtocol
+Fixed: No
+Offset: 6FC750h
+File GUID: 80BD20ED-46AC-4F66-ACBA-9A1658DB1830
+Type: 07h
+Attributes: 00h
+Full size: CDEh (3294)
+Header size: 18h (24)
+Body size: CC6h (3270)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Dh, valid
+Data checksum: AAh, valid

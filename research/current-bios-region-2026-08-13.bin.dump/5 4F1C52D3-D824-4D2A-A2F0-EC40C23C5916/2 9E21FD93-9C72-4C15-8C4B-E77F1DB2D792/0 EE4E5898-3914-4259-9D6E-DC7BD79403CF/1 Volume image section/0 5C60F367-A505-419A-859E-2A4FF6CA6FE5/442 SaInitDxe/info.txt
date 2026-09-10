@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SaInitDxe
+Fixed: No
+Offset: E37948h
+File GUID: DE23ACEE-CF55-4FB6-AA77-984AB53DE811
+Type: 07h
+Attributes: 00h
+Full size: 3FD6h (16342)
+Header size: 18h (24)
+Body size: 3FBEh (16318)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 32h, valid
+Data checksum: AAh, valid

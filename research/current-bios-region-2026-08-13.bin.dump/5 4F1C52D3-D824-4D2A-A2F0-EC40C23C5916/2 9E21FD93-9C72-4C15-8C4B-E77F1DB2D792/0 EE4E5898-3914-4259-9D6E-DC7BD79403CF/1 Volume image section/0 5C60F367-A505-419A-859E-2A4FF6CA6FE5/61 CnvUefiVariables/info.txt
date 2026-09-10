@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CnvUefiVariables
+Fixed: No
+Offset: 22B2A8h
+File GUID: 1F28B56E-D26A-48FD-9FAC-9E18A2C5BBDB
+Type: 07h
+Attributes: 00h
+Full size: 1EFEh (7934)
+Header size: 18h (24)
+Body size: 1EE6h (7910)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

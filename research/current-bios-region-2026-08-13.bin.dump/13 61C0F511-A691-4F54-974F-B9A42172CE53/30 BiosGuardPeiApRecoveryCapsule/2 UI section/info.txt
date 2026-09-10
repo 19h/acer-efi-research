@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F63044h
+Header address: FFF63044h
+Data address: FFF63048h
+Offset: 11C4h
+Type: 15h
+Full size: 40h (64)
+Header size: 4h (4)
+Body size: 3Ch (60)
+Text: BiosGuardPeiApRecoveryCapsule

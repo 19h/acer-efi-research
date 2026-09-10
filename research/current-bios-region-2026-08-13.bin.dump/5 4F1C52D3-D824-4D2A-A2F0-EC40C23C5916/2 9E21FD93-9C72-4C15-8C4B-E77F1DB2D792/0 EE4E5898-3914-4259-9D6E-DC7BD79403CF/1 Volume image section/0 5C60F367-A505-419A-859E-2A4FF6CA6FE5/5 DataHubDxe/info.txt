@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DataHubDxe
+Fixed: No
+Offset: 31A40h
+File GUID: 53BCC14F-C24F-434C-B294-8ED2D4CC1860
+Type: 07h
+Attributes: 00h
+Full size: BFEh (3070)
+Header size: 18h (24)
+Body size: BE6h (3046)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 73h, valid
+Data checksum: AAh, valid

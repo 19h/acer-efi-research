@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerSataDeviceConfigurationSetupVar
+Fixed: Yes
+Base: 1F6C6h
+Header address: FF01F6C6h
+Data address: FF01F6F5h
+Offset: 1F64Eh
+Variable GUID: A4A880FF-E3F3-4405-8723-BB34A1D2BE7A
+GUID index: 55
+Full size: 40h (64)
+Header size: 2Fh (47)
+Body size: 11h (17)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

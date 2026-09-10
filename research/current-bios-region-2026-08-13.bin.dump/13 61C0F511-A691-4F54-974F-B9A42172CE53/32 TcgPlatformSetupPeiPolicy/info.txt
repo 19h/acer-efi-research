@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: TcgPlatformSetupPeiPolicy
+Fixed: No
+Base: F63418h
+Header address: FFF63418h
+Data address: FFF63430h
+Offset: 43418h
+File GUID: 0FE9DA53-043D-4265-A94D-FD77FEDE2EB4
+Type: 06h
+Attributes: 00h
+Full size: 5CAh (1482)
+Header size: 18h (24)
+Body size: 5B2h (1458)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F6h, valid
+Data checksum: AAh, valid

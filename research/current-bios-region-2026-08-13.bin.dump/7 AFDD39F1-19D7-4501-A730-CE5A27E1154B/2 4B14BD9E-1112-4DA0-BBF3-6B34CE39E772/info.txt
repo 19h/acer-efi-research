@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Base: BCD810h
+Header address: FFBCD810h
+Data address: FFBCD828h
+Offset: 6D810h
+File GUID: 4B14BD9E-1112-4DA0-BBF3-6B34CE39E772
+Type: 02h
+Attributes: 00h
+Full size: 8ECh (2284)
+Header size: 18h (24)
+Body size: 8D4h (2260)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 93h, valid
+Data checksum: AAh, valid

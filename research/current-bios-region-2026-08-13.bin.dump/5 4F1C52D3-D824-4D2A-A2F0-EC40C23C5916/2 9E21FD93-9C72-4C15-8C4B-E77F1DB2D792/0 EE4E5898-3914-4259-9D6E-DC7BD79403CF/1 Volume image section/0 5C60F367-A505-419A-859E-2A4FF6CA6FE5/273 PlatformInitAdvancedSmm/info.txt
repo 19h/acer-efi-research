@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PlatformInitAdvancedSmm
+Fixed: No
+Offset: B16728h
+File GUID: CB73C3D9-2F01-4342-AE67-04DDE5264092
+Type: 0Ah
+Attributes: 00h
+Full size: 674Eh (26446)
+Header size: 18h (24)
+Body size: 6736h (26422)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DFh, valid
+Data checksum: AAh, valid

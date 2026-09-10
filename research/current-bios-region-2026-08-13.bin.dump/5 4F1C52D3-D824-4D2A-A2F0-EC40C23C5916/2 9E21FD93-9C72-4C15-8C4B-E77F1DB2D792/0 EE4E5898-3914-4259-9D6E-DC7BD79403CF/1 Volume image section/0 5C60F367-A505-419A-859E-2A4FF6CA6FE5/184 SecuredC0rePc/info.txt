@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SecuredC0rePc
+Fixed: No
+Offset: 726048h
+File GUID: 74D568BC-3B5A-404F-97B7-0CD33A833EFE
+Type: 07h
+Attributes: 00h
+Full size: C32h (3122)
+Header size: 18h (24)
+Body size: C1Ah (3098)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 04h, valid
+Data checksum: AAh, valid

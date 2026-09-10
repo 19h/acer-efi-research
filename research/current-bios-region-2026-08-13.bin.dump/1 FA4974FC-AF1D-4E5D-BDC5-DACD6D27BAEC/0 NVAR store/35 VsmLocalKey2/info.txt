@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: VsmLocalKey2
+Fixed: Yes
+Base: 3DC3Ch
+Header address: FF03DC3Ch
+Data address: FF03DC54h
+Offset: DBC4h
+Variable GUID: 77FA9ABD-0359-4D32-BD60-28F4E78F784B
+GUID index: 9
+Full size: EAh (234)
+Header size: 18h (24)
+Body size: D2h (210)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

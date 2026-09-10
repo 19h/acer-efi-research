@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: WRDD
+Fixed: Yes
+Base: 3E17Dh
+Header address: FF03E17Dh
+Data address: FF03E18Dh
+Offset: E105h
+Variable GUID: 92DAAF2F-C02B-455B-B2EC-F5A3594F4AEA
+GUID index: 25
+Full size: 13h (19)
+Header size: 10h (16)
+Body size: 3h (3)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

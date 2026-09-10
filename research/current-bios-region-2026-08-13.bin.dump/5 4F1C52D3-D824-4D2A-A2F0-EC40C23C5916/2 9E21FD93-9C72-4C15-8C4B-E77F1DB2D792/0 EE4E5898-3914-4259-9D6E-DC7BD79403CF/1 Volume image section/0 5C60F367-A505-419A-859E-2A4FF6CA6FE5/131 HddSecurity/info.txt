@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HddSecurity
+Fixed: No
+Offset: 4CB598h
+File GUID: A9B700CF-019E-4D8B-A3A7-88E1EA01699E
+Type: 07h
+Attributes: 00h
+Full size: 84A2h (33954)
+Header size: 18h (24)
+Body size: 848Ah (33930)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 88h, valid
+Data checksum: AAh, valid

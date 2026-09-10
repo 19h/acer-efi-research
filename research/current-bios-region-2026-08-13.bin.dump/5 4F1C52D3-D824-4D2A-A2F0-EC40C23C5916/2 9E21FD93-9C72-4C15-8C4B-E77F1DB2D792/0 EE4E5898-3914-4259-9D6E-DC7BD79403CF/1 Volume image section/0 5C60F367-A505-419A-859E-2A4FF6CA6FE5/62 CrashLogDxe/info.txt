@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CrashLogDxe
+Fixed: No
+Offset: 22D1A8h
+File GUID: 4B63A5D4-CB08-47CD-AFD9-BEA33A30F313
+Type: 07h
+Attributes: 00h
+Full size: 1296h (4758)
+Header size: 18h (24)
+Body size: 127Eh (4734)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: CmosSmm
+Fixed: No
+Offset: B6D058h
+File GUID: F44875AB-B9FC-4578-A280-AA335B49967C
+Type: 0Ah
+Attributes: 00h
+Full size: 389Eh (14494)
+Header size: 18h (24)
+Body size: 3886h (14470)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Dh, valid
+Data checksum: AAh, valid

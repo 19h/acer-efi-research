@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CpuIo2Dxe
+Fixed: No
+Offset: FA64E8h
+File GUID: A19B1FE7-C1BC-49F8-875F-54A5D542443F
+Type: 07h
+Attributes: 00h
+Full size: 95Ah (2394)
+Header size: 18h (24)
+Body size: 942h (2370)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Dh, valid
+Data checksum: AAh, valid

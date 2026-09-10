@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PpamPlatformSmm
+Fixed: No
+Offset: B14268h
+File GUID: 91D211BF-37C2-495A-8DF7-9546BD2555C0
+Type: 0Ah
+Attributes: 00h
+Full size: 24BEh (9406)
+Header size: 18h (24)
+Body size: 24A6h (9382)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

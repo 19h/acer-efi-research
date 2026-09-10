@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HidKeyboardDxe
+Fixed: No
+Offset: 792ED8h
+File GUID: 043A3340-7CD0-4338-B7FE-7A6AEB790A28
+Type: 07h
+Attributes: 00h
+Full size: 386Ah (14442)
+Header size: 18h (24)
+Body size: 3852h (14418)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B0h, valid
+Data checksum: AAh, valid

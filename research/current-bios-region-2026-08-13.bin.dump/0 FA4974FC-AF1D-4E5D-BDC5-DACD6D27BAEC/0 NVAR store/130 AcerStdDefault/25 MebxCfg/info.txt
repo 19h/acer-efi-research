@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: MebxCfg
+Fixed: Yes
+Base: 23A68h
+Header address: FF023A68h
+Data address: FF023A7Bh
+Offset: 23BAh
+Variable GUID: ED6D18B3-16BD-40D8-8950-F0C592F6FA16
+GUID index: 19
+Full size: 2B0Bh (11019)
+Header size: 13h (19)
+Body size: 2AF8h (11000)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

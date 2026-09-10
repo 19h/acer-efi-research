@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SerialIo
+Fixed: No
+Offset: 7CF3D0h
+File GUID: 97C81E5D-8FA0-486A-AAEA-0EFDF090FE4F
+Type: 07h
+Attributes: 00h
+Full size: 45FEh (17918)
+Header size: 18h (24)
+Body size: 45E6h (17894)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Fh, valid
+Data checksum: AAh, valid

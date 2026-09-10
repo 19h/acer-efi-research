@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TlsDxe
+Fixed: No
+Offset: 7DDF30h
+File GUID: 3ACEB0C0-3C72-11E4-9A56-74D435052646
+Type: 07h
+Attributes: 00h
+Full size: 1852FEh (1594110)
+Header size: 18h (24)
+Body size: 1852E6h (1594086)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 98h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: TcgSmm
+Fixed: No
+Offset: BA5660h
+File GUID: FD93F9E1-3C73-46E0-B7B8-2BBA3F718F6C
+Type: 0Ah
+Attributes: 00h
+Full size: 18AEh (6318)
+Header size: 18h (24)
+Body size: 1896h (6294)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F2h, valid
+Data checksum: AAh, valid

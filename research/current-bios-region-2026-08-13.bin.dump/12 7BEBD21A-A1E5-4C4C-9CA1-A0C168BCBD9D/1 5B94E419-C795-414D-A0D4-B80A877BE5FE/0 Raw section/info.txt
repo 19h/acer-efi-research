@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: F10140h
+Header address: FFF10140h
+Data address: FFF10144h
+Offset: 18h
+Type: 19h
+Full size: 4h (4)
+Header size: 4h (4)
+Body size: 0h (0)

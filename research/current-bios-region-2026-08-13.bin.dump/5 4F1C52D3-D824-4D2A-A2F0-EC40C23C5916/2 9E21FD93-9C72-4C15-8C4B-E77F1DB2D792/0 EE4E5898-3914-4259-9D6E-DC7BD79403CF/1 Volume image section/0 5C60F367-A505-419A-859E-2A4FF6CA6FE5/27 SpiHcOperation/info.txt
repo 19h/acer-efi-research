@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SpiHcOperation
+Fixed: No
+Offset: 98998h
+File GUID: 7612F7CE-C685-465A-91D4-D12F9E933383
+Type: 07h
+Attributes: 00h
+Full size: DE6h (3558)
+Header size: 18h (24)
+Body size: DCEh (3534)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

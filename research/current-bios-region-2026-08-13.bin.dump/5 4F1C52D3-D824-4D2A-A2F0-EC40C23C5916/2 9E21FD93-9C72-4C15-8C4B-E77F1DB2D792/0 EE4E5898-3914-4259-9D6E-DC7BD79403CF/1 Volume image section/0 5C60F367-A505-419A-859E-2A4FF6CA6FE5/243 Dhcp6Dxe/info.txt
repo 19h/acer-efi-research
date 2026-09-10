@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Dhcp6Dxe
+Fixed: No
+Offset: 9ED130h
+File GUID: 95E3669D-34BE-4775-A651-7EA41B69D89E
+Type: 07h
+Attributes: 00h
+Full size: 7F42h (32578)
+Header size: 18h (24)
+Body size: 7F2Ah (32554)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FCh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: 10EF998h
+File GUID: FBF95065-427F-47B3-8077-D13C60710998
+Type: 02h
+Attributes: 00h
+Full size: EF1h (3825)
+Header size: 18h (24)
+Body size: ED9h (3801)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

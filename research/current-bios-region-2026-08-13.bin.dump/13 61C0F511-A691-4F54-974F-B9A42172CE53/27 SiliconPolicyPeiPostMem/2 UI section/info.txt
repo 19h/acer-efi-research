@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F5EBB4h
+Header address: FFF5EBB4h
+Data address: FFF5EBB8h
+Offset: 9A64h
+Type: 15h
+Full size: 34h (52)
+Header size: 4h (4)
+Body size: 30h (48)
+Text: SiliconPolicyPeiPostMem

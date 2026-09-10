@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspNotifyPhasePeim
+Fixed: No
+Base: D42AF0h
+Header address: FFD42AF0h
+Data address: FFD42B08h
+Offset: 32A80h
+File GUID: 29CBB005-C972-49F3-960F-292E2202CECD
+Type: 06h
+Attributes: 00h
+Full size: 523h (1315)
+Header size: 18h (24)
+Body size: 50Bh (1291)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F7h, valid
+Data checksum: AAh, valid

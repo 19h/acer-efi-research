@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FlashSmiDxe
+Fixed: No
+Offset: 752650h
+File GUID: 755877A6-4F10-4A5C-9B2E-852123B9682C
+Type: 07h
+Attributes: 00h
+Full size: 206Eh (8302)
+Header size: 18h (24)
+Body size: 2056h (8278)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Dh, valid
+Data checksum: AAh, valid

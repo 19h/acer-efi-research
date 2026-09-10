@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MrcHealthDataInit
+Fixed: No
+Offset: 27DD28h
+File GUID: 4A64C620-1CEF-40A0-BE1C-EED6B20ECCE9
+Type: 07h
+Attributes: 00h
+Full size: D0Eh (3342)
+Header size: 18h (24)
+Body size: CF6h (3318)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Ch, valid
+Data checksum: AAh, valid

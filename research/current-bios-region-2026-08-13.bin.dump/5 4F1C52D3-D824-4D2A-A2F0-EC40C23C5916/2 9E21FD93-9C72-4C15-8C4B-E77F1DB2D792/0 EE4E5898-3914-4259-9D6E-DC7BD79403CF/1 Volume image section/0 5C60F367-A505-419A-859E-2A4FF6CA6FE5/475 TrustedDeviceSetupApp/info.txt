@@ -1,0 +1,15 @@
+Type: File
+Subtype: Application
+Text: TrustedDeviceSetupApp
+Fixed: No
+Offset: FB65A0h
+File GUID: 658D56F0-4364-4721-B70E-732DDC8A2771
+Type: 09h
+Attributes: 00h
+Full size: B30Ch (45836)
+Header size: 18h (24)
+Body size: B2F4h (45812)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Eh, valid
+Data checksum: AAh, valid

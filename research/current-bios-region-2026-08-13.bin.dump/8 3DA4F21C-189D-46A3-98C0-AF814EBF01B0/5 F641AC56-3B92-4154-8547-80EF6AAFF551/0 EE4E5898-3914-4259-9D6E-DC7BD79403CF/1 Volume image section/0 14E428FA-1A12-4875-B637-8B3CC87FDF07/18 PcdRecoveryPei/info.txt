@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: PcdRecoveryPei
+Fixed: No
+Offset: 38460h
+File GUID: 1C98780A-C67D-4D9B-A9D8-4AC0487A6D6E
+Type: 06h
+Attributes: 00h
+Full size: 44Ah (1098)
+Header size: 18h (24)
+Body size: 432h (1074)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 23h, valid
+Data checksum: AAh, valid

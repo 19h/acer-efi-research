@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NvramDxe
+Fixed: No
+Offset: DE8C70h
+File GUID: 1807040D-5934-41A2-A088-8E0F777F71AB
+Type: 07h
+Attributes: 00h
+Full size: 1366Ah (79466)
+Header size: 18h (24)
+Body size: 13652h (79442)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

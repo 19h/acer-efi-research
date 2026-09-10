@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HidAbsolutePointer
+Fixed: No
+Offset: 796748h
+File GUID: 25CA4430-495D-42EF-8157-4D0AE2124862
+Type: 07h
+Attributes: 00h
+Full size: 15D2h (5586)
+Header size: 18h (24)
+Body size: 15BAh (5562)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

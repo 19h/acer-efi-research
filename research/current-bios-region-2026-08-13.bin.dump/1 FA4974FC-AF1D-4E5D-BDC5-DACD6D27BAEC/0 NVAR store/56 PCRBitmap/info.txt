@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: PCRBitmap
+Fixed: Yes
+Base: 3E0E7h
+Header address: FF03E0E7h
+Data address: FF03E0FCh
+Offset: E06Fh
+Variable GUID: 70FFF0FF-A543-45B9-8BE3-1BDB90412080
+GUID index: 23
+Full size: 29h (41)
+Header size: 15h (21)
+Body size: 14h (20)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

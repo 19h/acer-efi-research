@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SkipStoragePwdPrompt
+Fixed: No
+Offset: 9B1E8h
+File GUID: 231CDC65-129E-4870-A882-79244127BDE3
+Type: 07h
+Attributes: 00h
+Full size: 732h (1842)
+Header size: 18h (24)
+Body size: 71Ah (1818)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 09h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: Yes
+Base: FA9878h
+Header address: FFFA9878h
+Data address: FFFA987Ch
+Offset: 18h
+Type: 19h
+Full size: 5036h (20534)
+Header size: 4h (4)
+Body size: 5032h (20530)

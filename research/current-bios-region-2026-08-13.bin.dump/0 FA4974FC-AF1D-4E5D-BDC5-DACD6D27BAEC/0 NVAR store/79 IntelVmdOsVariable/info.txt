@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: IntelVmdOsVariable
+Fixed: Yes
+Base: 1E385h
+Header address: FF01E385h
+Data address: FF01E3A3h
+Offset: 1E30Dh
+Variable GUID: 61A14FE8-4DAB-4A19-B1E3-97FB23D09212
+GUID index: 36
+Full size: 5Eh (94)
+Header size: 1Eh (30)
+Body size: 40h (64)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerUsbDeviceConfigurationSetupVar
+Fixed: Yes
+Base: 23992h
+Header address: FF023992h
+Data address: FF0239C0h
+Offset: 22E4h
+Variable GUID: 8007A20B-2BB6-4102-9B29-8390C7DD2096
+GUID index: 16
+Full size: 4Ch (76)
+Header size: 2Eh (46)
+Body size: 1Eh (30)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

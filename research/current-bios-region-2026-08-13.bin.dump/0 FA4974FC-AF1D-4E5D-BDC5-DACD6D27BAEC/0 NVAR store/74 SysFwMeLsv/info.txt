@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SysFwMeLsv
+Fixed: Yes
+Base: 1DADBh
+Header address: FF01DADBh
+Data address: FF01DAF1h
+Offset: 1DA63h
+Variable GUID: 269BD1ED-2BC6-4979-B682-D9C8F5533DDF
+GUID index: 31
+Full size: 1Ah (26)
+Header size: 16h (22)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

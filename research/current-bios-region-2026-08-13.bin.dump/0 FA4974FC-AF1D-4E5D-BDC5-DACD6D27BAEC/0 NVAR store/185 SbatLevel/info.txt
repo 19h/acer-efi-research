@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SbatLevel
+Fixed: Yes
+Base: 2765Fh
+Header address: FF02765Fh
+Data address: FF027674h
+Offset: 275E7h
+Variable GUID: 605DAB50-E046-4300-ABB6-3DD810DD8B23
+GUID index: 67
+Full size: 27h (39)
+Header size: 15h (21)
+Body size: 12h (18)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

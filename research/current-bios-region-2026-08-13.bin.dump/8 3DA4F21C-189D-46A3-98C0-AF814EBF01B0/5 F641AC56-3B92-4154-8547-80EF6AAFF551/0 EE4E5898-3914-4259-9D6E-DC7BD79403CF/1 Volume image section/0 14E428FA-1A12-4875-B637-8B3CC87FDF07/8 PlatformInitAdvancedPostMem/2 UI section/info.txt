@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 6478h
+Type: 15h
+Full size: 3Ch (60)
+Header size: 4h (4)
+Body size: 38h (56)
+Text: PlatformInitAdvancedPostMem

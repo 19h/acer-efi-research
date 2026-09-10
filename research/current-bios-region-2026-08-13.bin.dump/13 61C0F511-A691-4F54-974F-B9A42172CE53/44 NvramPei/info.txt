@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: NvramPei
+Fixed: No
+Base: F74430h
+Header address: FFF74430h
+Data address: FFF74448h
+Offset: 54430h
+File GUID: 838DCF34-907B-4D55-9A4B-A0EF7167B5F4
+Type: 06h
+Attributes: 00h
+Full size: 265Ah (9818)
+Header size: 18h (24)
+Body size: 2642h (9794)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C5h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: WRDS
+Fixed: Yes
+Base: E190h
+Header address: FF00E190h
+Data address: FF00E1A0h
+Offset: E118h
+Variable GUID: 92DAAF2F-C02B-455B-B2EC-F5A3594F4AEA
+GUID index: 25
+Full size: 1Ch (28)
+Header size: 10h (16)
+Body size: Ch (12)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,12 @@
+Type: NVAR entry
+Subtype: Invalid
+Fixed: Yes
+Base: 273D2h
+Header address: FF0273D2h
+Data address: FF0273DCh
+Offset: 2735Ah
+Full size: 154h (340)
+Header size: Ah (10)
+Body size: 14Ah (330)
+Tail size: 0h (0)
+Attributes: 23h (Runtime, AsciiName, HwErrorRecord)

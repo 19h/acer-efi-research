@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NhltInstallTable
+Fixed: No
+Offset: 774148h
+File GUID: 1009A840-C625-42B3-A94B-B90F991B1B1A
+Type: 07h
+Attributes: 00h
+Full size: 1002h (4098)
+Header size: 18h (24)
+Body size: FEAh (4074)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 61h, valid
+Data checksum: AAh, valid

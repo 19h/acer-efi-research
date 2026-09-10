@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: UIT_DATA
+Fixed: Yes
+Base: 4EABDh
+Header address: FF04EABDh
+Data address: FF04EAD1h
+Offset: 1EA45h
+Variable GUID: FE47349A-7F0D-4641-822B-34BAA28ECDD0
+GUID index: 43
+Full size: 2Fh (47)
+Header size: 14h (20)
+Body size: 1Bh (27)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F6399Ch
+Header address: FFF6399Ch
+Data address: FFF639A0h
+Offset: 584h
+Type: 15h
+Full size: 38h (56)
+Header size: 4h (4)
+Body size: 34h (52)
+Text: TcgPlatformSetupPeiPolicy

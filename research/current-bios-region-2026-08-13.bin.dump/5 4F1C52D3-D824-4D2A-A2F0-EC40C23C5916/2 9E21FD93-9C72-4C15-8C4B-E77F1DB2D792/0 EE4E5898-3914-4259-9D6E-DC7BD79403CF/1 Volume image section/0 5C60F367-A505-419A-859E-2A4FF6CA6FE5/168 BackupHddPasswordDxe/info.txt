@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BackupHddPasswordDxe
+Fixed: No
+Offset: 708908h
+File GUID: FE3CE4C1-905C-4085-A7A0-38DEFE4178D2
+Type: 07h
+Attributes: 00h
+Full size: 17B2h (6066)
+Header size: 18h (24)
+Body size: 179Ah (6042)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

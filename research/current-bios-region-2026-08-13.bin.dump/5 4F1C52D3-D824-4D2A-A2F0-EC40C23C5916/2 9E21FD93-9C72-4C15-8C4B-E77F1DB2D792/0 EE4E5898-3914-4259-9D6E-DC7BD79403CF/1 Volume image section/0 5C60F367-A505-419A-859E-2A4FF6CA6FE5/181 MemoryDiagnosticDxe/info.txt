@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MemoryDiagnosticDxe
+Fixed: No
+Offset: 7201A8h
+File GUID: AA40B708-9073-4436-B5FE-D22D7ABBA5C4
+Type: 07h
+Attributes: 00h
+Full size: 44B6h (17590)
+Header size: 18h (24)
+Body size: 449Eh (17566)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 89h, valid
+Data checksum: AAh, valid

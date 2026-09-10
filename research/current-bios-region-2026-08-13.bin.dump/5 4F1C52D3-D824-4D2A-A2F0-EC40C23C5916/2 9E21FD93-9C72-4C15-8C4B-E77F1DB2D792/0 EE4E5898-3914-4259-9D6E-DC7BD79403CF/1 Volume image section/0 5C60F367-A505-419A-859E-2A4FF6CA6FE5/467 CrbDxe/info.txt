@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CrbDxe
+Fixed: No
+Offset: FA6E48h
+File GUID: 16271FCA-55D9-4A33-93FC-5A3EB128DEB6
+Type: 07h
+Attributes: 00h
+Full size: 10F6h (4342)
+Header size: 18h (24)
+Body size: 10DEh (4318)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: CountrySupport
+Fixed: Yes
+Base: 1E345h
+Header address: FF01E345h
+Data address: FF01E35Fh
+Offset: 1E2CDh
+Variable GUID: D838C8F7-8D9A-46B1-BBD6-27C6C4277179
+GUID index: 34
+Full size: 1Ch (28)
+Header size: 1Ah (26)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

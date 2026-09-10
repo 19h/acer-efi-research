@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: BCD828h
+Header address: FFBCD828h
+Data address: FFBCD82Ch
+Offset: 18h
+Type: 19h
+Full size: 8D4h (2260)
+Header size: 4h (4)
+Body size: 8D0h (2256)

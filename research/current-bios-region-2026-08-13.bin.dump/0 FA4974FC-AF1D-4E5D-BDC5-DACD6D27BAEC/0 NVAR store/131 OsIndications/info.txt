@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: OsIndications
+Fixed: Yes
+Base: 266C3h
+Header address: FF0266C3h
+Data address: FF0266DCh
+Offset: 2664Bh
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 5
+Full size: 21h (33)
+Header size: 19h (25)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

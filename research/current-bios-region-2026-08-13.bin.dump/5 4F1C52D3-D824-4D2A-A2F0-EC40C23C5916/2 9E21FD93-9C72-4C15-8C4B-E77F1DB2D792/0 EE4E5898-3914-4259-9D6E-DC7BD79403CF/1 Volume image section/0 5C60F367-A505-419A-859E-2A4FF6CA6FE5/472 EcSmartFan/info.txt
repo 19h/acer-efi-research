@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EcSmartFan
+Fixed: No
+Offset: FA96B8h
+File GUID: 4F1FDBEA-59D9-4AD9-9EED-82F07743FF02
+Type: 07h
+Attributes: 00h
+Full size: 9A2h (2466)
+Header size: 18h (24)
+Body size: 98Ah (2442)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

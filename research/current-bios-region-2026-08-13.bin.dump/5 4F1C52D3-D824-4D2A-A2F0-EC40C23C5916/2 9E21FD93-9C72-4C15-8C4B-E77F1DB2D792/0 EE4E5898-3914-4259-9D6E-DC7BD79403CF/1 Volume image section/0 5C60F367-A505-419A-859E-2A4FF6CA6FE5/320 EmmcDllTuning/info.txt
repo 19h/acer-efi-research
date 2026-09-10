@@ -1,0 +1,15 @@
+Type: File
+Subtype: Application
+Text: EmmcDllTuning
+Fixed: No
+Offset: C05C00h
+File GUID: BF7862C9-CDFF-4261-8385-B61916CD2E9A
+Type: 09h
+Attributes: 00h
+Full size: A68Ah (42634)
+Header size: 18h (24)
+Body size: A672h (42610)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 74h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PciHostBridgeDxe
+Fixed: No
+Offset: 65110h
+File GUID: 128FB770-5E79-4176-9E51-9BB268A17DD1
+Type: 07h
+Attributes: 00h
+Full size: 3F4Eh (16206)
+Header size: 18h (24)
+Body size: 3F36h (16182)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

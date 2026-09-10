@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcpiResetVar
+Fixed: Yes
+Base: 4FA63h
+Header address: FF04FA63h
+Data address: FF04FA7Bh
+Offset: 1F9EBh
+Variable GUID: 01368881-C4AD-4B1D-B631-D57A8EC8DB6B
+GUID index: 15
+Full size: 28h (40)
+Header size: 18h (24)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PchSmiDispatcher
+Fixed: No
+Offset: E2BE80h
+File GUID: B0D6ED53-B844-43F5-BD2F-61095264E77E
+Type: 0Ah
+Attributes: 00h
+Full size: 8EFAh (36602)
+Header size: 18h (24)
+Body size: 8EE2h (36578)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 03h, valid
+Data checksum: AAh, valid

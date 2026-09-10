@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: DC8694h
+Header address: FFDC8694h
+Data address: FFDC8698h
+Offset: 804h
+Type: 15h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Text: ResetSystemPei

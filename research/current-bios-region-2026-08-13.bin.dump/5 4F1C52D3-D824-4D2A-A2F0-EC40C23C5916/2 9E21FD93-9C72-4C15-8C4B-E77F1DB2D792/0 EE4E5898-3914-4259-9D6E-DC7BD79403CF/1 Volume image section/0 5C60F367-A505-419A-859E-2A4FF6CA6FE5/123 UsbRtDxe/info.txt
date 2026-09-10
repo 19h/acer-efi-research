@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UsbRtDxe
+Fixed: No
+Offset: 48FE00h
+File GUID: 171F43DC-C4D9-47A6-9641-65DDCDD5AA30
+Type: 07h
+Attributes: 00h
+Full size: 1CA0Ah (117258)
+Header size: 18h (24)
+Body size: 1C9F2h (117234)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: F15EA8h
+Address: FFF15EA8h
+Offset: 5EA8h
+Full size: A158h (41304)

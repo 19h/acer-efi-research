@@ -1,0 +1,8 @@
+Type: NVAR GUID store
+Subtype: 
+Fixed: Yes
+Base: FAE89Eh
+Address: FFFAE89Eh
+Offset: 5026h
+Full size: 10h (16)
+GUIDs in store: 1

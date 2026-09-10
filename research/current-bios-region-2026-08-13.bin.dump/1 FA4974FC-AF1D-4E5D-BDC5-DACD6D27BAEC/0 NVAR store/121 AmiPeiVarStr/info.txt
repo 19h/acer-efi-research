@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AmiPeiVarStr
+Fixed: Yes
+Base: 4FB55h
+Header address: FF04FB55h
+Data address: FF04FB6Dh
+Offset: 1FADDh
+Variable GUID: 01368881-C4AD-4B1D-B631-D57A8EC8DB6B
+GUID index: 15
+Full size: 50Ah (1290)
+Header size: 18h (24)
+Body size: 4F2h (1266)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

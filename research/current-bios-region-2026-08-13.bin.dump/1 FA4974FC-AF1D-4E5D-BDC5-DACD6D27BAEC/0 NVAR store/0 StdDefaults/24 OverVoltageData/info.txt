@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: OverVoltageData
+Fixed: Yes
+Base: 32418h
+Header address: FF032418h
+Data address: FF032433h
+Offset: 2388h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: 2Fh (47)
+Header size: 1Bh (27)
+Body size: 14h (20)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

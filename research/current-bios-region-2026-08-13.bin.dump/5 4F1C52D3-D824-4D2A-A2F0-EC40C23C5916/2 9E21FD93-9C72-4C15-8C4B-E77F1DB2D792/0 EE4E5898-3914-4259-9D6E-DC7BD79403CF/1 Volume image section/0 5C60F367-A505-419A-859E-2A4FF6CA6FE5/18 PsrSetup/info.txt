@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PsrSetup
+Fixed: No
+Offset: 84B98h
+File GUID: FE1F75AF-3647-4422-A7E1-ABD64520D904
+Type: 07h
+Attributes: 00h
+Full size: 8F76h (36726)
+Header size: 18h (24)
+Body size: 8F5Eh (36702)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 85h, valid
+Data checksum: AAh, valid

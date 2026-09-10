@@ -1,0 +1,19 @@
+Type: NVAR entry
+Subtype: Full
+Text: CurrentPolicy
+Fixed: Yes
+Base: 793Bh
+Header address: FF00793Bh
+Data address: FF007954h
+Offset: 78C3h
+Variable GUID: 77FA9ABD-0359-4D32-BD60-28F4E78F784B
+GUID index: 9
+Full size: 45h (69)
+Header size: 19h (25)
+Body size: 1h (1)
+Tail size: 2Bh (43)
+Attributes: D3h (Runtime, AsciiName, ExtHeader, AuthWrite, Valid)
+Extended header size: 2Bh (43)
+Extended attributes: 20h (TimeBasedAuthWrite)
+Timestamp: 57D98020h
+Hash: 2257af2bf23b0d30517ffcc00447860c85ea29bb5a948645efc4bc97157d344f

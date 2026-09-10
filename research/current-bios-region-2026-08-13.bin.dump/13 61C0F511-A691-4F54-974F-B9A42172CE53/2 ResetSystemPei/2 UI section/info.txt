@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F2093Ch
+Header address: FFF2093Ch
+Data address: FFF20940h
+Offset: 7B4h
+Type: 15h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Text: ResetSystemPei

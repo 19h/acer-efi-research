@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: StoreBrandNumber
+Fixed: No
+Offset: 6FDE20h
+File GUID: 58885256-1655-42E7-9B9C-7B2DE6245DD0
+Type: 07h
+Attributes: 00h
+Full size: EDAh (3802)
+Header size: 18h (24)
+Body size: EC2h (3778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DFh, valid
+Data checksum: AAh, valid

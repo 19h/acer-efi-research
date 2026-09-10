@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcousticVarName
+Fixed: Yes
+Base: DF60h
+Header address: FF00DF60h
+Data address: FF00DF7Bh
+Offset: DEE8h
+Variable GUID: 4B63986C-20B3-49C6-91A8-8A1B968D5AB3
+GUID index: 17
+Full size: 74h (116)
+Header size: 1Bh (27)
+Body size: 59h (89)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

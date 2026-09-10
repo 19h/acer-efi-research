@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: DxeIpl
+Fixed: No
+Base: D10638h
+Header address: FFD10638h
+Data address: FFD10650h
+Offset: 5C8h
+File GUID: 86D70125-BAA3-4296-A62F-602BEBBB9081
+Type: 06h
+Attributes: 00h
+Full size: 252Ah (9514)
+Header size: 18h (24)
+Body size: 2512h (9490)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DCh, valid
+Data checksum: AAh, valid

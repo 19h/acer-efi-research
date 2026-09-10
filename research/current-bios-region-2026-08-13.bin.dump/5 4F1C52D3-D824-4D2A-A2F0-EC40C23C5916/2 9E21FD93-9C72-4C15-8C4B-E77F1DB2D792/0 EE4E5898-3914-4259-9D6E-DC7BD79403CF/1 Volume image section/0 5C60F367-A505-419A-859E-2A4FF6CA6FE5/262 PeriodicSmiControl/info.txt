@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PeriodicSmiControl
+Fixed: No
+Offset: ADAAD8h
+File GUID: 87EA012D-CBAD-44C1-8431-61193A060941
+Type: 0Ah
+Attributes: 00h
+Full size: 1AB6h (6838)
+Header size: 18h (24)
+Body size: 1A9Eh (6814)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 51h, valid
+Data checksum: AAh, valid

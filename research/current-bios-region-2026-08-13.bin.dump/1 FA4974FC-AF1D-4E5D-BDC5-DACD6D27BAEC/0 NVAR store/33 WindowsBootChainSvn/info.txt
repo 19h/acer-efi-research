@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: WindowsBootChainSvn
+Fixed: Yes
+Base: 3DBF4h
+Header address: FF03DBF4h
+Data address: FF03DC13h
+Offset: DB7Ch
+Variable GUID: 77FA9ABD-0359-4D32-BD60-28F4E78F784B
+GUID index: 9
+Full size: 23h (35)
+Header size: 1Fh (31)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: D46B20h
+File GUID: 67C03301-61E1-4899-8FDA-E72753483629
+Type: 02h
+Attributes: 00h
+Full size: 8E72Fh (583471)
+Header size: 18h (24)
+Body size: 8E717h (583447)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

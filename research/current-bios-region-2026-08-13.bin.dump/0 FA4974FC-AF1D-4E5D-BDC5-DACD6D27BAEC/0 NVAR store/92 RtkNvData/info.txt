@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: RtkNvData
+Fixed: Yes
+Base: 1ED0Ch
+Header address: FF01ED0Ch
+Data address: FF01ED21h
+Offset: 1EC94h
+Variable GUID: CEE81408-4764-4314-AB17-5D61691BDA1F
+GUID index: 46
+Full size: 7F3h (2035)
+Header size: 15h (21)
+Body size: 7DEh (2014)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

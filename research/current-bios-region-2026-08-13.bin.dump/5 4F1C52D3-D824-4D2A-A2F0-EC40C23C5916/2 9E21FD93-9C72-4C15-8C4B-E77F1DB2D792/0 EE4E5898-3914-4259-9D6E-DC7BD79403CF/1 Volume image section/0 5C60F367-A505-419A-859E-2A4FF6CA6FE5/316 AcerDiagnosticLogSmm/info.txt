@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AcerDiagnosticLogSmm
+Fixed: No
+Offset: BF9478h
+File GUID: 25E31BC6-12B1-4492-856F-40F8BAC33D90
+Type: 0Ah
+Attributes: 00h
+Full size: 5AEEh (23278)
+Header size: 18h (24)
+Body size: 5AD6h (23254)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B6h, valid
+Data checksum: AAh, valid

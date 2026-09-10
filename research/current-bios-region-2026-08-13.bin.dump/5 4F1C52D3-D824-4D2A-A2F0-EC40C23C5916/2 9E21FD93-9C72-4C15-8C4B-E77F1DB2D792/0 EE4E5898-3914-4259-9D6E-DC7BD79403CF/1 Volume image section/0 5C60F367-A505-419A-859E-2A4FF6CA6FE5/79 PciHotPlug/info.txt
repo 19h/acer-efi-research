@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PciHotPlug
+Fixed: No
+Offset: 259840h
+File GUID: 3022E512-B94A-4F12-806D-7EF1177899D8
+Type: 07h
+Attributes: 00h
+Full size: A02Eh (41006)
+Header size: 18h (24)
+Body size: A016h (40982)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 22h, valid
+Data checksum: AAh, valid

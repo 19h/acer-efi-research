@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformFirmwareVersionDxe
+Fixed: No
+Offset: 27F590h
+File GUID: 9F83F5ED-F407-4BD3-9B16-DC27A7016BBD
+Type: 07h
+Attributes: 00h
+Full size: 1422h (5154)
+Header size: 18h (24)
+Body size: 140Ah (5130)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 22h, valid
+Data checksum: AAh, valid

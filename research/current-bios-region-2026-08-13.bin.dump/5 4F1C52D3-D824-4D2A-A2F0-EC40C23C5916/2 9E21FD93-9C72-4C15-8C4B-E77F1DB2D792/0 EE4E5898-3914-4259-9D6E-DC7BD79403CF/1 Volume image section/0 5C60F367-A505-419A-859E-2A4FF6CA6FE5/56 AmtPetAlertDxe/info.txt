@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtPetAlertDxe
+Fixed: No
+Offset: FE618h
+File GUID: 290EA249-6E88-423C-B0DA-75CDDE7920CC
+Type: 07h
+Attributes: 00h
+Full size: 39F2h (14834)
+Header size: 18h (24)
+Body size: 39DAh (14810)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 29h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SecFlashUpdDXE
+Fixed: No
+Offset: 4ECBD8h
+File GUID: AD3D267D-50E1-4B94-95D3-1025EF5B8391
+Type: 07h
+Attributes: 00h
+Full size: 1CAAh (7338)
+Header size: 18h (24)
+Body size: 1C92h (7314)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

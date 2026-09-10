@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmbusSmm
+Fixed: No
+Offset: AF8998h
+File GUID: 59287178-59B2-49CA-BC63-532B12EA2C53
+Type: 0Ah
+Attributes: 00h
+Full size: 1A8Eh (6798)
+Header size: 18h (24)
+Body size: 1A76h (6774)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AEh, valid
+Data checksum: AAh, valid

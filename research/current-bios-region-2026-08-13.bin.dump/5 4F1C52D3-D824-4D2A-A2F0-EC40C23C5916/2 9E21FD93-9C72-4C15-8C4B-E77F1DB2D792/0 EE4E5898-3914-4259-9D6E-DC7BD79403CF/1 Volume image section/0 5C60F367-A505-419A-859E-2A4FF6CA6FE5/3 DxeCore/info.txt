@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE core
+Text: DxeCore
+Fixed: No
+Offset: 1D40h
+File GUID: D6A2CB7F-6A18-4E2F-B43B-9920A733700A
+Type: 05h
+Attributes: 00h
+Full size: C78Eh (51086)
+Header size: 18h (24)
+Body size: C776h (51062)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E9h, valid
+Data checksum: AAh, valid

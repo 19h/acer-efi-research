@@ -1,0 +1,12 @@
+Type: NVAR entry
+Subtype: Full
+Text: SiSetup
+Fixed: Yes
+Offset: 2128h
+Variable GUID: AAF8E719-48F8-4099-A6F7-645FBD694C3D
+GUID index: 8
+Full size: 1Ah (26)
+Header size: 13h (19)
+Body size: 7h (7)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

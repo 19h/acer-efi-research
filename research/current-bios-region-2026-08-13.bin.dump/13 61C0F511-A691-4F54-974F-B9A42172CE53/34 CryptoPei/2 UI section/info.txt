@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F6574Ch
+Header address: FFF6574Ch
+Data address: FFF65750h
+Offset: FE4h
+Type: 15h
+Full size: 18h (24)
+Header size: 4h (4)
+Body size: 14h (20)
+Text: CryptoPei

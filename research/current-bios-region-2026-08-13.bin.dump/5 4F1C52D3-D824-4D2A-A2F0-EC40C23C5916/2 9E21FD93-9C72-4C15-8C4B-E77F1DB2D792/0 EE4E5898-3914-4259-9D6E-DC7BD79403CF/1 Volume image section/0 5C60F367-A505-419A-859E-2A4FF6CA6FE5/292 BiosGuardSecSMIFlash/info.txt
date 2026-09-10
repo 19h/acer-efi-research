@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: BiosGuardSecSMIFlash
+Fixed: No
+Offset: B774F8h
+File GUID: 619C2B94-FE5A-45C3-B445-C6AF9BDD7CE0
+Type: 0Ah
+Attributes: 00h
+Full size: 9CDEh (40158)
+Header size: 18h (24)
+Body size: 9CC6h (40134)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Eh, valid
+Data checksum: AAh, valid

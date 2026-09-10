@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: DeploymentModeNv
+Fixed: Yes
+Base: 50A2h
+Header address: FF0050A2h
+Data address: FF0050BEh
+Offset: 502Ah
+Variable GUID: 97E8965F-C761-4F48-B6E4-9FFA9CB2A2D6
+GUID index: 1
+Full size: 1Dh (29)
+Header size: 1Ch (28)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

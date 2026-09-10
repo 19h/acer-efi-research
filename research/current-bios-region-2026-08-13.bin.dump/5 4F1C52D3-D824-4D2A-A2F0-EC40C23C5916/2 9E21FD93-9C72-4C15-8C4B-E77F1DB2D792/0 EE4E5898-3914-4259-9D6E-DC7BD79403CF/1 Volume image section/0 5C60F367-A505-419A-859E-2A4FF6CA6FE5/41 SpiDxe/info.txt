@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SpiDxe
+Fixed: No
+Offset: C1700h
+File GUID: 3C4836AE-B24B-40E3-B24B-9448ED095BFE
+Type: 07h
+Attributes: 00h
+Full size: F06h (3846)
+Header size: 18h (24)
+Body size: EEEh (3822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 34h, valid
+Data checksum: AAh, valid

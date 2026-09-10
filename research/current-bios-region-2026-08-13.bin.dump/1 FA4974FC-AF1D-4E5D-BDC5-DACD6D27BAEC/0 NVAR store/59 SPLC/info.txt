@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SPLC
+Fixed: Yes
+Base: 3E14Dh
+Header address: FF03E14Dh
+Data address: FF03E15Dh
+Offset: E0D5h
+Variable GUID: 92DAAF2F-C02B-455B-B2EC-F5A3594F4AEA
+GUID index: 25
+Full size: 19h (25)
+Header size: 10h (16)
+Body size: 9h (9)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

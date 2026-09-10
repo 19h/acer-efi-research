@@ -1,0 +1,12 @@
+Type: NVAR entry
+Subtype: Full
+Text: LpeSetup
+Fixed: Yes
+Offset: 2142h
+Variable GUID: B5FBE0C8-A72A-408D-859C-0FD7537AAA5F
+GUID index: 9
+Full size: 20h (32)
+Header size: 14h (20)
+Body size: Ch (12)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: CryptoSMM
+Fixed: No
+Offset: B24CF8h
+File GUID: 2AD511C7-1B60-4002-841D-2998DDC138EE
+Type: 0Ah
+Attributes: 00h
+Full size: F28Eh (62094)
+Header size: 18h (24)
+Body size: F276h (62070)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

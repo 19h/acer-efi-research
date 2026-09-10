@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BootDebugPolicyApplied
+Fixed: Yes
+Base: DD46h
+Header address: FF00DD46h
+Data address: FF00DD68h
+Offset: DCCEh
+Variable GUID: 77FA9ABD-0359-4D32-BD60-28F4E78F784B
+GUID index: 9
+Full size: 23h (35)
+Header size: 22h (34)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

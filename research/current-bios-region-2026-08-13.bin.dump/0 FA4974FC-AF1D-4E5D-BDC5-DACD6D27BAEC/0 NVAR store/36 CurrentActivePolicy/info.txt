@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: CurrentActivePolicy
+Fixed: Yes
+Base: DD26h
+Header address: FF00DD26h
+Data address: FF00DD45h
+Offset: DCAEh
+Variable GUID: 77FA9ABD-0359-4D32-BD60-28F4E78F784B
+GUID index: 9
+Full size: 20h (32)
+Header size: 1Fh (31)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

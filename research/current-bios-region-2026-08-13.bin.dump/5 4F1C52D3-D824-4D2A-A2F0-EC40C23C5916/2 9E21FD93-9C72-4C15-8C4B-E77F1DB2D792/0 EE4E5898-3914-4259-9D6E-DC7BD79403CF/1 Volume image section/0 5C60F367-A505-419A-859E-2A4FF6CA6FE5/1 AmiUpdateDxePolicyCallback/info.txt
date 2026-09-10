@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiUpdateDxePolicyCallback
+Fixed: No
+Offset: 138h
+File GUID: CB2987B9-63AE-4B91-BF43-21FF641A5D49
+Type: 07h
+Attributes: 00h
+Full size: ADEh (2782)
+Header size: 18h (24)
+Body size: AC6h (2758)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

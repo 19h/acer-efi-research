@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AMTLockUsbKBD
+Fixed: No
+Offset: B1CE78h
+File GUID: 9173C39B-08DA-429A-BE15-0F7481CF72CE
+Type: 0Ah
+Attributes: 00h
+Full size: 18BAh (6330)
+Header size: 18h (24)
+Body size: 18A2h (6306)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F213DCh
+Header address: FFF213DCh
+Data address: FFF213E0h
+Offset: 3E4h
+Type: 15h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Text: AmtStatusCodePei

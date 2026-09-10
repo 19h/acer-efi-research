@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmGenericSio
+Fixed: No
+Offset: B39CC8h
+File GUID: 2486829B-D3F3-47EC-827A-FC104907FC5C
+Type: 0Ah
+Attributes: 00h
+Full size: 30AAh (12458)
+Header size: 18h (24)
+Body size: 3092h (12434)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ACh, valid
+Data checksum: AAh, valid

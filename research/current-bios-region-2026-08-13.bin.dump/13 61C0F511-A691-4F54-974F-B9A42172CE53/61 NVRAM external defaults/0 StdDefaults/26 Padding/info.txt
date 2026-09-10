@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Empty (FFh)
+Fixed: Yes
+Base: FA8D2Ah
+Address: FFFA8D2Ah
+Offset: 4EC2h
+Full size: 10h (16)

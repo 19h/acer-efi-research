@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmTcgStorageSec
+Fixed: No
+Offset: BA8DD0h
+File GUID: 6B85F263-F584-44F8-BB5D-F02C40795D8E
+Type: 0Ah
+Attributes: 00h
+Full size: 5AB2h (23218)
+Header size: 18h (24)
+Body size: 5A9Ah (23194)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

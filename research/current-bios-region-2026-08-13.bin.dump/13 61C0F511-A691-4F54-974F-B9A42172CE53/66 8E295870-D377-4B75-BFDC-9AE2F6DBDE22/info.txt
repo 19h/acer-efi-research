@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Base: FA9820h
+Header address: FFFA9820h
+Data address: FFFA9838h
+Offset: 89820h
+File GUID: 8E295870-D377-4B75-BFDC-9AE2F6DBDE22
+Type: 02h
+Attributes: 00h
+Full size: 3Ch (60)
+Header size: 18h (24)
+Body size: 24h (36)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 51h, valid
+Data checksum: AAh, valid

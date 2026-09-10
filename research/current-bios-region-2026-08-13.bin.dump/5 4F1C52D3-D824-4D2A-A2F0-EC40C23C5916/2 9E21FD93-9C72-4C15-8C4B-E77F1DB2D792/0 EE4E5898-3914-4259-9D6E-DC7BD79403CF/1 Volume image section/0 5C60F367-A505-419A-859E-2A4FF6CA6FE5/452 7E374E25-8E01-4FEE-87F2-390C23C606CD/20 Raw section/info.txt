@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 8B824h
+Type: 19h
+Full size: A42Bh (42027)
+Header size: 4h (4)
+Body size: A427h (42023)

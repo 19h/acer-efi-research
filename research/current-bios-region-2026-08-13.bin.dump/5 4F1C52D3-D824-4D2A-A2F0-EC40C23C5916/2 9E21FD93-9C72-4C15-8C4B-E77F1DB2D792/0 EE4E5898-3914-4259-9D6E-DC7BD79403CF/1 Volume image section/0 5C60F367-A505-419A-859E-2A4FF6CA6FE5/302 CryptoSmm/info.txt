@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: CryptoSmm
+Fixed: No
+Offset: BAE888h
+File GUID: 391B853F-F488-479B-A3D6-870766C7A38F
+Type: 0Ah
+Attributes: 00h
+Full size: 448Eh (17550)
+Header size: 18h (24)
+Body size: 4476h (17526)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

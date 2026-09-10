@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Data
+Text: EsrtNonFmp
+Fixed: Yes
+Base: 27571h
+Header address: FF027571h
+Data address: FF02757Bh
+Offset: 274F9h
+Full size: 5Ah (90)
+Header size: Ah (10)
+Body size: 50h (80)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)

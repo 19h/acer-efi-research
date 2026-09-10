@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerDeviceEnablingServiceFlag
+Fixed: Yes
+Base: 50D8h
+Header address: FF0050D8h
+Data address: FF005101h
+Offset: 5060h
+Variable GUID: 402635B0-C987-4128-B991-A2F9AEB849D0
+GUID index: 3
+Full size: 2Ah (42)
+Header size: 29h (41)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

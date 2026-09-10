@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerIsNvramClear
+Fixed: Yes
+Base: 3DD8Ch
+Header address: FF03DD8Ch
+Data address: FF03DDA8h
+Offset: DD14h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 1Dh (29)
+Header size: 1Ch (28)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

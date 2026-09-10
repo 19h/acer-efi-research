@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootCurrentDp
+Fixed: Yes
+Base: 4F9B9h
+Header address: FF04F9B9h
+Data address: FF04F9D6h
+Offset: 1F941h
+Variable GUID: 01368881-C4AD-4B1D-B631-D57A8EC8DB6B
+GUID index: 15
+Full size: 7Fh (127)
+Header size: 1Dh (29)
+Body size: 62h (98)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

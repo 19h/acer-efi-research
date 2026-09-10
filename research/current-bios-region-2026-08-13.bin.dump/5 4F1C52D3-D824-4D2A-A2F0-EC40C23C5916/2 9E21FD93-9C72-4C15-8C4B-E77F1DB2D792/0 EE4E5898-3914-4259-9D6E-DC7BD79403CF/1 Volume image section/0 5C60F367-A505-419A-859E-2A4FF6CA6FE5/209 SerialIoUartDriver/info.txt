@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SerialIoUartDriver
+Fixed: No
+Offset: 775150h
+File GUID: 5D744BC4-CA94-4F8A-9C50-EBC2A107303E
+Type: 07h
+Attributes: 00h
+Full size: 2056h (8278)
+Header size: 18h (24)
+Body size: 203Eh (8254)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BDh, valid
+Data checksum: AAh, valid

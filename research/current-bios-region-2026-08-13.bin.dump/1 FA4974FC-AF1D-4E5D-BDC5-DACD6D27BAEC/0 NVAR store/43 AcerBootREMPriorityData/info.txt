@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootREMPriorityData
+Fixed: Yes
+Base: 3DE55h
+Header address: FF03DE55h
+Data address: FF03DE78h
+Offset: DDDDh
+Variable GUID: EB15823E-FD0E-4A91-9532-A39CCAC78CCD
+GUID index: 14
+Full size: 43h (67)
+Header size: 23h (35)
+Body size: 20h (32)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

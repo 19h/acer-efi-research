@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Thc
+Fixed: No
+Offset: 77C068h
+File GUID: 53E65F94-B418-4541-9A12-18839A56B427
+Type: 07h
+Attributes: 00h
+Full size: 4012h (16402)
+Header size: 18h (24)
+Body size: 3FFAh (16378)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

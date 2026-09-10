@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TpmEsrtFmpUpd
+Fixed: No
+Offset: 45B9B8h
+File GUID: 3AEE139D-EDC8-4599-BABC-508323B5D4A3
+Type: 07h
+Attributes: 00h
+Full size: 2D16h (11542)
+Header size: 18h (24)
+Body size: 2CFEh (11518)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B3h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PiSmmIpl
+Fixed: No
+Offset: 737990h
+File GUID: 2FA2A6DA-11D5-4DC3-999A-749648B03C56
+Type: 07h
+Attributes: 00h
+Full size: 3A7Eh (14974)
+Header size: 18h (24)
+Body size: 3A66h (14950)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 33h, valid
+Data checksum: AAh, valid

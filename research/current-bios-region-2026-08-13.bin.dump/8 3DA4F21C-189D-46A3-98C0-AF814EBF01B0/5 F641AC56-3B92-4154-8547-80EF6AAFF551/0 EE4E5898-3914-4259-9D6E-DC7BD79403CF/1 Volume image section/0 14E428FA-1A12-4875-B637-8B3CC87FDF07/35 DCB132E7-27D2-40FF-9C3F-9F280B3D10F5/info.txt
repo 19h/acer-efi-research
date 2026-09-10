@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: 856E8h
+File GUID: DCB132E7-27D2-40FF-9C3F-9F280B3D10F5
+Type: 02h
+Attributes: 00h
+Full size: 221Ch (8732)
+Header size: 18h (24)
+Body size: 2204h (8708)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F3h, valid
+Data checksum: AAh, valid

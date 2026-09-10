@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CmosDxe
+Fixed: No
+Offset: F7DD68h
+File GUID: 3237418A-478C-4700-B59F-768E2CCBC726
+Type: 07h
+Attributes: 00h
+Full size: 295Ah (10586)
+Header size: 18h (24)
+Body size: 2942h (10562)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ECh, valid
+Data checksum: AAh, valid

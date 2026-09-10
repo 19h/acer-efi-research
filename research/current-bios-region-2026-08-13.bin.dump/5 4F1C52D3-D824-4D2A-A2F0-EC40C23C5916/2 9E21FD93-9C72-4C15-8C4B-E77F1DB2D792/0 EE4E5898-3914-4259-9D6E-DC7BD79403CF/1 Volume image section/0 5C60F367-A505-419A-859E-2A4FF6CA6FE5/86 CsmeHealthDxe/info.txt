@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CsmeHealthDxe
+Fixed: No
+Offset: 27C548h
+File GUID: 20E687BE-B09B-4DA1-BCFE-E804B3B97CE4
+Type: 07h
+Attributes: 00h
+Full size: D32h (3378)
+Header size: 18h (24)
+Body size: D1Ah (3354)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: HstiIhvSmm
+Fixed: No
+Offset: B12D78h
+File GUID: 4D1514D2-FBDE-49C6-B20A-A40288A0D4AA
+Type: 0Ah
+Attributes: 00h
+Full size: 14EEh (5358)
+Header size: 18h (24)
+Body size: 14D6h (5334)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

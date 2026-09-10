@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Setup
+Fixed: No
+Offset: 29BF00h
+File GUID: 899407D7-99FE-43D8-9A21-79EC328CAC21
+Type: 07h
+Attributes: 00h
+Full size: 18888Ah (1607818)
+Header size: 18h (24)
+Body size: 188872h (1607794)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 77h, valid
+Data checksum: AAh, valid

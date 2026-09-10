@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BootState
+Fixed: Yes
+Base: 1F5A7h
+Header address: FF01F5A7h
+Data address: FF01F5BCh
+Offset: 1F52Fh
+Variable GUID: 60B5E939-0FCF-4227-BA83-6BBED45BC0E3
+GUID index: 50
+Full size: 16h (22)
+Header size: 15h (21)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

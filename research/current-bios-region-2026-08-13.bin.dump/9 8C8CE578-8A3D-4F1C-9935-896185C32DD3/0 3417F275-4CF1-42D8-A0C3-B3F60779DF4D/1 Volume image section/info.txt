@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Volume image
+Fixed: No
+Base: D1006Ch
+Header address: FFD1006Ch
+Data address: FFD10070h
+Offset: 24h
+Type: 17h
+Full size: 5A004h (368644)
+Header size: 4h (4)
+Body size: 5A000h (368640)

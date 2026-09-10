@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Link
+Text: MotherBoardHealth
+Fixed: Yes
+Base: 5F8CCh
+Header address: FF05F8CCh
+Data address: FF05F8D6h
+Offset: 2F854h
+Full size: 1Ah (26)
+Header size: Ah (10)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)
+Next node at offset: 2F945h

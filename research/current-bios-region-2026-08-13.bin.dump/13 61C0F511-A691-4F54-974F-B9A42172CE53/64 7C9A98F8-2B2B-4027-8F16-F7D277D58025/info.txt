@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: Yes
+Base: FA93E8h
+Header address: FFFA93E8h
+Data address: FFFA9400h
+Offset: 893E8h
+File GUID: 7C9A98F8-2B2B-4027-8F16-F7D277D58025
+Type: 01h
+Attributes: 10h
+Full size: 418h (1048)
+Header size: 18h (24)
+Body size: 400h (1024)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 11h, valid
+Data checksum: AAh, valid

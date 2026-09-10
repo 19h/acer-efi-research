@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: TcgInternalSyncFlag
+Fixed: Yes
+Base: 3E110h
+Header address: FF03E110h
+Data address: FF03E12Fh
+Offset: E098h
+Variable GUID: F3ED95DF-828E-41C7-BCA0-16C41965A634
+GUID index: 24
+Full size: 20h (32)
+Header size: 1Fh (31)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

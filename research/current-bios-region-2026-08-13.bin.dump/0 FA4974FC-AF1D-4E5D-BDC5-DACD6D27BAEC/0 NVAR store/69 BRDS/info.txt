@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BRDS
+Fixed: Yes
+Base: E25Ch
+Header address: FF00E25Ch
+Data address: FF00E26Ch
+Offset: E1E4h
+Variable GUID: 42780DD5-9A7D-404C-80E4-7F7094360394
+GUID index: 26
+Full size: 18h (24)
+Header size: 10h (16)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

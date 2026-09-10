@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: CryptoPPI
+Fixed: No
+Offset: 388B0h
+File GUID: 67451698-1825-4AC5-999D-F350CC7D5D72
+Type: 06h
+Attributes: 00h
+Full size: 5DFEh (24062)
+Header size: 18h (24)
+Body size: 5DE6h (24038)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

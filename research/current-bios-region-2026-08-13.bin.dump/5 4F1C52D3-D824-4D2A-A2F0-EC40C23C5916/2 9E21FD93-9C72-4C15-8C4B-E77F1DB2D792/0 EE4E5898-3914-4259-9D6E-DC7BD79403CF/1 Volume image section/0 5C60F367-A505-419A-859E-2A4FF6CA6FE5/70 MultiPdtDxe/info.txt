@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MultiPdtDxe
+Fixed: No
+Offset: 23D0C0h
+File GUID: 56966690-24E8-4DFA-BEA8-BFCD83DA44B8
+Type: 07h
+Attributes: 00h
+Full size: F0Eh (3854)
+Header size: 18h (24)
+Body size: EF6h (3830)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Ch, valid
+Data checksum: AAh, valid

@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: Yes
+Base: BCE168h
+Header address: FFBCE168h
+Data address: FFBCE180h
+Offset: 6E168h
+File GUID: B52282EE-9B66-44B9-B1CF-7E5040F787C1
+Type: 01h
+Attributes: 10h
+Full size: 198h (408)
+Header size: 18h (24)
+Body size: 180h (384)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 44h, valid
+Data checksum: AAh, valid

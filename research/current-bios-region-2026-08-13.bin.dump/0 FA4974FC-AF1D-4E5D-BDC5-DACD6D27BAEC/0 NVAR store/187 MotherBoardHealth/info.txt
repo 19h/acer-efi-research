@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Data
+Text: MotherBoardHealth
+Fixed: Yes
+Base: 27691h
+Header address: FF027691h
+Data address: FF02769Bh
+Offset: 27619h
+Full size: 1Ah (26)
+Header size: Ah (10)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)

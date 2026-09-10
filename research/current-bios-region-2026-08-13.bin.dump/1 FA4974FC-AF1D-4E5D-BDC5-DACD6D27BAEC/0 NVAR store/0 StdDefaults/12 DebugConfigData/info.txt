@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: DebugConfigData
+Fixed: Yes
+Base: 321F2h
+Header address: FF0321F2h
+Data address: FF03220Dh
+Offset: 2162h
+Variable GUID: DE0A5E74-4E3E-3D96-A440-2C96ECBD3C97
+GUID index: 10
+Full size: 2Ch (44)
+Header size: 1Bh (27)
+Body size: 11h (17)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

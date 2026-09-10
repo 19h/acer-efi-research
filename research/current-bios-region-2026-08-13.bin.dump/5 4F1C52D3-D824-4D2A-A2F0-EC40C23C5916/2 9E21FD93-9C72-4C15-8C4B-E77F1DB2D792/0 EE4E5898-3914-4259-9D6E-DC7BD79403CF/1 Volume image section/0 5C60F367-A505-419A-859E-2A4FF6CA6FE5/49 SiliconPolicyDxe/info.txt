@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SiliconPolicyDxe
+Fixed: No
+Offset: E8F88h
+File GUID: 65986603-43BC-4ABF-94D8-5A58847381A6
+Type: 07h
+Attributes: 00h
+Full size: 61Ah (1562)
+Header size: 18h (24)
+Body size: 602h (1538)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OsCheckDxe
+Fixed: No
+Offset: BF4058h
+File GUID: 73225095-967E-4DD1-853F-49D8327147D0
+Type: 0Ah
+Attributes: 00h
+Full size: 1AA6h (6822)
+Header size: 18h (24)
+Body size: 1A8Eh (6798)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

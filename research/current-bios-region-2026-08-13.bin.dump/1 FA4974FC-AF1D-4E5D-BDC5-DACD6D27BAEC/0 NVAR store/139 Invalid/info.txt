@@ -1,0 +1,12 @@
+Type: NVAR entry
+Subtype: Invalid
+Fixed: Yes
+Base: 570DDh
+Header address: FF0570DDh
+Data address: FF0570E7h
+Offset: 27065h
+Full size: 2BEh (702)
+Header size: Ah (10)
+Body size: 2B4h (692)
+Tail size: 0h (0)
+Attributes: 03h (Runtime, AsciiName)

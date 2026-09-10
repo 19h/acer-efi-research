@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmiFlashDxe
+Fixed: No
+Offset: 7546C0h
+File GUID: BB8C2CF3-A5E3-49EF-941B-4A01FAC6FD5F
+Type: 07h
+Attributes: 00h
+Full size: 1292h (4754)
+Header size: 18h (24)
+Body size: 127Ah (4730)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

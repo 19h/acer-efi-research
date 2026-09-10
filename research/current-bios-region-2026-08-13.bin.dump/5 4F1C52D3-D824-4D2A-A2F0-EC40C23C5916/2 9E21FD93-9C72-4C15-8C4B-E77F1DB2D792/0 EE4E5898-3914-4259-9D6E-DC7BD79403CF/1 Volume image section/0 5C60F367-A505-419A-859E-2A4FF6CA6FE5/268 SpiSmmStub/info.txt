@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SpiSmmStub
+Fixed: No
+Offset: AFC8C8h
+File GUID: 7D655829-26DD-4342-96AD-04899477C3FA
+Type: 0Ah
+Attributes: 00h
+Full size: 1682h (5762)
+Header size: 18h (24)
+Body size: 166Ah (5738)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DBh, valid
+Data checksum: AAh, valid

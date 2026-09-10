@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: AmiTpm20PlatformPei
+Fixed: No
+Offset: 29D30h
+File GUID: 0D8039FF-49E9-4CC9-A806-BB7C31B0BCB0
+Type: 06h
+Attributes: 00h
+Full size: E72Ah (59178)
+Header size: 18h (24)
+Body size: E712h (59154)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ABh, valid
+Data checksum: AAh, valid

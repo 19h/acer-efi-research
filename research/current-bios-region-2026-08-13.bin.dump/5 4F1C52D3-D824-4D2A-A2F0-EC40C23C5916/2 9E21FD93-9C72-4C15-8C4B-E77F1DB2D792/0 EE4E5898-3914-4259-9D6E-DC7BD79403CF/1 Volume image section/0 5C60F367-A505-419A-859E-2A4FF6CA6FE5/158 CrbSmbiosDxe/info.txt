@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CrbSmbiosDxe
+Fixed: No
+Offset: 6FB080h
+File GUID: ADF47106-5CF8-4D02-BCF9-BACCC7D3162B
+Type: 07h
+Attributes: 00h
+Full size: 726h (1830)
+Header size: 18h (24)
+Body size: 70Eh (1806)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FBh, valid
+Data checksum: AAh, valid

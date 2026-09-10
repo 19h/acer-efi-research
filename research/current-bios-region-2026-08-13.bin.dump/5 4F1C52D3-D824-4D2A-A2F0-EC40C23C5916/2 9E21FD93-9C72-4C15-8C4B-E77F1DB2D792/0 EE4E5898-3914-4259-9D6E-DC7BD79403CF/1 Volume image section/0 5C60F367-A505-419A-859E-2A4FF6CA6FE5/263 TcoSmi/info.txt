@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: TcoSmi
+Fixed: No
+Offset: ADC590h
+File GUID: 2B4034AE-8566-412F-9CA5-67FD698FC261
+Type: 0Ah
+Attributes: 00h
+Full size: 189Eh (6302)
+Header size: 18h (24)
+Body size: 1886h (6278)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D8h, valid
+Data checksum: AAh, valid

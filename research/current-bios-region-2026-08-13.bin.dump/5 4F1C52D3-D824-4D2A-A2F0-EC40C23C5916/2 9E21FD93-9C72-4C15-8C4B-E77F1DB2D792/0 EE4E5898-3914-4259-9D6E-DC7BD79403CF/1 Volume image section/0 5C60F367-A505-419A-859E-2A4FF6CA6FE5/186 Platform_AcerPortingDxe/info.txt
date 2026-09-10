@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Platform_AcerPortingDxe
+Fixed: No
+Offset: 727AC8h
+File GUID: F5D2F830-66CD-4ACE-9D3F-ECAEC69776FB
+Type: 07h
+Attributes: 00h
+Full size: 2296h (8854)
+Header size: 18h (24)
+Body size: 227Eh (8830)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C3h, valid
+Data checksum: AAh, valid

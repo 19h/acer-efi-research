@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiSetupNVLockDxe
+Fixed: No
+Offset: 741D60h
+File GUID: A51BC7A4-0ED6-44C2-B5FB-B86FDE077DE1
+Type: 07h
+Attributes: 00h
+Full size: 168Eh (5774)
+Header size: 18h (24)
+Body size: 1676h (5750)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 26h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BiosGuardCapsuleVariable
+Fixed: Yes
+Base: 3DFD4h
+Header address: FF03DFD4h
+Data address: FF03DFF8h
+Offset: DF5Ch
+Variable GUID: 368B3153-563D-4610-8D94-47A9FA8C4C16
+GUID index: 18
+Full size: 34h (52)
+Header size: 24h (36)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

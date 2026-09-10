@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: QuickSpi
+Fixed: No
+Offset: 7771A8h
+File GUID: 098ED901-C6BF-4D20-91E2-A39F0C084A8D
+Type: 07h
+Attributes: 00h
+Full size: 4EBEh (20158)
+Header size: 18h (24)
+Body size: 4EA6h (20134)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RealtekUndiDriver
+Fixed: No
+Offset: A5C418h
+File GUID: 7EC952DB-BF8B-47F8-A026-664D0CF076AE
+Type: 07h
+Attributes: 00h
+Full size: 2578Ah (153482)
+Header size: 18h (24)
+Body size: 25772h (153458)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 80h, valid
+Data checksum: AAh, valid

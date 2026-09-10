@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AudioConnectControllerDxe
+Fixed: No
+Offset: 7152F8h
+File GUID: B351250B-98AF-1530-8CC1-B4AC33BF8390
+Type: 07h
+Attributes: 00h
+Full size: 8DAh (2266)
+Header size: 18h (24)
+Body size: 8C2h (2242)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

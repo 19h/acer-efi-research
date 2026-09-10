@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SecMigrationPei
+Fixed: No
+Base: F87190h
+Header address: FFF87190h
+Data address: FFF871A8h
+Offset: 67190h
+File GUID: 58B35361-8922-41BC-B313-EF7ED9ADFDF7
+Type: 06h
+Attributes: 00h
+Full size: 6E6h (1766)
+Header size: 18h (24)
+Body size: 6CEh (1742)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: WdtPersistentData
+Fixed: Yes
+Base: E05Fh
+Header address: FF00E05Fh
+Data address: FF00E07Ch
+Offset: DFE7h
+Variable GUID: 78CE2354-CFBC-4643-AEBA-07A27FA892BF
+GUID index: 20
+Full size: 1Eh (30)
+Header size: 1Dh (29)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

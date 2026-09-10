@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: MULTISYSFAN
+Fixed: Yes
+Base: 8099h
+Header address: FF008099h
+Data address: FF0080B0h
+Offset: 8021h
+Variable GUID: 54429E97-CE7F-499C-831D-E6CAA58F178C
+GUID index: 11
+Full size: 18h (24)
+Header size: 17h (23)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

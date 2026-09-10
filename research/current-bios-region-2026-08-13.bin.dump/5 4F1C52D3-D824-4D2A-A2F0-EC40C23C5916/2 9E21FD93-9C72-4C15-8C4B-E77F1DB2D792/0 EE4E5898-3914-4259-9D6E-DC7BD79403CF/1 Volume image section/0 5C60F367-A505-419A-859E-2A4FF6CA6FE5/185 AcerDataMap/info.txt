@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerDataMap
+Fixed: No
+Offset: 726C80h
+File GUID: BBA5D29E-0A2A-4DA0-A3C9-6F4630DE4056
+Type: 07h
+Attributes: 00h
+Full size: E42h (3650)
+Header size: 18h (24)
+Body size: E2Ah (3626)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F3h, valid
+Data checksum: AAh, valid

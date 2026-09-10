@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OememSmiGNVS
+Fixed: No
+Offset: BF0EF8h
+File GUID: 970B1E38-9701-47AA-88A5-566A9F232264
+Type: 0Ah
+Attributes: 00h
+Full size: 1696h (5782)
+Header size: 18h (24)
+Body size: 167Eh (5758)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 94h, valid
+Data checksum: AAh, valid

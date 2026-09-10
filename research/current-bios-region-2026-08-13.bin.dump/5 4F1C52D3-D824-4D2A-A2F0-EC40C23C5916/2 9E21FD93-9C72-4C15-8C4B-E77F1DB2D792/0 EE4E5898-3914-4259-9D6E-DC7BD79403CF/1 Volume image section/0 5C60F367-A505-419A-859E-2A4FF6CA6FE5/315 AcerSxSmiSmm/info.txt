@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AcerSxSmiSmm
+Fixed: No
+Offset: BF7BB8h
+File GUID: 636F74ED-94C2-43DA-84B1-2384DA179547
+Type: 0Ah
+Attributes: 00h
+Full size: 18BAh (6330)
+Header size: 18h (24)
+Body size: 18A2h (6306)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

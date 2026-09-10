@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OEMWMISmi
+Fixed: No
+Offset: BD2F78h
+File GUID: 60EDA97E-3631-40A4-85D4-4A28065086B8
+Type: 0Ah
+Attributes: 00h
+Full size: 186B2h (100018)
+Header size: 18h (24)
+Body size: 1869Ah (99994)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Fh, valid
+Data checksum: AAh, valid

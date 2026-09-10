@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: FactoryModeSkipError
+Fixed: Yes
+Base: 1F918h
+Header address: FF01F918h
+Data address: FF01F938h
+Offset: 1F8A0h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 21h (33)
+Header size: 20h (32)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

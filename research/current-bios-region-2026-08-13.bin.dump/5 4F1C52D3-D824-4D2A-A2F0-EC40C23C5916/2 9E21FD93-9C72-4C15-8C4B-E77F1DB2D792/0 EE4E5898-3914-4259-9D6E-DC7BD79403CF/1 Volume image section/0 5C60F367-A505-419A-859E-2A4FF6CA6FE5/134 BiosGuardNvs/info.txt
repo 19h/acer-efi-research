@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BiosGuardNvs
+Fixed: No
+Offset: 4D5D90h
+File GUID: 84E7016D-1EB8-4637-B01E-9EED018C7AE0
+Type: 07h
+Attributes: 00h
+Full size: D86h (3462)
+Header size: 18h (24)
+Body size: D6Eh (3438)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FAh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: VerifyFwBootGuard
+Fixed: No
+Offset: B708F8h
+File GUID: EE89F590-A816-4AC5-B3A9-1BC759B12439
+Type: 0Ah
+Attributes: 00h
+Full size: 1CB2h (7346)
+Header size: 18h (24)
+Body size: 1C9Ah (7322)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

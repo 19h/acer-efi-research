@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformVTdSampleDxe
+Fixed: No
+Offset: 253B78h
+File GUID: 5DFAE03E-9C19-4996-85BF-65297BD4137F
+Type: 07h
+Attributes: 00h
+Full size: 1016h (4118)
+Header size: 18h (24)
+Body size: FFEh (4094)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

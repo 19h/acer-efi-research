@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AcerBiosDamageBeep
+Fixed: No
+Base: F6F3D0h
+Header address: FFF6F3D0h
+Data address: FFF6F3E8h
+Offset: 4F3D0h
+File GUID: FA419200-9DAD-4B8E-A56D-59BA2565C91B
+Type: 06h
+Attributes: 00h
+Full size: 2CEh (718)
+Header size: 18h (24)
+Body size: 2B6h (694)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A7h, valid
+Data checksum: AAh, valid

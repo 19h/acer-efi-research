@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FmpCapsuleUpdate
+Fixed: No
+Offset: 43EE18h
+File GUID: 0F23C1F8-4BAC-470C-B6B8-B392D544290A
+Type: 07h
+Attributes: 00h
+Full size: 4F62h (20322)
+Header size: 18h (24)
+Body size: 4F4Ah (20298)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 14h, valid
+Data checksum: AAh, valid

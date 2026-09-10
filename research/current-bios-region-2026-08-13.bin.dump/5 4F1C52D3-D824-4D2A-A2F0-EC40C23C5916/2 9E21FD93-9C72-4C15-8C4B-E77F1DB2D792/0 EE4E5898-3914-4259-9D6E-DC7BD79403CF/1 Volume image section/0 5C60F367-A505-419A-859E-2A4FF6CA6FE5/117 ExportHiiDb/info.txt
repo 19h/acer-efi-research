@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ExportHiiDb
+Fixed: No
+Offset: 45AF08h
+File GUID: 271B424E-A4CC-4E0E-90A2-7EA4841F12F3
+Type: 07h
+Attributes: 00h
+Full size: AAEh (2734)
+Header size: 18h (24)
+Body size: A96h (2710)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A7h, valid
+Data checksum: AAh, valid

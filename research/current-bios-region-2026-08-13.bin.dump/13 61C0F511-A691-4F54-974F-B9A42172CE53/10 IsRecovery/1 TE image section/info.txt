@@ -1,0 +1,20 @@
+Type: Section
+Subtype: TE image
+Fixed: No
+Base: F230F4h
+Header address: FFF230F4h
+Data address: FFF230F8h
+Offset: 54h
+Type: 12h
+Full size: DE4h (3556)
+Header size: 4h (4)
+Body size: DE0h (3552)
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 355h
+Image base: FFF22F78h
+Adjusted image base: FFF230F8h

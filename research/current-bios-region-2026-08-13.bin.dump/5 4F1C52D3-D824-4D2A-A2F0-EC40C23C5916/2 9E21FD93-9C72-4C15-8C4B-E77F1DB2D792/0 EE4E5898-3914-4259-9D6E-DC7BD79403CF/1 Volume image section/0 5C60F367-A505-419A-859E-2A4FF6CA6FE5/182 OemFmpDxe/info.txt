@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemFmpDxe
+Fixed: No
+Offset: 724660h
+File GUID: F208336A-BFF4-4678-BA4F-342C72373C3A
+Type: 07h
+Attributes: 00h
+Full size: E2Ah (3626)
+Header size: 18h (24)
+Body size: E12h (3602)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: F15DC0h
+Header address: FFF15DC0h
+Data address: FFF15DC4h
+Offset: 18h
+Type: 19h
+Full size: E4h (228)
+Header size: 4h (4)
+Body size: E0h (224)

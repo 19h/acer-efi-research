@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MebxSetup
+Fixed: No
+Offset: 6E858h
+File GUID: 1CE34CFF-DFE9-4D9D-B264-166FFCB8315A
+Type: 07h
+Attributes: 00h
+Full size: 10872h (67698)
+Header size: 18h (24)
+Body size: 1085Ah (67674)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A8h, valid
+Data checksum: AAh, valid

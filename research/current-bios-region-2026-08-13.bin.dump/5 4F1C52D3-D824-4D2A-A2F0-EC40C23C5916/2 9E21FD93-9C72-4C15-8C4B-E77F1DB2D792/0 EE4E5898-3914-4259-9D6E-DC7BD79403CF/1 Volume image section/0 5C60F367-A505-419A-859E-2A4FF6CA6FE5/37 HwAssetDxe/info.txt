@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HwAssetDxe
+Fixed: No
+Offset: B3930h
+File GUID: C464322E-3DC4-49AD-B9FD-AF1B56B2249B
+Type: 07h
+Attributes: 00h
+Full size: 23E2h (9186)
+Header size: 18h (24)
+Body size: 23CAh (9162)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Eh, valid
+Data checksum: AAh, valid

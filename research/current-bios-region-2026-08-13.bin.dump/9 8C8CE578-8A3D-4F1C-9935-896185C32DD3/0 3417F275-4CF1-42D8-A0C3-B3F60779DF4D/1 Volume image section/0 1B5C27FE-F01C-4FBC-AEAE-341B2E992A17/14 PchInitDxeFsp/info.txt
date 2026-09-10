@@ -1,0 +1,18 @@
+Type: File
+Subtype: DXE driver
+Text: PchInitDxeFsp
+Fixed: No
+Base: D43C58h
+Header address: FFD43C58h
+Data address: FFD43C70h
+Offset: 33BE8h
+File GUID: B8BA8298-AF29-4FA3-9D10-27A8478BB6A7
+Type: 07h
+Attributes: 00h
+Full size: 147Fh (5247)
+Header size: 18h (24)
+Body size: 1467h (5223)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 65h, valid
+Data checksum: AAh, valid

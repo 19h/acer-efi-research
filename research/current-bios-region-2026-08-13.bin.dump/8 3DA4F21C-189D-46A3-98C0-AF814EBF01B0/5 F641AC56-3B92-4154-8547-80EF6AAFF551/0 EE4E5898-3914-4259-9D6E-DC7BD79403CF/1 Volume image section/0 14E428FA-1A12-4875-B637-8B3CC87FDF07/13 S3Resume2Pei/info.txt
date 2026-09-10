@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: S3Resume2Pei
+Fixed: No
+Offset: 1B0A0h
+File GUID: 89E549B0-7CFE-449D-9BA3-10D8B2312D71
+Type: 06h
+Attributes: 00h
+Full size: 1552h (5458)
+Header size: 18h (24)
+Body size: 153Ah (5434)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

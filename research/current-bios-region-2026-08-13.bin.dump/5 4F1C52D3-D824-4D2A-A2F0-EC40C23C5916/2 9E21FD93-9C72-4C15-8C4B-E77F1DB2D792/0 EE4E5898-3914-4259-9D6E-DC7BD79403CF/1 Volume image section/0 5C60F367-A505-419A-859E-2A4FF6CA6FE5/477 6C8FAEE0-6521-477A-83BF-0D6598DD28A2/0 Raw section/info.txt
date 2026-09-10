@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 18h
+Type: 19h
+Full size: 7A4h (1956)
+Header size: 4h (4)
+Body size: 7A0h (1952)

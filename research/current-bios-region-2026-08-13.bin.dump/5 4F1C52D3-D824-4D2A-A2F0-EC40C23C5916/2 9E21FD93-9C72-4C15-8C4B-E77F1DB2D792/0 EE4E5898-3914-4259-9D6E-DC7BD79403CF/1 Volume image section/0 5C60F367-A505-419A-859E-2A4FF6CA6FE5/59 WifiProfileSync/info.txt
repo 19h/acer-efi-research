@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: WifiProfileSync
+Fixed: No
+Offset: 10FAE0h
+File GUID: FB062BBC-F19D-4CF4-81FD-FAE535D44A53
+Type: 07h
+Attributes: 00h
+Full size: 1E16h (7702)
+Header size: 18h (24)
+Body size: 1DFEh (7678)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Ch, valid
+Data checksum: AAh, valid

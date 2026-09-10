@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: VendorKeysNv
+Fixed: Yes
+Base: 50BFh
+Header address: FF0050BFh
+Data address: FF0050D7h
+Offset: 5047h
+Variable GUID: 550E42E1-B6FA-4E99-BBD9-1A901F001D7A
+GUID index: 2
+Full size: 19h (25)
+Header size: 18h (24)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

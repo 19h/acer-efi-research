@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: IntelUefiCnvWwanSkuSupport
+Fixed: Yes
+Base: E274h
+Header address: FF00E274h
+Data address: FF00E29Ah
+Offset: E1FCh
+Variable GUID: E65D8884-D4AF-4B20-8D03-772ECC3DA531
+GUID index: 27
+Full size: 2Dh (45)
+Header size: 26h (38)
+Body size: 7h (7)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

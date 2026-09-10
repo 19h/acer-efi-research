@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DataStorageDxe
+Fixed: No
+Offset: 6FED00h
+File GUID: B344259B-9957-4548-8BD1-B31464BB8370
+Type: 07h
+Attributes: 00h
+Full size: 4B0Ah (19210)
+Header size: 18h (24)
+Body size: 4AF2h (19186)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Bh, valid
+Data checksum: AAh, valid

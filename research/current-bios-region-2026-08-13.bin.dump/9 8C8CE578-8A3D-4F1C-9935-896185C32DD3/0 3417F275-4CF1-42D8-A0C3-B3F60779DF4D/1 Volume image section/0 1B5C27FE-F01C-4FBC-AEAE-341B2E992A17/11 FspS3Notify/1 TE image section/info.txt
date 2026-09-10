@@ -1,0 +1,20 @@
+Type: Section
+Subtype: TE image
+Fixed: No
+Base: D43058h
+Header address: FFD43058h
+Data address: FFD4305Ch
+Offset: 40h
+Type: 12h
+Full size: 3C4h (964)
+Header size: 4h (4)
+Body size: 3C0h (960)
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 2A6h
+Image base: FFD42EDCh
+Adjusted image base: FFD4305Ch

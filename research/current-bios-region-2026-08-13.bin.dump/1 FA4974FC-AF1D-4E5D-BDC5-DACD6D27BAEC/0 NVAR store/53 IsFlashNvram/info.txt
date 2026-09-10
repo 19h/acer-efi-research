@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: IsFlashNvram
+Fixed: Yes
+Base: 3E07Dh
+Header address: FF03E07Dh
+Data address: FF03E095h
+Offset: E005h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 19h (25)
+Header size: 18h (24)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

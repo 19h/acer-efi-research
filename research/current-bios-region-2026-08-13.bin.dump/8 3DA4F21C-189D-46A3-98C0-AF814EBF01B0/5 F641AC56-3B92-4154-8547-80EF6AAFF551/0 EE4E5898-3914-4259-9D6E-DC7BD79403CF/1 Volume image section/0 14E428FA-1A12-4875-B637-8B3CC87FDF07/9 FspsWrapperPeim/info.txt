@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: FspsWrapperPeim
+Fixed: No
+Offset: 160F8h
+File GUID: 0D244DF9-6CE3-4133-A1CF-53200AB663AC
+Type: 06h
+Attributes: 00h
+Full size: B0Ah (2826)
+Header size: 18h (24)
+Body size: AF2h (2802)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F9h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AdvancedPmaxDxe
+Fixed: No
+Offset: E6E5A8h
+File GUID: 66E6C2E4-0245-4545-8165-12322480AF31
+Type: 07h
+Attributes: 00h
+Full size: D8Ah (3466)
+Header size: 18h (24)
+Body size: D72h (3442)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

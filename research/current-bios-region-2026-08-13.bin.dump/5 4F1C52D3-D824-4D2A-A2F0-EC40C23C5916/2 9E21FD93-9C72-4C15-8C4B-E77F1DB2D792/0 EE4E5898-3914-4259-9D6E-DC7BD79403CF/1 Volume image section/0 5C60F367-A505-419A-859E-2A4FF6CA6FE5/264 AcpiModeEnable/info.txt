@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AcpiModeEnable
+Fixed: No
+Offset: ADDE30h
+File GUID: 750890A6-7ACF-4F4F-81BD-B400C2BEA95A
+Type: 0Ah
+Attributes: 00h
+Full size: 2EAEh (11950)
+Header size: 18h (24)
+Body size: 2E96h (11926)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AmiWrapperSetup
+Fixed: Yes
+Base: FABA0Ah
+Header address: FFFABA0Ah
+Data address: FFFABA25h
+Offset: 218Eh
+Variable GUID: C61C31A3-CB5D-46DD-9FE5-8A82BBC72483
+GUID index: 11
+Full size: 20h (32)
+Header size: 1Bh (27)
+Body size: 5h (5)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

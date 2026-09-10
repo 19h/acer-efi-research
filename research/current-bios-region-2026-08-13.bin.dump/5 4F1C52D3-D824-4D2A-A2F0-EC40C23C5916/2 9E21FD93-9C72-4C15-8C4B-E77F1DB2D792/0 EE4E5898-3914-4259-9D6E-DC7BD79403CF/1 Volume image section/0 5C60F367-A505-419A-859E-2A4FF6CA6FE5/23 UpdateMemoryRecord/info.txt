@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UpdateMemoryRecord
+Fixed: No
+Offset: 93060h
+File GUID: 24CCD374-3DF6-4181-86F6-E3C66920A145
+Type: 07h
+Attributes: 00h
+Full size: 103Ah (4154)
+Header size: 18h (24)
+Body size: 1022h (4130)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

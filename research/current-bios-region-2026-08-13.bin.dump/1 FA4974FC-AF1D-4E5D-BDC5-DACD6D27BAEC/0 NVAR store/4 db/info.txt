@@ -1,0 +1,19 @@
+Type: NVAR entry
+Subtype: Full
+Text: db
+Fixed: Yes
+Base: 35102h
+Header address: FF035102h
+Data address: FF035110h
+Offset: 508Ah
+Variable GUID: D719B2CB-3D3A-4596-A3BC-DAD00E67656F
+GUID index: 4
+Full size: 1445h (5189)
+Header size: Eh (14)
+Body size: 140Ch (5132)
+Tail size: 2Bh (43)
+Attributes: D3h (Runtime, AsciiName, ExtHeader, AuthWrite, Valid)
+Extended header size: 2Bh (43)
+Extended attributes: 20h (TimeBasedAuthWrite)
+Timestamp: 6390F8A3h
+Hash: 0000000000000000000000000000000000000000000000000000000000000000

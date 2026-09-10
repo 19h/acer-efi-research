@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AdvancedAcpiDxe
+Fixed: No
+Offset: E3B920h
+File GUID: C3E69EB2-0429-4BD6-AE4A-8CA02FBACC2E
+Type: 07h
+Attributes: 00h
+Full size: D876h (55414)
+Header size: 18h (24)
+Body size: D85Eh (55390)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

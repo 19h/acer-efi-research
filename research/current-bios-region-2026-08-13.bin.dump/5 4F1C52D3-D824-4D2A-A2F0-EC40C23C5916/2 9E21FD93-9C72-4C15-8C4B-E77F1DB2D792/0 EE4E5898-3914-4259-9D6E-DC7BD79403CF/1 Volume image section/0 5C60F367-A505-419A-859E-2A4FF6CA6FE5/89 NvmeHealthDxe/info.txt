@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NvmeHealthDxe
+Fixed: No
+Offset: 27EA38h
+File GUID: ACD88BB8-D466-4B8A-8DA5-EC6407A83B28
+Type: 07h
+Attributes: 00h
+Full size: B52h (2898)
+Header size: 18h (24)
+Body size: B3Ah (2874)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 32h, valid
+Data checksum: AAh, valid

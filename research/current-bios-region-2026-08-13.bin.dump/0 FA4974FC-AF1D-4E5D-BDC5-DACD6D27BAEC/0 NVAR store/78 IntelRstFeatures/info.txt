@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: IntelRstFeatures
+Fixed: Yes
+Base: 1E361h
+Header address: FF01E361h
+Data address: FF01E37Dh
+Offset: 1E2E9h
+Variable GUID: CA2FC9C8-71E7-4F72-B433-C284456FF72B
+GUID index: 35
+Full size: 24h (36)
+Header size: 1Ch (28)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

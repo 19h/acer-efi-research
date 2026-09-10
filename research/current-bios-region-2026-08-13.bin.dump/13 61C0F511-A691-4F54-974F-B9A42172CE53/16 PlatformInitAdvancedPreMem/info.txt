@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PlatformInitAdvancedPreMem
+Fixed: No
+Base: F30748h
+Header address: FFF30748h
+Data address: FFF30760h
+Offset: 10748h
+File GUID: 56BBC314-B442-4D5A-BA5C-D842DAFDBB24
+Type: 06h
+Attributes: 00h
+Full size: 4FE2h (20450)
+Header size: 18h (24)
+Body size: 4FCAh (20426)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

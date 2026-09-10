@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MeFwDowngrade
+Fixed: No
+Offset: BE1F8h
+File GUID: 5820EEB4-C135-4854-9D2A-AA9EFC4475E9
+Type: 07h
+Attributes: 00h
+Full size: 1CE6h (7398)
+Header size: 18h (24)
+Body size: 1CCEh (7374)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Eh, valid
+Data checksum: AAh, valid

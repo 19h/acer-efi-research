@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SystemRecoverySmi
+Fixed: No
+Offset: BF2590h
+File GUID: EE08257B-D6C5-4C9B-8D0C-E28470B867A0
+Type: 0Ah
+Attributes: 00h
+Full size: 1AC2h (6850)
+Header size: 18h (24)
+Body size: 1AAAh (6826)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardFirmwareVersionPeim
+Fixed: No
+Offset: 1AA58h
+File GUID: 655B0D2F-BCF1-4B1E-9A6A-A2E891BB50E4
+Type: 06h
+Attributes: 00h
+Full size: 642h (1602)
+Header size: 18h (24)
+Body size: 62Ah (1578)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

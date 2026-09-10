@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SiInitFsp
+Fixed: No
+Base: D12B68h
+Header address: FFD12B68h
+Data address: FFD12B80h
+Offset: 2AF8h
+File GUID: 80A845AC-210F-43B0-995B-477BE41AB4E8
+Type: 06h
+Attributes: 00h
+Full size: 2352Fh (144687)
+Header size: 18h (24)
+Body size: 23517h (144663)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 08h, valid
+Data checksum: AAh, valid

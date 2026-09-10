@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: FmpState
+Fixed: Yes
+Base: 4DAB3h
+Header address: FF04DAB3h
+Data address: FF04DAC7h
+Offset: 1DA3Bh
+Variable GUID: 0EAB05C1-766A-4805-A039-3081DE0210C7
+GUID index: 30
+Full size: 28h (40)
+Header size: 14h (20)
+Body size: 14h (20)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: StallServicePei
+Fixed: No
+Base: F20C50h
+Header address: FFF20C50h
+Data address: FFF20C68h
+Offset: C50h
+File GUID: 75862FE4-4FC6-4188-804B-29DC7733178B
+Type: 06h
+Attributes: 00h
+Full size: 3A6h (934)
+Header size: 18h (24)
+Body size: 38Eh (910)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 49h, valid
+Data checksum: AAh, valid

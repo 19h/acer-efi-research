@@ -1,0 +1,12 @@
+Type: NVAR entry
+Subtype: Invalid
+Fixed: Yes
+Base: 59B44h
+Header address: FF059B44h
+Data address: FF059B4Eh
+Offset: 29ACCh
+Full size: 264h (612)
+Header size: Ah (10)
+Body size: 25Ah (602)
+Tail size: 0h (0)
+Attributes: 03h (Runtime, AsciiName)

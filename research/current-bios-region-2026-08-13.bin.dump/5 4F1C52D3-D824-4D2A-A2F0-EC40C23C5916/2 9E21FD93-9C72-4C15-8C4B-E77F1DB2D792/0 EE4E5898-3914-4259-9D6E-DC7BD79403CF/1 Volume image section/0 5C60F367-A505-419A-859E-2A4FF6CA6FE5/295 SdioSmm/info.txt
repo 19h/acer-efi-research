@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SdioSmm
+Fixed: No
+Offset: B8FD28h
+File GUID: EA343100-1A37-4239-A3CB-B92240B935CF
+Type: 0Ah
+Attributes: 00h
+Full size: 288Ah (10378)
+Header size: 18h (24)
+Body size: 2872h (10354)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

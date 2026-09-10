@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FmpDxe
+Fixed: No
+Offset: 1118F8h
+File GUID: 0EAB05C1-766A-4805-A039-3081DE0210C7
+Type: 07h
+Attributes: 00h
+Full size: 1199AEh (1153454)
+Header size: 18h (24)
+Body size: 119996h (1153430)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B4h, valid
+Data checksum: AAh, valid

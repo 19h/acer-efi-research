@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerEsaDataProtocol
+Fixed: No
+Offset: 75ADB8h
+File GUID: AAD16CE5-A132-4950-A18D-27AAF27CCFD1
+Type: 07h
+Attributes: 00h
+Full size: 7B62h (31586)
+Header size: 18h (24)
+Body size: 7B4Ah (31562)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: NVAR entry
+Subtype: Link
+Text: MotherBoardHealth
+Fixed: Yes
+Base: 1E318h
+Header address: FF01E318h
+Data address: FF01E335h
+Offset: 1E2A0h
+Variable GUID: EA1FCAEE-3A77-4BB8-9B98-518E75D29A99
+GUID index: 33
+Full size: 2Dh (45)
+Header size: 1Dh (29)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)
+Next node at offset: 2694Eh

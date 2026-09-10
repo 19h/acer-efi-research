@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HddAcousticDynamicSetup
+Fixed: No
+Offset: 2951D0h
+File GUID: 739D1A2B-FBA1-404A-8784-25CFA57BEACD
+Type: 07h
+Attributes: 00h
+Full size: 6D2Ah (27946)
+Header size: 18h (24)
+Body size: 6D12h (27922)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 11h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: HwErrRec0000
+Fixed: Yes
+Base: 276ABh
+Header address: FF0276ABh
+Data address: FF0276C3h
+Offset: 27633h
+Variable GUID: 414E6BDD-E47B-47CC-B244-BB61020CF516
+GUID index: 68
+Full size: 154h (340)
+Header size: 18h (24)
+Body size: 13Ch (316)
+Tail size: 0h (0)
+Attributes: A3h (Runtime, AsciiName, HwErrorRecord, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: RstVmdPeim
+Fixed: No
+Offset: 87ED8h
+File GUID: 24DDC83F-9F06-44AB-B696-60FE7DF2C948
+Type: 06h
+Attributes: 00h
+Full size: 18E4Eh (101966)
+Header size: 18h (24)
+Body size: 18E36h (101942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

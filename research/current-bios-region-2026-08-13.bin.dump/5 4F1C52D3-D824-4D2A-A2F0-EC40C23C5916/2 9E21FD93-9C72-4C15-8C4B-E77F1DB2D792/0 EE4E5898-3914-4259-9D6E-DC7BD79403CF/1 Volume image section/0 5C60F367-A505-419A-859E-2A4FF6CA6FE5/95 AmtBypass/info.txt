@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtBypass
+Fixed: No
+Offset: 2841F8h
+File GUID: 908C3852-B61B-4F26-AB66-F74F97E7DC1C
+Type: 07h
+Attributes: 00h
+Full size: BDAh (3034)
+Header size: 18h (24)
+Body size: BC2h (3010)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

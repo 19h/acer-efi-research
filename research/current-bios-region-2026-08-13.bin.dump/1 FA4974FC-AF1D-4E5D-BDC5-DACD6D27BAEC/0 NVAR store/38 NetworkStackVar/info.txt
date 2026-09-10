@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: NetworkStackVar
+Fixed: Yes
+Base: 3DD69h
+Header address: FF03DD69h
+Data address: FF03DD84h
+Offset: DCF1h
+Variable GUID: D1405D16-7AFC-4695-BB12-41459D3695A2
+GUID index: 12
+Full size: 23h (35)
+Header size: 1Bh (27)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,14 @@
+Type: Section
+Subtype: Compressed
+Fixed: No
+Base: D43488h
+Header address: FFD43488h
+Data address: FFD43491h
+Offset: 40h
+Type: 01h
+Full size: 5F4h (1524)
+Header size: 9h (9)
+Body size: 5EBh (1515)
+Compression type: 01h
+Decompressed size: B0Eh (2830)
+Compression algorithm: EFI 1.1

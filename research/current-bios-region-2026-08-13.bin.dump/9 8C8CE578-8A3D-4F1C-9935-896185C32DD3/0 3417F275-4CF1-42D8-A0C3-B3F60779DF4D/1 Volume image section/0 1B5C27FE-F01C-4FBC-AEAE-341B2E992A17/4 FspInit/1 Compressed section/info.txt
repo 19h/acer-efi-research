@@ -1,0 +1,14 @@
+Type: Section
+Subtype: Compressed
+Fixed: No
+Base: D360ECh
+Header address: FFD360ECh
+Data address: FFD360F5h
+Offset: 54h
+Type: 01h
+Full size: 2CA1h (11425)
+Header size: 9h (9)
+Body size: 2C98h (11416)
+Compression type: 01h
+Decompressed size: 4B46h (19270)
+Compression algorithm: EFI 1.1

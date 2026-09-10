@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SaSetup
+Fixed: Yes
+Base: 1E4FCh
+Header address: FF01E4FCh
+Data address: FF01E50Fh
+Offset: 1E484h
+Variable GUID: 72C5E28C-7783-43A1-8767-FAD73FCCAFA4
+GUID index: 42
+Full size: 58Bh (1419)
+Header size: 13h (19)
+Body size: 578h (1400)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerNvmeDeviceConfigurationSetupVar
+Fixed: Yes
+Base: 1F706h
+Header address: FF01F706h
+Data address: FF01F735h
+Offset: 1F68Eh
+Variable GUID: 0F06C78C-6D58-46CA-AD81-F81787915EAD
+GUID index: 56
+Full size: 38h (56)
+Header size: 2Fh (47)
+Body size: 9h (9)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

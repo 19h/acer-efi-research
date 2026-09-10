@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: GenericSio
+Fixed: No
+Offset: 7A3BE0h
+File GUID: 8EEF9AD2-463E-425F-A4FE-2F6783D6F97E
+Type: 07h
+Attributes: 00h
+Full size: 6F06h (28422)
+Header size: 18h (24)
+Body size: 6EEEh (28398)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: InitSetupVariable
+Fixed: Yes
+Base: E041h
+Header address: FF00E041h
+Data address: FF00E05Eh
+Offset: DFC9h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 1Eh (30)
+Header size: 1Dh (29)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

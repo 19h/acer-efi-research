@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ArpDxe
+Fixed: No
+Offset: 7D39D0h
+File GUID: 529D3F93-E8E9-4E73-B1E1-BDF6A9D50113
+Type: 07h
+Attributes: 00h
+Full size: 34FEh (13566)
+Header size: 18h (24)
+Body size: 34E6h (13542)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Dh, valid
+Data checksum: AAh, valid

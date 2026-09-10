@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ReFlash
+Fixed: No
+Offset: 4B9070h
+File GUID: 70E1A818-0BE1-4449-BFD4-9EF68C7F02A8
+Type: 07h
+Attributes: 00h
+Full size: E0F2h (57586)
+Header size: 18h (24)
+Body size: E0DAh (57562)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

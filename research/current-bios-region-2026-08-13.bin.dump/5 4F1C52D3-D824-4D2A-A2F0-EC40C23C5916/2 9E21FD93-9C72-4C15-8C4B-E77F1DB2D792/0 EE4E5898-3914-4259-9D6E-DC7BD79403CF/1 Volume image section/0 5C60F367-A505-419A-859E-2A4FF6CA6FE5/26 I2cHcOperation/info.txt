@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: I2cHcOperation
+Fixed: No
+Offset: 979B0h
+File GUID: 440D38B7-E016-49EA-9769-317EF908835D
+Type: 07h
+Attributes: 00h
+Full size: FE6h (4070)
+Header size: 18h (24)
+Body size: FCEh (4046)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

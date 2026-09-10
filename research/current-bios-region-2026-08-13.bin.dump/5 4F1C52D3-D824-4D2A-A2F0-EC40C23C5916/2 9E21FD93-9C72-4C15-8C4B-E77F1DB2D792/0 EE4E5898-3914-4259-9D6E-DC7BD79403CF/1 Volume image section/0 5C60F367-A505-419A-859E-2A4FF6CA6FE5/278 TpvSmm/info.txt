@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: TpvSmm
+Fixed: No
+Offset: B23448h
+File GUID: 8AB1D576-5977-4A89-9414-099D90B53E79
+Type: 0Ah
+Attributes: 00h
+Full size: 18AEh (6318)
+Header size: 18h (24)
+Body size: 1896h (6294)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BDh, valid
+Data checksum: AAh, valid

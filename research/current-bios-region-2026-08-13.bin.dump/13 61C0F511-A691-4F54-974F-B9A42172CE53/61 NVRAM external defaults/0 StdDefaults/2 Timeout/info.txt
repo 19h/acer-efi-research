@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: Timeout
+Fixed: Yes
+Base: FA4CD5h
+Header address: FFFA4CD5h
+Data address: FFFA4CE8h
+Offset: E6Dh
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 1
+Full size: 15h (21)
+Header size: 13h (19)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

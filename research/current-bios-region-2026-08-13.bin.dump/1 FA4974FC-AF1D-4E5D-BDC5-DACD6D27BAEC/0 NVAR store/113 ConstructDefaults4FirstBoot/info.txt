@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: ConstructDefaults4FirstBoot
+Fixed: Yes
+Base: 4F939h
+Header address: FF04F939h
+Data address: FF04F960h
+Offset: 1F8C1h
+Variable GUID: C5912ED9-83C2-4BFF-9936-231FEB85F3E8
+GUID index: 60
+Full size: 2Fh (47)
+Header size: 27h (39)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

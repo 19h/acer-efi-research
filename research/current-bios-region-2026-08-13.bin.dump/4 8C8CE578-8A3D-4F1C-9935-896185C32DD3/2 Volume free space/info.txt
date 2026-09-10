@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: 7D000h
+Address: FF07D000h
+Offset: 6000h
+Full size: 2000h (8192)

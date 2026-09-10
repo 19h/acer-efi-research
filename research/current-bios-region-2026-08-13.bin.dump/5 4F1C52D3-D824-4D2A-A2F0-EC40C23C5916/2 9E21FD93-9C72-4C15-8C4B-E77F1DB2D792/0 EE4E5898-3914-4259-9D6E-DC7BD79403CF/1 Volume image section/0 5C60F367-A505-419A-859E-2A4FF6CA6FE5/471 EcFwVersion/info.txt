@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EcFwVersion
+Fixed: No
+Offset: FA8B50h
+File GUID: F4F4AA4E-4E04-40B7-947C-9AF576CB3D66
+Type: 07h
+Attributes: 00h
+Full size: B66h (2918)
+Header size: 18h (24)
+Body size: B4Eh (2894)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DCh, valid
+Data checksum: AAh, valid

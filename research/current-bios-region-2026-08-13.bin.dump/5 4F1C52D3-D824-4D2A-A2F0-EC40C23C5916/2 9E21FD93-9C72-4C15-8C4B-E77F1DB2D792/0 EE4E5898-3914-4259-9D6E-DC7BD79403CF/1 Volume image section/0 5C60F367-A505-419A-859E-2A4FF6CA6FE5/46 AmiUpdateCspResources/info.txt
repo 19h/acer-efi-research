@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiUpdateCspResources
+Fixed: No
+Offset: E11A8h
+File GUID: BF90FDDC-F163-4FC6-A5A3-D0FDC8F7CE68
+Type: 07h
+Attributes: 00h
+Full size: BB2h (2994)
+Header size: 18h (24)
+Body size: B9Ah (2970)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

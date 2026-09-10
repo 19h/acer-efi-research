@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: TrEEPei
+Fixed: No
+Offset: 1F0B0h
+File GUID: 961C19BE-D1AC-4BA7-87AF-4AE0F09DF2A6
+Type: 06h
+Attributes: 00h
+Full size: AC7Eh (44158)
+Header size: 18h (24)
+Body size: AC66h (44134)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 53h, valid
+Data checksum: AAh, valid

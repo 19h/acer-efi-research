@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: BCB800h
+Address: FFBCB800h
+Offset: 6B418h
+Full size: 2010h (8208)

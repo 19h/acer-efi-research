@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HddSmart
+Fixed: No
+Offset: 4C8930h
+File GUID: D57C852E-809F-45CF-A377-D77BC0CB78EE
+Type: 07h
+Attributes: 00h
+Full size: 2C62h (11362)
+Header size: 18h (24)
+Body size: 2C4Ah (11338)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

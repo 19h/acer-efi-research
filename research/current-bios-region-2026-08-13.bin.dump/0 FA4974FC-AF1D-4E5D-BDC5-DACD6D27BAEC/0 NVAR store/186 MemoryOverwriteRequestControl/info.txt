@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Data
+Text: MemoryOverwriteRequestControl
+Fixed: Yes
+Base: 27686h
+Header address: FF027686h
+Data address: FF027690h
+Offset: 2760Eh
+Full size: Bh (11)
+Header size: Ah (10)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)

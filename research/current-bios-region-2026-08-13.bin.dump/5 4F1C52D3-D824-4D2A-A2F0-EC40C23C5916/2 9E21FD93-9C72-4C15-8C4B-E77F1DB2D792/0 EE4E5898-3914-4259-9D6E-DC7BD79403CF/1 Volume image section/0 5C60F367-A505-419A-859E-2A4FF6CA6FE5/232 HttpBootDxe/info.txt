@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HttpBootDxe
+Fixed: No
+Offset: 97F060h
+File GUID: ECEBCB00-D9C8-11E4-AF3D-8CDCD426C973
+Type: 07h
+Attributes: 00h
+Full size: E43Ah (58426)
+Header size: 18h (24)
+Body size: E422h (58402)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

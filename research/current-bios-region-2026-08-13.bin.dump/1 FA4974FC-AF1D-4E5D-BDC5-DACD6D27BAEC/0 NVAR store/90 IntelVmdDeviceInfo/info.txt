@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: IntelVmdDeviceInfo
+Fixed: Yes
+Base: 4EAECh
+Header address: FF04EAECh
+Data address: FF04EB0Ah
+Offset: 1EA74h
+Variable GUID: 231F36E7-D660-4E44-AB23-157265D64A1A
+GUID index: 44
+Full size: 1C2h (450)
+Header size: 1Eh (30)
+Body size: 1A4h (420)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

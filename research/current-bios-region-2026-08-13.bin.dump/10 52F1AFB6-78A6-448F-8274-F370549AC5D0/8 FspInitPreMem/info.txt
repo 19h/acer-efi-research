@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspInitPreMem
+Fixed: No
+Base: E690D8h
+Header address: FFE690D8h
+Data address: FFE690F0h
+Offset: A90D8h
+File GUID: 9E1CC850-6731-4848-8752-6673C7005EEE
+Type: 06h
+Attributes: 00h
+Full size: 6BE6h (27622)
+Header size: 18h (24)
+Body size: 6BCEh (27598)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EAh, valid
+Data checksum: AAh, valid

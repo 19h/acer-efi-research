@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OememDxeGNVS
+Fixed: No
+Offset: 706AB8h
+File GUID: CFFA207A-B1FD-4265-B0A1-9ACD477545C4
+Type: 07h
+Attributes: 00h
+Full size: CA2h (3234)
+Header size: 18h (24)
+Body size: C8Ah (3210)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 16h, valid
+Data checksum: AAh, valid

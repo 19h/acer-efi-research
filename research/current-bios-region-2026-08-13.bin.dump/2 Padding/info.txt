@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: 60000h
+Address: FF060000h
+Offset: 60000h
+Full size: 10000h (65536)

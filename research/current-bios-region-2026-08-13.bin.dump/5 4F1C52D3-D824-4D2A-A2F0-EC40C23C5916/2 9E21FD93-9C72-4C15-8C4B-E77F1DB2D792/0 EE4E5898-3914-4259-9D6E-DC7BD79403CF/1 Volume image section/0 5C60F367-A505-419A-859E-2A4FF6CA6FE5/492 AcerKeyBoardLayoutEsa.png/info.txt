@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Text: AcerKeyBoardLayoutEsa.png
+Fixed: No
+Offset: 11ACD40h
+File GUID: 355C1B56-C513-4031-B8F3-49C7B666857B
+Type: 02h
+Attributes: 00h
+Full size: DEFh (3567)
+Header size: 18h (24)
+Body size: DD7h (3543)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E0h, valid
+Data checksum: AAh, valid

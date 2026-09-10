@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiDebugDxe
+Fixed: No
+Offset: E49198h
+File GUID: EC98FF95-242C-4513-B1BC-69FA24111C58
+Type: 07h
+Attributes: 00h
+Full size: B1Ah (2842)
+Header size: 18h (24)
+Body size: B02h (2818)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

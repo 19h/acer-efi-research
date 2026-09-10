@@ -1,0 +1,5 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Offset: 120F258h
+Full size: DA8h (3496)

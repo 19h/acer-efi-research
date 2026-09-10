@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: BootGuardPei
+Fixed: No
+Base: F5F4F8h
+Header address: FFF5F4F8h
+Data address: FFF5F510h
+Offset: 3F4F8h
+File GUID: B41956E1-7CA2-42DB-9562-168389F0F066
+Type: 06h
+Attributes: 00h
+Full size: 2986h (10630)
+Header size: 18h (24)
+Body size: 296Eh (10606)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

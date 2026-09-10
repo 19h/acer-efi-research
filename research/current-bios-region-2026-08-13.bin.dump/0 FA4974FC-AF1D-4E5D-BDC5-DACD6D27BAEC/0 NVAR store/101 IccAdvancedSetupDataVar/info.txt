@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: IccAdvancedSetupDataVar
+Fixed: Yes
+Base: 1F668h
+Header address: FF01F668h
+Data address: FF01F68Bh
+Offset: 1F5F0h
+Variable GUID: 64192DCA-D034-49D2-A6DE-65A829EB4C74
+GUID index: 53
+Full size: 2Bh (43)
+Header size: 23h (35)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

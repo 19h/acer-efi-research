@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerTimeData
+Fixed: Yes
+Base: FABBA9h
+Header address: FFFABBA9h
+Data address: FFFABBC1h
+Offset: 232Dh
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: 1Bh (27)
+Header size: 18h (24)
+Body size: 3h (3)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

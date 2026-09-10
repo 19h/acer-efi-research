@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: HwErrRecSupport
+Fixed: Yes
+Base: 3E130h
+Header address: FF03E130h
+Data address: FF03E14Bh
+Offset: E0B8h
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 5
+Full size: 1Dh (29)
+Header size: 1Bh (27)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: HiiDBSize
+Fixed: Yes
+Base: 791Eh
+Header address: FF00791Eh
+Data address: FF007933h
+Offset: 78A6h
+Variable GUID: 1B838190-4625-4EAD-ABC9-CD5E6AF18FE0
+GUID index: 8
+Full size: 1Dh (29)
+Header size: 15h (21)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

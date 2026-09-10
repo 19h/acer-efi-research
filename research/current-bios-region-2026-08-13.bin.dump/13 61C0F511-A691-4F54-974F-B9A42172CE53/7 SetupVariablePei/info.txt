@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SetupVariablePei
+Fixed: No
+Base: F21B48h
+Header address: FFF21B48h
+Data address: FFF21B60h
+Offset: 1B48h
+File GUID: 3E7DD42F-A67E-4D4F-BC02-2B5A6EC8DAE9
+Type: 06h
+Attributes: 00h
+Full size: 31Ah (794)
+Header size: 18h (24)
+Body size: 302h (770)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 23h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: ThermalDownSmi
+Fixed: No
+Offset: C01A50h
+File GUID: 929A631E-C8FA-4619-A2D2-C1DDA8522C08
+Type: 0Ah
+Attributes: 00h
+Full size: 1ED2h (7890)
+Header size: 18h (24)
+Body size: 1EBAh (7866)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F8h, valid
+Data checksum: AAh, valid

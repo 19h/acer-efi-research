@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Link
+Text: MemoryOverwriteRequestControl
+Fixed: Yes
+Base: 5E800h
+Header address: FF05E800h
+Data address: FF05E80Ah
+Offset: 2E788h
+Full size: Bh (11)
+Header size: Ah (10)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)
+Next node at offset: 2E84Eh

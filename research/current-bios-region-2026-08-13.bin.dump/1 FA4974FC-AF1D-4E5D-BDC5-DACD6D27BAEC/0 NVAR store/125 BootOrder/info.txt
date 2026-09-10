@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BootOrder
+Fixed: Yes
+Base: 50139h
+Header address: FF050139h
+Data address: FF05014Eh
+Offset: 200C1h
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 5
+Full size: 17h (23)
+Header size: 15h (21)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,16 @@
+Type: NVAR entry
+Subtype: Link
+Text: EsrtNonFmp
+Fixed: Yes
+Base: 266E4h
+Header address: FF0266E4h
+Data address: FF0266FAh
+Offset: 2666Ch
+Variable GUID: 999BD818-7DF7-4A9A-A502-9B75033E6A0F
+GUID index: 59
+Full size: 66h (102)
+Header size: 16h (22)
+Body size: 50h (80)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)
+Next node at offset: 26885h

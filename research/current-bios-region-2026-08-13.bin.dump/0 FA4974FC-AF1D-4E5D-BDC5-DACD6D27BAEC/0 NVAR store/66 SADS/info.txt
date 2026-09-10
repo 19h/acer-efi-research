@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SADS
+Fixed: Yes
+Base: E212h
+Header address: FF00E212h
+Data address: FF00E222h
+Offset: E19Ah
+Variable GUID: 42780DD5-9A7D-404C-80E4-7F7094360394
+GUID index: 26
+Full size: 12h (18)
+Header size: 10h (16)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

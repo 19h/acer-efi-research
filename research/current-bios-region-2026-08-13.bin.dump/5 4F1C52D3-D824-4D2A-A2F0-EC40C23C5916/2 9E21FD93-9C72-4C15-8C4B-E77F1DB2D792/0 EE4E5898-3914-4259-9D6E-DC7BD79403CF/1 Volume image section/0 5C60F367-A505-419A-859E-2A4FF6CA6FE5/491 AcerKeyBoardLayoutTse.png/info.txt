@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Text: AcerKeyBoardLayoutTse.png
+Fixed: No
+Offset: 11AC130h
+File GUID: C8F5A614-4F16-4064-BAC4-9903E8132EA2
+Type: 02h
+Attributes: 00h
+Full size: C0Ch (3084)
+Header size: 18h (24)
+Body size: BF4h (3060)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 81h, valid
+Data checksum: AAh, valid

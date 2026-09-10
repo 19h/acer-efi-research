@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerLibMemBuffer
+Fixed: No
+Offset: 6FD430h
+File GUID: E7862AEE-A997-48F3-9C58-B79D340D003A
+Type: 07h
+Attributes: 00h
+Full size: 9EAh (2538)
+Header size: 18h (24)
+Body size: 9D2h (2514)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 43h, valid
+Data checksum: AAh, valid

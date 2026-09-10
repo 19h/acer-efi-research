@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspS3Notify
+Fixed: No
+Base: D43018h
+Header address: FFD43018h
+Data address: FFD43030h
+Offset: 32FA8h
+File GUID: EA7F0916-B5C8-493F-A006-565CC2041044
+Type: 06h
+Attributes: 00h
+Full size: 42Eh (1070)
+Header size: 18h (24)
+Body size: 416h (1046)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

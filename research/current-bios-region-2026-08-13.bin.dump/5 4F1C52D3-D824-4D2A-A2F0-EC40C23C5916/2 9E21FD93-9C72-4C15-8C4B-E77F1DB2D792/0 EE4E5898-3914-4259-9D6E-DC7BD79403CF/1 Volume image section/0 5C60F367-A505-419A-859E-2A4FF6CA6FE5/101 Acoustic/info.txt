@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Acoustic
+Fixed: No
+Offset: 2944D0h
+File GUID: 0639408B-19A6-4B5D-BAFB-12A2F5114032
+Type: 07h
+Attributes: 00h
+Full size: CFAh (3322)
+Header size: 18h (24)
+Body size: CE2h (3298)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

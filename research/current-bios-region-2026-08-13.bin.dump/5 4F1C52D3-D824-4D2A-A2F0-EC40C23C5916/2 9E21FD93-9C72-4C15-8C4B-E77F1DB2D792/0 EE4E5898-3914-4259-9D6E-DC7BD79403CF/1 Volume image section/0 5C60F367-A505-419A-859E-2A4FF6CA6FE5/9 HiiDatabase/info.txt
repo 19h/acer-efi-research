@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HiiDatabase
+Fixed: No
+Offset: 41068h
+File GUID: 348C4D62-BFBD-4882-9ECE-C80BB1C4783B
+Type: 07h
+Attributes: 00h
+Full size: 1835Eh (99166)
+Header size: 18h (24)
+Body size: 18346h (99142)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FBh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: RuntimeSmm
+Fixed: No
+Offset: B6BBD0h
+File GUID: 4A6D890F-93C3-4B6D-A67D-5F2C4DCE347B
+Type: 0Ah
+Attributes: 00h
+Full size: 1482h (5250)
+Header size: 18h (24)
+Body size: 146Ah (5226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Bh, valid
+Data checksum: AAh, valid

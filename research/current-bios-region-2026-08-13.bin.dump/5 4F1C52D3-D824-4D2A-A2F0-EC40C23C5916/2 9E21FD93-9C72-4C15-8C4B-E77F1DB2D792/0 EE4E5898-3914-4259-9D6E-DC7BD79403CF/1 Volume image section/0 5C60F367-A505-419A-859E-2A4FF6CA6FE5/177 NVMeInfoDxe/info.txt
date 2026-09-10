@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NVMeInfoDxe
+Fixed: No
+Offset: 715BD8h
+File GUID: 392D4DAE-D3BD-4CAF-B1EF-57A78B6E39BC
+Type: 07h
+Attributes: 00h
+Full size: 111Eh (4382)
+Header size: 18h (24)
+Body size: 1106h (4358)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 52h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 18h
+Type: 19h
+Full size: 13A1h (5025)
+Header size: 4h (4)
+Body size: 139Dh (5021)

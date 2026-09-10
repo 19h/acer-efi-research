@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AcerOverClockDxe
+Fixed: No
+Offset: BEB630h
+File GUID: 5DB27D91-1A07-42E5-9BCA-8B8B2CDB77A9
+Type: 0Ah
+Attributes: 00h
+Full size: 58C2h (22722)
+Header size: 18h (24)
+Body size: 58AAh (22698)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

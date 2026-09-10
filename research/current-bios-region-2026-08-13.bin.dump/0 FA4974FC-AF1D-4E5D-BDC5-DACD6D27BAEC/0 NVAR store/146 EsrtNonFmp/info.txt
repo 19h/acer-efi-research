@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Link
+Text: EsrtNonFmp
+Fixed: Yes
+Base: 26B4Dh
+Header address: FF026B4Dh
+Data address: FF026B57h
+Offset: 26AD5h
+Full size: 32h (50)
+Header size: Ah (10)
+Body size: 28h (40)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)
+Next node at offset: 26B07h

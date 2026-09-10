@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: OemSetupItemSecurity
+Fixed: Yes
+Base: 323D8h
+Header address: FF0323D8h
+Data address: FF0323F8h
+Offset: 2348h
+Variable GUID: 31AE1D53-9A52-4E7A-BFEA-AACA1555E3AE
+GUID index: 17
+Full size: 21h (33)
+Header size: 20h (32)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OA3_SMM
+Fixed: No
+Offset: B3CD78h
+File GUID: 8434DA1F-5CEB-402E-A93C-038CBE0F3F0E
+Type: 0Ah
+Attributes: 00h
+Full size: 127Ah (4730)
+Header size: 18h (24)
+Body size: 1262h (4706)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 76h, valid
+Data checksum: AAh, valid

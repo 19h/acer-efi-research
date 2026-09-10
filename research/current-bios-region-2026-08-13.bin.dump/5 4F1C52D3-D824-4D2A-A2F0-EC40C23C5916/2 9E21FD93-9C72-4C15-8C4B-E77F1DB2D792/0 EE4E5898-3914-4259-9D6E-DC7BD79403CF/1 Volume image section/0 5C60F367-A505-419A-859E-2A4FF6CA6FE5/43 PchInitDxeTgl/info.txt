@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PchInitDxeTgl
+Fixed: No
+Offset: C2FE0h
+File GUID: 4BD0EB2F-3A2D-442E-822D-753516F75424
+Type: 07h
+Attributes: 00h
+Full size: 4346h (17222)
+Header size: 18h (24)
+Body size: 432Eh (17198)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcPowerLoss
+Fixed: No
+Offset: FA80D0h
+File GUID: 159714F4-C1E6-43F5-864B-642BD553D1A0
+Type: 07h
+Attributes: 00h
+Full size: A7Eh (2686)
+Header size: 18h (24)
+Body size: A66h (2662)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E5h, valid
+Data checksum: AAh, valid

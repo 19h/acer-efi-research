@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: F86A88h
+Header address: FFF86A88h
+Data address: FFF86A8Ch
+Offset: 18h
+Type: 19h
+Full size: 54h (84)
+Header size: 4h (4)
+Body size: 50h (80)

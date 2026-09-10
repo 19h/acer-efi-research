@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MotherBoardHealthDxe
+Fixed: No
+Offset: 27D280h
+File GUID: 6A79EBF1-BBB6-42A7-BDA1-5EACF52F2480
+Type: 07h
+Attributes: 00h
+Full size: AA2h (2722)
+Header size: 18h (24)
+Body size: A8Ah (2698)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 04h, valid
+Data checksum: AAh, valid

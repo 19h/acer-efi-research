@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RemotePlatformErase
+Fixed: No
+Offset: 2430C0h
+File GUID: 24848D1D-A637-45DD-974F-BEBA0340FF96
+Type: 07h
+Attributes: 00h
+Full size: EC92h (60562)
+Header size: 18h (24)
+Body size: EC7Ah (60538)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SbRunSmm
+Fixed: No
+Offset: AD6140h
+File GUID: C99E42D0-4964-4B09-B924-4A59E13E4F04
+Type: 0Ah
+Attributes: 00h
+Full size: 2EEAh (12010)
+Header size: 18h (24)
+Body size: 2ED2h (11986)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 72h, valid
+Data checksum: AAh, valid

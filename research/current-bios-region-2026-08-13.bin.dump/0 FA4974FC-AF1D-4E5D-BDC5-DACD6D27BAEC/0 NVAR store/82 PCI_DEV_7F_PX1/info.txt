@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: PCI_DEV_7F_PX1
+Fixed: Yes
+Base: 1E41Eh
+Header address: FF01E41Eh
+Data address: FF01E438h
+Offset: 1E3A6h
+Variable GUID: ACA9F304-21E2-4852-9875-7FF4881D67A5
+GUID index: 38
+Full size: 2Ah (42)
+Header size: 1Ah (26)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

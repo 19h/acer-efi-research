@@ -1,0 +1,14 @@
+Type: File
+Subtype: DXE driver
+Fixed: No
+Offset: FD3900h
+File GUID: 8D3168FD-8CD5-4B35-9AA0-3C964D4CC14A
+Type: 07h
+Attributes: 00h
+Full size: 1BA95h (113301)
+Header size: 18h (24)
+Body size: 1BA7Dh (113277)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

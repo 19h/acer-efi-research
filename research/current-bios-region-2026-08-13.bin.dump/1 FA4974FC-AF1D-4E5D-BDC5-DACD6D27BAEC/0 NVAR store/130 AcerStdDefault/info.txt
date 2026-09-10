@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerStdDefault
+Fixed: Yes
+Base: 516AEh
+Header address: FF0516AEh
+Data address: FF0516C8h
+Offset: 21636h
+Variable GUID: 4599D26F-1A11-49B8-B91F-858745CFF824
+GUID index: 0
+Full size: 5015h (20501)
+Header size: 1Ah (26)
+Body size: 4FFBh (20475)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

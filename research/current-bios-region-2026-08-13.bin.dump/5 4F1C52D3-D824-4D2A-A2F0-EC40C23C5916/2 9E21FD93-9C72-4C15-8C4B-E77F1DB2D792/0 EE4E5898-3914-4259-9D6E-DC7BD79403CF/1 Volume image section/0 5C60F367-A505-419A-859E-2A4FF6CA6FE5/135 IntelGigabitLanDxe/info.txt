@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IntelGigabitLanDxe
+Fixed: No
+Offset: 4D6B18h
+File GUID: 8E47929C-C80E-40CE-B013-807FEFC94110
+Type: 07h
+Attributes: 00h
+Full size: 52Eh (1326)
+Header size: 18h (24)
+Body size: 516h (1302)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 14h, valid
+Data checksum: AAh, valid

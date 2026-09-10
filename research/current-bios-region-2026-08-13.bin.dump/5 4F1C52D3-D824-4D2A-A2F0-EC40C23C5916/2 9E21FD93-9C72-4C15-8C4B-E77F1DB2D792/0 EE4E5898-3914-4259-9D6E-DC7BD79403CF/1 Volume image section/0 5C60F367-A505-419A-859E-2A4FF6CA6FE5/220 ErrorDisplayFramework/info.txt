@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ErrorDisplayFramework
+Fixed: No
+Offset: 79F098h
+File GUID: 2CE70F66-AC57-4346-A91F-89281A07FAD6
+Type: 07h
+Attributes: 00h
+Full size: 2996h (10646)
+Header size: 18h (24)
+Body size: 297Eh (10622)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

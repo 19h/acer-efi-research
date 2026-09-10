@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: Yes
+Base: BFFFE8h
+Header address: FFBFFFE8h
+Data address: FFC00000h
+Offset: 9FFE8h
+File GUID: 6520F532-2A27-4195-B331-C0854683E0BA
+Type: 01h
+Attributes: 04h
+Full size: 40018h (262168)
+Header size: 18h (24)
+Body size: 40000h (262144)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 80h, valid
+Data checksum: AAh, valid

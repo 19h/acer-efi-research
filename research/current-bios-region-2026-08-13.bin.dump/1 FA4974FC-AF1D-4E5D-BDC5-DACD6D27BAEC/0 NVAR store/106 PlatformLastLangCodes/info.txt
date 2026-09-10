@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: PlatformLastLangCodes
+Fixed: Yes
+Base: 4F769h
+Header address: FF04F769h
+Data address: FF04F78Ah
+Offset: 1F6F1h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 6Bh (107)
+Header size: 21h (33)
+Body size: 4Ah (74)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

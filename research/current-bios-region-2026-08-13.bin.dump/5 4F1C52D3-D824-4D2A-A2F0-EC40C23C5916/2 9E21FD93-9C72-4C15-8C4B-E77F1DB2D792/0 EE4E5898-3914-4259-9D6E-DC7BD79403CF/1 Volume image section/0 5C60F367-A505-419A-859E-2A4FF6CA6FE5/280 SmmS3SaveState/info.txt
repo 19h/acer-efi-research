@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmS3SaveState
+Fixed: No
+Offset: B33F88h
+File GUID: 2D59F041-53A4-40D0-A6CD-844DC0DFEF17
+Type: 0Ah
+Attributes: 00h
+Full size: 408Ah (16522)
+Header size: 18h (24)
+Body size: 4072h (16498)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 85h, valid
+Data checksum: AAh, valid

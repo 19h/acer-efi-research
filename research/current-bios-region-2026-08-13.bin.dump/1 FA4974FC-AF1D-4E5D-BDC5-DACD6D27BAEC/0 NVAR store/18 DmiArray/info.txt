@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: DmiArray
+Fixed: Yes
+Base: 37980h
+Header address: FF037980h
+Data address: FF037994h
+Offset: 7908h
+Variable GUID: 4B3082A3-80C6-4D7E-9CD0-583917265DF1
+GUID index: 6
+Full size: 514h (1300)
+Header size: 14h (20)
+Body size: 500h (1280)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

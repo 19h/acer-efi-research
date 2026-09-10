@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformInitAdvancedDxe
+Fixed: No
+Offset: 2677C0h
+File GUID: C5046EFD-7BC3-4206-987C-32DA45026E6D
+Type: 07h
+Attributes: 00h
+Full size: D782h (55170)
+Header size: 18h (24)
+Body size: D76Ah (55146)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A4h, valid
+Data checksum: AAh, valid

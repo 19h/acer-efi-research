@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SystemHealthIndicatorSetupVar
+Fixed: Yes
+Base: 4F73Eh
+Header address: FF04F73Eh
+Data address: FF04F767h
+Offset: 1F6C6h
+Variable GUID: 01825247-C996-4D1C-88A2-92B024CD9BA4
+GUID index: 57
+Full size: 2Bh (43)
+Header size: 29h (41)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

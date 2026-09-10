@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IntelGigabitLan
+Fixed: No
+Offset: A05000h
+File GUID: 4953F720-006D-41F5-990D-0AC7742ABB60
+Type: 07h
+Attributes: 00h
+Full size: 46D46h (290118)
+Header size: 18h (24)
+Body size: 46D2Eh (290094)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

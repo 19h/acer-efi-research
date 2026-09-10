@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiTxtDxe
+Fixed: No
+Offset: 9B920h
+File GUID: 87D402CD-8B07-4B93-B38B-F8799F28B033
+Type: 07h
+Attributes: 00h
+Full size: 69Eh (1694)
+Header size: 18h (24)
+Body size: 686h (1670)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

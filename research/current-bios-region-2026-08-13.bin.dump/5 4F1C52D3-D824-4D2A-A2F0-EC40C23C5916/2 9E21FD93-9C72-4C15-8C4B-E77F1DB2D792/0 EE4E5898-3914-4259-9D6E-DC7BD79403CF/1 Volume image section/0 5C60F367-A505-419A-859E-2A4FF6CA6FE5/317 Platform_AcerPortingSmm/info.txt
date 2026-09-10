@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: Platform_AcerPortingSmm
+Fixed: No
+Offset: BFEF68h
+File GUID: 13150298-08E0-4C01-9E1B-DD7D2C5D59B9
+Type: 0Ah
+Attributes: 00h
+Full size: 2AE2h (10978)
+Header size: 18h (24)
+Body size: 2ACAh (10954)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 45h, valid
+Data checksum: AAh, valid

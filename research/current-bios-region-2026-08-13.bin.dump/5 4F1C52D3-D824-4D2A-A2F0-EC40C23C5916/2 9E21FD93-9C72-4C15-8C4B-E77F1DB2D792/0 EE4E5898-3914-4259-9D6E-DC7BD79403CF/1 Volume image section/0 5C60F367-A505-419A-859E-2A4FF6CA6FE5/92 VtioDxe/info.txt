@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: VtioDxe
+Fixed: No
+Offset: 282380h
+File GUID: 812BA1E0-6A75-4AE5-AD37-63D030974501
+Type: 07h
+Attributes: 00h
+Full size: 12DAh (4826)
+Header size: 18h (24)
+Body size: 12C2h (4802)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AEh, valid
+Data checksum: AAh, valid

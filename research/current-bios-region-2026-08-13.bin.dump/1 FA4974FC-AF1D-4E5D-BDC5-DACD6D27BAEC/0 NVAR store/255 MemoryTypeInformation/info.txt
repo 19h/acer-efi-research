@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Data
+Text: MemoryTypeInformation
+Fixed: Yes
+Base: 5F624h
+Header address: FF05F624h
+Data address: FF05F62Eh
+Offset: 2F5ACh
+Full size: 4Ah (74)
+Header size: Ah (10)
+Body size: 40h (64)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)

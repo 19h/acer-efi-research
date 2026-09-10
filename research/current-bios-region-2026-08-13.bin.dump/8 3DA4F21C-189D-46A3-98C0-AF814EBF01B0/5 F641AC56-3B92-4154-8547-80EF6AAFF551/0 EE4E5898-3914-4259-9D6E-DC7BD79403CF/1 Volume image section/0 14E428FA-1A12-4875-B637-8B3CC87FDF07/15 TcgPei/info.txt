@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: TcgPei
+Fixed: No
+Offset: 1CC00h
+File GUID: 34989D8E-930A-4A95-AB04-2E6CFDFF6631
+Type: 06h
+Attributes: 00h
+Full size: 24AAh (9386)
+Header size: 18h (24)
+Body size: 2492h (9362)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DDh, valid
+Data checksum: AAh, valid

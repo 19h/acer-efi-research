@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FastBootRuntime
+Fixed: No
+Offset: F70EE8h
+File GUID: 80D7491A-F7D9-479D-A8F7-1B393B02ED66
+Type: 07h
+Attributes: 00h
+Full size: 1A8Ah (6794)
+Header size: 18h (24)
+Body size: 1A72h (6770)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

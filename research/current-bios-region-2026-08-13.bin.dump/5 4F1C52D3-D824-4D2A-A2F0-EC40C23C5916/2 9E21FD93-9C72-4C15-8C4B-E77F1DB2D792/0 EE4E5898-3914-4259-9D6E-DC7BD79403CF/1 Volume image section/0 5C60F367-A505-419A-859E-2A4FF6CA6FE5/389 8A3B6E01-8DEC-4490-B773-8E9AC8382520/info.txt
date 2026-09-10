@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: D3D470h
+File GUID: 8A3B6E01-8DEC-4490-B773-8E9AC8382520
+Type: 02h
+Attributes: 00h
+Full size: 1272h (4722)
+Header size: 18h (24)
+Body size: 125Ah (4698)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

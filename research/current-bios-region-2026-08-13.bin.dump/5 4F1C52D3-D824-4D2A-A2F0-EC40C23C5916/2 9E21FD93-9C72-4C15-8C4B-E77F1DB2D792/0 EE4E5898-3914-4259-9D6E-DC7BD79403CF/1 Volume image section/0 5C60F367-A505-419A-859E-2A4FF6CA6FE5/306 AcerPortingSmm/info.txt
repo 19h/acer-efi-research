@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AcerPortingSmm
+Fixed: No
+Offset: BC9D50h
+File GUID: BAB79BD9-620D-4B15-B51E-BD1CAA5FDDCC
+Type: 0Ah
+Attributes: 00h
+Full size: 1EBEh (7870)
+Header size: 18h (24)
+Body size: 1EA6h (7846)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 08h, valid
+Data checksum: AAh, valid

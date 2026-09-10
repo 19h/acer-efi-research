@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: NhltEndpointsTableConfigurationVariable
+Fixed: Yes
+Base: FA5ED7h
+Header address: FFFA5ED7h
+Data address: FFFA5F0Ah
+Offset: 206Fh
+Variable GUID: A1D89A3A-4A90-429D-4365-1F64C3A29614
+GUID index: 6
+Full size: 44h (68)
+Header size: 33h (51)
+Body size: 11h (17)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

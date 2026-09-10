@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RsdpPlus
+Fixed: No
+Offset: 45A068h
+File GUID: 8F3F1DE2-2FE4-4D5C-A8EC-49E8CCA17EBC
+Type: 07h
+Attributes: 00h
+Full size: E9Ah (3738)
+Header size: 18h (24)
+Body size: E82h (3714)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Ch, valid
+Data checksum: AAh, valid

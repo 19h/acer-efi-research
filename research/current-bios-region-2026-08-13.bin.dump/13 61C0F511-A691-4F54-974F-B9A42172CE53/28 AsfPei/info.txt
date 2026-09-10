@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsfPei
+Fixed: No
+Base: F5EBF8h
+Header address: FFF5EBF8h
+Data address: FFF5EC10h
+Offset: 3EBF8h
+File GUID: 03417BF3-6D95-41DF-88EF-0DDA6E86DC34
+Type: 06h
+Attributes: 00h
+Full size: 8FAh (2298)
+Header size: 18h (24)
+Body size: 8E2h (2274)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

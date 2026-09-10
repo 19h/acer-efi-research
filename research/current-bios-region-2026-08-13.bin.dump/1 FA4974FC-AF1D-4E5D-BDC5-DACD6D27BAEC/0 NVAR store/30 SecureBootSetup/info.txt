@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SecureBootSetup
+Fixed: Yes
+Base: 38077h
+Header address: FF038077h
+Data address: FF038092h
+Offset: 7FFFh
+Variable GUID: 7B59104A-C00D-4158-87FF-F04D6396A915
+GUID index: 10
+Full size: 22h (34)
+Header size: 1Bh (27)
+Body size: 7h (7)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

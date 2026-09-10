@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SiliconPolicyPeiPostMem
+Fixed: No
+Base: F55150h
+Header address: FFF55150h
+Data address: FFF55168h
+Offset: 35150h
+File GUID: CE19678F-3F08-4E81-A1F3-1886CA13ADA7
+Type: 06h
+Attributes: 00h
+Full size: 9AA6h (39590)
+Header size: 18h (24)
+Body size: 9A8Eh (39566)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

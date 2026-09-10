@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: OemPei
+Fixed: No
+Base: F6F950h
+Header address: FFF6F950h
+Data address: FFF6F968h
+Offset: 4F950h
+File GUID: BA0ECDFD-A429-49B9-A961-11EEFF784C7F
+Type: 06h
+Attributes: 00h
+Full size: 17Eh (382)
+Header size: 18h (24)
+Body size: 166h (358)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CFh, valid
+Data checksum: AAh, valid

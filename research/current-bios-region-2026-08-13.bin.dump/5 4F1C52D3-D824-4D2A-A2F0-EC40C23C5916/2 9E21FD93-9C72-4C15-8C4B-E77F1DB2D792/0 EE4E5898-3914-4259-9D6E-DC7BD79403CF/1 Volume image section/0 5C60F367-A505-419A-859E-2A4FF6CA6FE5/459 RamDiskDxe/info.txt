@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RamDiskDxe
+Fixed: No
+Offset: F806C8h
+File GUID: 28A03FF4-12B3-4305-A417-BB1A4F94081E
+Type: 07h
+Attributes: 00h
+Full size: 781Ah (30746)
+Header size: 18h (24)
+Body size: 7802h (30722)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C6h, valid
+Data checksum: AAh, valid

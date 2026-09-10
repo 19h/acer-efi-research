@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: NvmePluggingVar
+Fixed: Yes
+Base: 1F61Dh
+Header address: FF01F61Dh
+Data address: FF01F638h
+Offset: 1F5A5h
+Variable GUID: CAE7CC71-2626-4AA5-ABE1-E7914D3CFFB9
+GUID index: 52
+Full size: 1Fh (31)
+Header size: 1Bh (27)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: MemoryConfig
+Fixed: Yes
+Base: 3E2A1h
+Header address: FF03E2A1h
+Data address: FF03E2B9h
+Offset: E229h
+Variable GUID: C94F8C4D-9B9A-45FE-8A55-238B67302643
+GUID index: 28
+Full size: F7F8h (63480)
+Header size: 18h (24)
+Body size: F7E0h (63456)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

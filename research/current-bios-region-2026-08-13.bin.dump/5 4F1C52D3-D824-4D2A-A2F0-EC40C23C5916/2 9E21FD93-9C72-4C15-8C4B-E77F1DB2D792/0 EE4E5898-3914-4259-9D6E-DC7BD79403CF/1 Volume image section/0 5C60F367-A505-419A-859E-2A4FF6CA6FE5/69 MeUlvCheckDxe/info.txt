@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MeUlvCheckDxe
+Fixed: No
+Offset: 23C8F8h
+File GUID: CD31F8A8-28A6-4E49-8B3E-4142BD006C41
+Type: 07h
+Attributes: 00h
+Full size: 7C2h (1986)
+Header size: 18h (24)
+Body size: 7AAh (1962)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 77h, valid
+Data checksum: AAh, valid

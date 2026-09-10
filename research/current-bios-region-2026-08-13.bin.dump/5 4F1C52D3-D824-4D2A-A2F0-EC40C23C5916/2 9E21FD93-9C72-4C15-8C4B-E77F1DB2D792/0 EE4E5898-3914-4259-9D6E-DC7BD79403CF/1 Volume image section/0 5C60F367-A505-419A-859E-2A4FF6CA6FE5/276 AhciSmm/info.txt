@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AhciSmm
+Fixed: No
+Offset: B1ED08h
+File GUID: BC3245BD-B982-4F55-9F79-056AD7E987C5
+Type: 0Ah
+Attributes: 00h
+Full size: 308Ah (12426)
+Header size: 18h (24)
+Body size: 3072h (12402)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DAh, valid
+Data checksum: AAh, valid

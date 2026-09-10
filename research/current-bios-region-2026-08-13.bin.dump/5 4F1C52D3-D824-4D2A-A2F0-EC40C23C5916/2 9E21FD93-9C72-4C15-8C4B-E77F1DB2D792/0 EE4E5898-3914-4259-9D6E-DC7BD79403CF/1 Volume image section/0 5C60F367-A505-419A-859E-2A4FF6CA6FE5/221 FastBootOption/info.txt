@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FastBootOption
+Fixed: No
+Offset: 7A1A30h
+File GUID: 0C989D41-F4B4-4244-9D7F-E9FFB4163273
+Type: 07h
+Attributes: 00h
+Full size: 21AEh (8622)
+Header size: 18h (24)
+Body size: 2196h (8598)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 07h, valid
+Data checksum: AAh, valid

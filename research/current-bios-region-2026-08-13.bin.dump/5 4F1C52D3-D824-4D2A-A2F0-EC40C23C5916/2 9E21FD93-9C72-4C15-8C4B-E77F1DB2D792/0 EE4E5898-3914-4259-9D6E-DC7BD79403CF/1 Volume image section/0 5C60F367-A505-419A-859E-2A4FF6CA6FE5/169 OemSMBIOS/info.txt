@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemSMBIOS
+Fixed: No
+Offset: 70A0C0h
+File GUID: 0A814161-DE67-46E7-A813-B7F8F489AFCD
+Type: 07h
+Attributes: 00h
+Full size: 13BAh (5050)
+Header size: 18h (24)
+Body size: 13A2h (5026)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

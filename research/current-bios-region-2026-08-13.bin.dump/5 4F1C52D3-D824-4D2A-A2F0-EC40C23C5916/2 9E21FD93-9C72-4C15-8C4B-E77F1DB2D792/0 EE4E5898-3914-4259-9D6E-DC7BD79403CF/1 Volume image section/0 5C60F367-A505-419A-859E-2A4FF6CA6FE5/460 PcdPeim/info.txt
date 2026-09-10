@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: PcdPeim
+Fixed: No
+Offset: F87EE8h
+File GUID: 9B3ADA4F-AE56-4C24-8DEA-F03B7558AE50
+Type: 06h
+Attributes: 00h
+Full size: 5CC6h (23750)
+Header size: 18h (24)
+Body size: 5CAEh (23726)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F9h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OemSxSmi
+Fixed: No
+Offset: C03928h
+File GUID: 953DD177-CCE7-49CC-A0C8-736CFA0821E2
+Type: 0Ah
+Attributes: 00h
+Full size: 22D6h (8918)
+Header size: 18h (24)
+Body size: 22BEh (8894)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D0h, valid
+Data checksum: AAh, valid

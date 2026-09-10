@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootCurrentOption
+Fixed: Yes
+Base: 1F996h
+Header address: FF01F996h
+Data address: FF01F9B7h
+Offset: 1F91Eh
+Variable GUID: 01368881-C4AD-4B1D-B631-D57A8EC8DB6B
+GUID index: 15
+Full size: 23h (35)
+Header size: 21h (33)
+Body size: 2h (2)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

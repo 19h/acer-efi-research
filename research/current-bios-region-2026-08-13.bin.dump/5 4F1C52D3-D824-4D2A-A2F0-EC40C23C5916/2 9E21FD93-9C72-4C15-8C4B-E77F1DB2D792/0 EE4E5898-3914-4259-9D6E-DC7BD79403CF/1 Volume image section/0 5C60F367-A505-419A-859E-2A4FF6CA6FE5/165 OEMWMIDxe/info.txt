@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OEMWMIDxe
+Fixed: No
+Offset: 705D58h
+File GUID: 4D6E34BC-99C2-4749-A787-41AD6FDABB83
+Type: 07h
+Attributes: 00h
+Full size: D5Ah (3418)
+Header size: 18h (24)
+Body size: D42h (3394)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 59h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,20 @@
+Type: Section
+Subtype: PEI dependency
+Fixed: No
+Base: D10650h
+Header address: FFD10650h
+Data address: FFD10654h
+Offset: 18h
+Type: 1Bh
+Full size: 4Ch (76)
+Header size: 4h (4)
+Body size: 48h (72)
+Parsed expression:
+PUSH B9E0ABFE-5979-4914-977F-6DEE78C278A6
+PUSH 7408D748-FC8C-4EE6-9288-C4BEC092A410
+PUSH 01F34D25-4DE2-23AD-3FF3-36353FF323F1
+PUSH A1EEAB87-C859-479D-89B5-1461F4061A3E
+AND
+AND
+AND
+END

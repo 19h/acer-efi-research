@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: JhiDxe
+Fixed: No
+Offset: B5D18h
+File GUID: 6FD18837-36E6-46EC-8F61-6730E3E23D50
+Type: 07h
+Attributes: 00h
+Full size: 84DAh (34010)
+Header size: 18h (24)
+Body size: 84C2h (33986)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 75h, valid
+Data checksum: AAh, valid

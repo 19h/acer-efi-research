@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TestPointStubDxe
+Fixed: No
+Offset: E95A8h
+File GUID: C034A2CB-1190-4638-9DDF-6F297824741E
+Type: 07h
+Attributes: 00h
+Full size: 11CAh (4554)
+Header size: 18h (24)
+Body size: 11B2h (4530)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Ch, valid
+Data checksum: AAh, valid

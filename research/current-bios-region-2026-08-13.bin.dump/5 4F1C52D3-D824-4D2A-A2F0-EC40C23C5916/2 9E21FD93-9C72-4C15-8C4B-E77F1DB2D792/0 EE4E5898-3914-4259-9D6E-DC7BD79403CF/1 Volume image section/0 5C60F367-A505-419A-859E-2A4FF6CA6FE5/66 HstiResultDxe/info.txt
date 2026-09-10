@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HstiResultDxe
+Fixed: No
+Offset: 238850h
+File GUID: C642C14C-0E9C-4AEF-94A5-A213BAA35DE0
+Type: 07h
+Attributes: 00h
+Full size: E2Ah (3626)
+Header size: 18h (24)
+Body size: E12h (3602)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 41h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Dptf
+Fixed: No
+Offset: 22F070h
+File GUID: 918ABA30-3D8D-4BB5-B849-45CC4FC7DE7C
+Type: 07h
+Attributes: 00h
+Full size: 1636h (5686)
+Header size: 18h (24)
+Body size: 161Eh (5662)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Ch, valid
+Data checksum: AAh, valid

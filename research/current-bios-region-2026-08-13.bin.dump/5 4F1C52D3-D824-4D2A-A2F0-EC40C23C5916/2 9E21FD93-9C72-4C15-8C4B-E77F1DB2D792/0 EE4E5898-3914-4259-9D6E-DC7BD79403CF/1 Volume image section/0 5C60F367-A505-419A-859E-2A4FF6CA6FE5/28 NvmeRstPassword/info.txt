@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NvmeRstPassword
+Fixed: No
+Offset: 99780h
+File GUID: D0927E0C-FEA5-4569-8AC0-33C8F60E5073
+Type: 07h
+Attributes: 00h
+Full size: 1A66h (6758)
+Header size: 18h (24)
+Body size: 1A4Eh (6734)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 30h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: PlatformConfigurationChange
+Fixed: Yes
+Base: 4FA38h
+Header address: FF04FA38h
+Data address: FF04FA5Fh
+Offset: 1F9C0h
+Variable GUID: E3CACF62-3062-4E1D-978E-46807AB9747D
+GUID index: 62
+Full size: 2Bh (43)
+Header size: 27h (39)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

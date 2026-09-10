@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: QualcommSupport
+Fixed: No
+Offset: 70B480h
+File GUID: CBC6B94E-DEAA-462C-840C-6698180DE292
+Type: 07h
+Attributes: 00h
+Full size: AB6h (2742)
+Header size: 18h (24)
+Body size: A9Eh (2718)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 80h, valid
+Data checksum: AAh, valid

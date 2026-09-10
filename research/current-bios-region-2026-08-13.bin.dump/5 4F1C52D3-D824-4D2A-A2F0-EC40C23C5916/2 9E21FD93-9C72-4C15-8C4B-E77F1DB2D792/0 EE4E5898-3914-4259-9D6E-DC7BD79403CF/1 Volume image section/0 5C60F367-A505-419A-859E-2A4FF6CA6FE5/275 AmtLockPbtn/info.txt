@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtLockPbtn
+Fixed: No
+Offset: B1E738h
+File GUID: 61ED3D94-30D8-408C-97DF-DEDF2740F630
+Type: 07h
+Attributes: 00h
+Full size: 5CEh (1486)
+Header size: 18h (24)
+Body size: 5B6h (1462)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 73h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: NVAR entry
+Subtype: Link
+Text: MemoryTypeInformation
+Fixed: Yes
+Base: 4FAF4h
+Header address: FF04FAF4h
+Data address: FF04FB15h
+Offset: 1FA7Ch
+Variable GUID: 01368881-C4AD-4B1D-B631-D57A8EC8DB6B
+GUID index: 15
+Full size: 61h (97)
+Header size: 21h (33)
+Body size: 40h (64)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)
+Next node at offset: 2E658h

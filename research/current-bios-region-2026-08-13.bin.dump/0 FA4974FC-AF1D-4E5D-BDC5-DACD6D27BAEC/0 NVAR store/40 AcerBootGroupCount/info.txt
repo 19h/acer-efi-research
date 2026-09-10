@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootGroupCount
+Fixed: Yes
+Base: DDA9h
+Header address: FF00DDA9h
+Data address: FF00DDC7h
+Offset: DD31h
+Variable GUID: EB15823E-FD0E-4A91-9532-A39CCAC78CCD
+GUID index: 14
+Full size: 26h (38)
+Header size: 1Eh (30)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MeFwUpdLcl
+Fixed: No
+Offset: 4E0520h
+File GUID: A11585B7-8FA2-4F1C-AA6F-DD6309469613
+Type: 07h
+Attributes: 00h
+Full size: 50EEh (20718)
+Header size: 18h (24)
+Body size: 50D6h (20694)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DCh, valid
+Data checksum: AAh, valid

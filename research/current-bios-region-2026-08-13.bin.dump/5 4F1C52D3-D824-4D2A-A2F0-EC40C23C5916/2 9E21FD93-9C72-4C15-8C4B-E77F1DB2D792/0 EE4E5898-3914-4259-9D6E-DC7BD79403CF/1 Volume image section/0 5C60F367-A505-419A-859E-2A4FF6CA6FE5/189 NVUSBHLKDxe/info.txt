@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: NVUSBHLKDxe
+Fixed: No
+Offset: 72D7E8h
+File GUID: 2EB9A2C6-16DA-416F-9F64-2EDD8F3AC470
+Type: 07h
+Attributes: 00h
+Full size: BB2h (2994)
+Header size: 18h (24)
+Body size: B9Ah (2970)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 42h, valid
+Data checksum: AAh, valid

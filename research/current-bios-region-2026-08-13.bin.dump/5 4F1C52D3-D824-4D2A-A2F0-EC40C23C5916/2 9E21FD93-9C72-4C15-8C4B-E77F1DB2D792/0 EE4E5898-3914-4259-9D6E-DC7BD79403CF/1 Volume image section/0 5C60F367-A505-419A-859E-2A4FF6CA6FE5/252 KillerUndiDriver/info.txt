@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: KillerUndiDriver
+Fixed: No
+Offset: A81BA8h
+File GUID: 676C3543-54B2-4DC4-8B1B-3C60CCB512BF
+Type: 07h
+Attributes: 00h
+Full size: 2578Ah (153482)
+Header size: 18h (24)
+Body size: 25772h (153458)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 20h, valid
+Data checksum: AAh, valid

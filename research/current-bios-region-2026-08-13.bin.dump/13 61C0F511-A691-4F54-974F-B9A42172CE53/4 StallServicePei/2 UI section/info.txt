@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F20FC4h
+Header address: FFF20FC4h
+Data address: FFF20FC8h
+Offset: 374h
+Type: 15h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Text: StallServicePei

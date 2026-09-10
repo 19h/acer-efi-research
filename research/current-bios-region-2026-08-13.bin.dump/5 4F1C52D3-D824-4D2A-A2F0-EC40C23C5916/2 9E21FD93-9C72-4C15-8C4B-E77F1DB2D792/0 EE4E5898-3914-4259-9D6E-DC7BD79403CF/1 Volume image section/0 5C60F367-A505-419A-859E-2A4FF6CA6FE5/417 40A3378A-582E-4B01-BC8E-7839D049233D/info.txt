@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: DD5250h
+File GUID: 40A3378A-582E-4B01-BC8E-7839D049233D
+Type: 02h
+Attributes: 00h
+Full size: AEh (174)
+Header size: 18h (24)
+Body size: 96h (150)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 66h, valid
+Data checksum: AAh, valid

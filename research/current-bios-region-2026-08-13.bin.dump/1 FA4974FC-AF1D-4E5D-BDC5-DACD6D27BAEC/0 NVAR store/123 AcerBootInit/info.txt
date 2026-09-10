@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootInit
+Fixed: Yes
+Base: 50096h
+Header address: FF050096h
+Data address: FF0500AEh
+Offset: 2001Eh
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 19h (25)
+Header size: 18h (24)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

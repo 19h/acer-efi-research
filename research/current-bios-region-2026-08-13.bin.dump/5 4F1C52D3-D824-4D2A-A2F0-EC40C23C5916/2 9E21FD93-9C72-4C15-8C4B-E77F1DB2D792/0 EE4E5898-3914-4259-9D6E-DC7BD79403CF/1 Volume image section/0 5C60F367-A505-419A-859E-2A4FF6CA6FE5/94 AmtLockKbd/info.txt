@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtLockKbd
+Fixed: No
+Offset: 283BC8h
+File GUID: 5507247A-846B-4F22-B55F-72B4049435EF
+Type: 07h
+Attributes: 00h
+Full size: 62Eh (1582)
+Header size: 18h (24)
+Body size: 616h (1558)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 75h, valid
+Data checksum: AAh, valid

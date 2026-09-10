@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: FspWrapperPeim
+Fixed: No
+Offset: 16C08h
+File GUID: 960241A5-5CE6-4EBF-B9C4-E37D294BEBA9
+Type: 06h
+Attributes: 00h
+Full size: 381Ah (14362)
+Header size: 18h (24)
+Body size: 3802h (14338)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F6h, valid
+Data checksum: AAh, valid

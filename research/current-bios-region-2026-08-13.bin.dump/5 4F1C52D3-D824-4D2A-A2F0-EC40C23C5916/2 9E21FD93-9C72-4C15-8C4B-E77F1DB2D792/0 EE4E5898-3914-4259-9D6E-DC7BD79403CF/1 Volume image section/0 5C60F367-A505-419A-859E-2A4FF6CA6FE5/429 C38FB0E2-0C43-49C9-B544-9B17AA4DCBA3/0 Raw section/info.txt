@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 18h
+Type: 19h
+Full size: FBFh (4031)
+Header size: 4h (4)
+Body size: FBBh (4027)

@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: A1CA4h
+Type: 19h
+Full size: CC48h (52296)
+Header size: 4h (4)
+Body size: CC44h (52292)

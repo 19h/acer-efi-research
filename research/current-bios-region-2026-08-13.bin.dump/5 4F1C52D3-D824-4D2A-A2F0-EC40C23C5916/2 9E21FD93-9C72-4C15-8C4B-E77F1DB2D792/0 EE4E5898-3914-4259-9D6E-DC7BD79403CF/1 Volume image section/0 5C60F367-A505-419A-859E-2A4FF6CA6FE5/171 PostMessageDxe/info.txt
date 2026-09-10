@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PostMessageDxe
+Fixed: No
+Offset: 70BF38h
+File GUID: 8FFE193E-1C4A-4AC5-89E3-2E33488DDE64
+Type: 07h
+Attributes: 00h
+Full size: A26h (2598)
+Header size: 18h (24)
+Body size: A0Eh (2574)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

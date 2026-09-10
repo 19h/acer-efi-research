@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TCMDXE
+Fixed: No
+Offset: 50D8D8h
+File GUID: 0135229A-EBB5-4A21-957D-1D20057CF752
+Type: 07h
+Attributes: 00h
+Full size: FF6h (4086)
+Header size: 18h (24)
+Body size: FDEh (4062)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DEh, valid
+Data checksum: AAh, valid

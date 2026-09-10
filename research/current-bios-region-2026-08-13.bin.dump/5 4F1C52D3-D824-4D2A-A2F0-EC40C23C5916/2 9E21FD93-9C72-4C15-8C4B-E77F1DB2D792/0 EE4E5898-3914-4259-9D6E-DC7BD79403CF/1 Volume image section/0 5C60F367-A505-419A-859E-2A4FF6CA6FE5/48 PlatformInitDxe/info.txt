@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformInitDxe
+Fixed: No
+Offset: E2B40h
+File GUID: CA84408A-0929-4F11-BFED-18C7D9576C6B
+Type: 07h
+Attributes: 00h
+Full size: 6446h (25670)
+Header size: 18h (24)
+Body size: 642Eh (25646)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 13h, valid
+Data checksum: AAh, valid

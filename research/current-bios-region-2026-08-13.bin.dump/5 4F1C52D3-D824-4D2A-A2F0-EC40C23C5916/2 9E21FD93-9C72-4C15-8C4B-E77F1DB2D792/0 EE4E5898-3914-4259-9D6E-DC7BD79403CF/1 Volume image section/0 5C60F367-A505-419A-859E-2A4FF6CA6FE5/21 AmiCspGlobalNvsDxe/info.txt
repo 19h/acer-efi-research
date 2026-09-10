@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiCspGlobalNvsDxe
+Fixed: No
+Offset: 909A8h
+File GUID: 5BD4977A-580F-4F1A-B3C2-5198E6DCBEEA
+Type: 07h
+Attributes: 00h
+Full size: BBEh (3006)
+Header size: 18h (24)
+Body size: BA6h (2982)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

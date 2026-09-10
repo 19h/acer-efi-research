@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtInitDxe
+Fixed: No
+Offset: 9F640h
+File GUID: FE5C7F1B-E256-47A8-8F1E-9478107C7875
+Type: 07h
+Attributes: 00h
+Full size: 212Eh (8494)
+Header size: 18h (24)
+Body size: 2116h (8470)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

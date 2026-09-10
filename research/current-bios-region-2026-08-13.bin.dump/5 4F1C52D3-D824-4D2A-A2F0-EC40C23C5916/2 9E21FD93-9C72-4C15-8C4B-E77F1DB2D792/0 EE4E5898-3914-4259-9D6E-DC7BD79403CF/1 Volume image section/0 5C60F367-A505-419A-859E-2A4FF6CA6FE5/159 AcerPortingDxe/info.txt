@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerPortingDxe
+Fixed: No
+Offset: 6FB7A8h
+File GUID: C6E9602D-C00D-4250-B24D-FE324B8DA40B
+Type: 07h
+Attributes: 00h
+Full size: FA6h (4006)
+Header size: 18h (24)
+Body size: F8Eh (3982)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F3h, valid
+Data checksum: AAh, valid

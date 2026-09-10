@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootHDDPriorityData
+Fixed: Yes
+Base: DDCFh
+Header address: FF00DDCFh
+Data address: FF00DDF2h
+Offset: DD57h
+Variable GUID: EB15823E-FD0E-4A91-9532-A39CCAC78CCD
+GUID index: 14
+Full size: 43h (67)
+Header size: 23h (35)
+Body size: 20h (32)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

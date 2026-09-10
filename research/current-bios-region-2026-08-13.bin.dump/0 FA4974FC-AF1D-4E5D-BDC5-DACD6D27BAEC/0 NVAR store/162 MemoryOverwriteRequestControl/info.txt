@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Link
+Text: MemoryOverwriteRequestControl
+Fixed: Yes
+Base: 27052h
+Header address: FF027052h
+Data address: FF02705Ch
+Offset: 26FDAh
+Full size: Bh (11)
+Header size: Ah (10)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)
+Next node at offset: 270A6h

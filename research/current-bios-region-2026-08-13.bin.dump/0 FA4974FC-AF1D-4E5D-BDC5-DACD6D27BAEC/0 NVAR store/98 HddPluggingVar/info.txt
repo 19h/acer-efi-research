@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: HddPluggingVar
+Fixed: Yes
+Base: 1F5F3h
+Header address: FF01F5F3h
+Data address: FF01F60Dh
+Offset: 1F57Bh
+Variable GUID: 65BF848D-9E9F-46A8-A938-E92F083A3A3E
+GUID index: 51
+Full size: 2Ah (42)
+Header size: 1Ah (26)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

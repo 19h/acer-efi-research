@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemLOGO
+Fixed: No
+Offset: 703810h
+File GUID: FB049119-AC72-459F-865A-641DC13C931D
+Type: 07h
+Attributes: 00h
+Full size: 2546h (9542)
+Header size: 18h (24)
+Body size: 252Eh (9518)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

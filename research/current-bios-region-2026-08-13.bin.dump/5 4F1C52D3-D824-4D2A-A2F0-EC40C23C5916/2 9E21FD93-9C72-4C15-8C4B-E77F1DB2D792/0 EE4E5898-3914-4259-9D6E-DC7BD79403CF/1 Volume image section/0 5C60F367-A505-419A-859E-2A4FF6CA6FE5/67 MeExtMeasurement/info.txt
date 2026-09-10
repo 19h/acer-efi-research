@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MeExtMeasurement
+Fixed: No
+Offset: 239680h
+File GUID: D38FC876-0B17-4D95-A7F8-A022ECA1CA42
+Type: 07h
+Attributes: 00h
+Full size: 239Eh (9118)
+Header size: 18h (24)
+Body size: 2386h (9094)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Ah, valid
+Data checksum: AAh, valid

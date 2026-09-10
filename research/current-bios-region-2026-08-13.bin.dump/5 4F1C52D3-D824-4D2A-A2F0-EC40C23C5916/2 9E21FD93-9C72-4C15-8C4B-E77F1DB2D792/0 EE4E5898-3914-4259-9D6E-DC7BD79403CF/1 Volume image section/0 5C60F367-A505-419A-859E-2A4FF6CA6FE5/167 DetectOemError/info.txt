@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DetectOemError
+Fixed: No
+Offset: 707760h
+File GUID: 694DFADE-B2F5-444B-BE8C-15E40E9C7B96
+Type: 07h
+Attributes: 00h
+Full size: 11A6h (4518)
+Header size: 18h (24)
+Body size: 118Eh (4494)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 80h, valid
+Data checksum: AAh, valid

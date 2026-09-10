@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UsbDeviceDxe
+Fixed: No
+Offset: 780C18h
+File GUID: 42CF2D4A-78B4-4B80-80F9-96A83A630D70
+Type: 07h
+Attributes: 00h
+Full size: 9BA6h (39846)
+Header size: 18h (24)
+Body size: 9B8Eh (39822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

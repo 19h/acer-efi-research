@@ -1,0 +1,8 @@
+Type: NVAR GUID store
+Subtype: 
+Fixed: Yes
+Base: FAE74Eh
+Address: FFFAE74Eh
+Offset: 4ED2h
+Full size: 140h (320)
+GUIDs in store: 20

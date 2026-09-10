@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ResetSystemRuntimeDxe
+Fixed: No
+Offset: 73B410h
+File GUID: 4B28E4C7-FF36-4E10-93CF-A82159E777C5
+Type: 07h
+Attributes: 00h
+Full size: 1A72h (6770)
+Header size: 18h (24)
+Body size: 1A5Ah (6746)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 15h, valid
+Data checksum: AAh, valid

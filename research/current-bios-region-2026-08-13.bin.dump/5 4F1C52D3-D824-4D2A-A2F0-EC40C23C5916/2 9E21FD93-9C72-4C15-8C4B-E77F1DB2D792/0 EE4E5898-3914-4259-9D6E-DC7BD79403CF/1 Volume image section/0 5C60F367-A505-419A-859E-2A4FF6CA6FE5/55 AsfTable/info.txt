@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsfTable
+Fixed: No
+Offset: FDD08h
+File GUID: E72527CF-505B-4B50-99CD-A32467FA4AA4
+Type: 07h
+Attributes: 00h
+Full size: 90Ah (2314)
+Header size: 18h (24)
+Body size: 8F2h (2290)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 22h, valid
+Data checksum: AAh, valid

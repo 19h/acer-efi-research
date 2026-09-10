@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MEdisableDxe
+Fixed: No
+Offset: 729D60h
+File GUID: 7FBCA33C-681B-474C-8B89-38E9345FB993
+Type: 07h
+Attributes: 00h
+Full size: 22A2h (8866)
+Header size: 18h (24)
+Body size: 228Ah (8842)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

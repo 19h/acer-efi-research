@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: TCMPEI
+Fixed: No
+Base: F639E8h
+Header address: FFF639E8h
+Data address: FFF63A00h
+Offset: 439E8h
+File GUID: 0135229A-EBB5-4A21-957D-1D20057CF751
+Type: 06h
+Attributes: 00h
+Full size: D7Ah (3450)
+Header size: 18h (24)
+Body size: D62h (3426)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

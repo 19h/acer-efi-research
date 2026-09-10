@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: PCI_DEV_7F_PX2
+Fixed: Yes
+Base: 1E448h
+Header address: FF01E448h
+Data address: FF01E462h
+Offset: 1E3D0h
+Variable GUID: ACA9F304-21E2-4852-9875-7FF4881D67A5
+GUID index: 38
+Full size: 28h (40)
+Header size: 1Ah (26)
+Body size: Eh (14)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

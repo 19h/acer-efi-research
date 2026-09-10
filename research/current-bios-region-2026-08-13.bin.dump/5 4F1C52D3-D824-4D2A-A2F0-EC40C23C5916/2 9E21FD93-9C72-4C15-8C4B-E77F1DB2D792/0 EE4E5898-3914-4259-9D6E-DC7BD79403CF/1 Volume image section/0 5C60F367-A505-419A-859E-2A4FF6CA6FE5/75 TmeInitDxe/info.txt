@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TmeInitDxe
+Fixed: No
+Offset: 252C48h
+File GUID: 579A7D1F-C166-4D0D-ADDB-B20B8B768B72
+Type: 07h
+Attributes: 00h
+Full size: F2Eh (3886)
+Header size: 18h (24)
+Body size: F16h (3862)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

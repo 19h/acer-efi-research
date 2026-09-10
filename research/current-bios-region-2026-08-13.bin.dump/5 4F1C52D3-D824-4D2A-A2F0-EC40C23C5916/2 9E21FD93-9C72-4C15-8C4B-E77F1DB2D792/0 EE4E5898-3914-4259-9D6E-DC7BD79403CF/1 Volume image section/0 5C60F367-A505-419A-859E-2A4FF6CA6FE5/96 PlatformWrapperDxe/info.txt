@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformWrapperDxe
+Fixed: No
+Offset: 284DD8h
+File GUID: 538997F7-4B2E-4E6F-8AF1-0E8CF1AA9C69
+Type: 07h
+Attributes: 00h
+Full size: D4Eh (3406)
+Header size: 18h (24)
+Body size: D36h (3382)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 49h, valid
+Data checksum: AAh, valid

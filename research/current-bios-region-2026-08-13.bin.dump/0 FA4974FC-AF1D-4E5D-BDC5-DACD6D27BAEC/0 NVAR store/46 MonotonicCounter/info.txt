@@ -1,0 +1,16 @@
+Type: NVAR entry
+Subtype: Link
+Text: MonotonicCounter
+Fixed: Yes
+Base: DEF7h
+Header address: FF00DEF7h
+Data address: FF00DF13h
+Offset: DE7Fh
+Variable GUID: 01368881-C4AD-4B1D-B631-D57A8EC8DB6B
+GUID index: 15
+Full size: 20h (32)
+Header size: 1Ch (28)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)
+Next node at offset: 26877h

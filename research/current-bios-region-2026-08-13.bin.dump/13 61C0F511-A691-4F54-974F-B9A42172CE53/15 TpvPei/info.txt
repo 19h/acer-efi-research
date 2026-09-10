@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: TpvPei
+Fixed: No
+Base: F2F980h
+Header address: FFF2F980h
+Data address: FFF2F998h
+Offset: F980h
+File GUID: 0E2DAF63-8A4F-4026-A899-DE2D7F46E5EC
+Type: 06h
+Attributes: 00h
+Full size: DC6h (3526)
+Header size: 18h (24)
+Body size: DAEh (3502)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

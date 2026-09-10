@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: MsegSmramPeim
+Fixed: No
+Offset: 1C5F8h
+File GUID: D2ABC888-AE13-4E3B-BCEE-5DE368FA4E72
+Type: 06h
+Attributes: 00h
+Full size: 606h (1542)
+Header size: 18h (24)
+Body size: 5EEh (1518)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CBh, valid
+Data checksum: AAh, valid

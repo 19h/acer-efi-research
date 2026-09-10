@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AudioPlayback
+Fixed: No
+Offset: 79B048h
+File GUID: 116ED1E8-F9C6-4112-A49C-87ADA570DEC1
+Type: 07h
+Attributes: 00h
+Full size: 404Ah (16458)
+Header size: 18h (24)
+Body size: 4032h (16434)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FDh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,14 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Offset: FAA060h
+File GUID: DAC2B117-B5FB-4964-A312-0DCC77061B9B
+Type: 02h
+Attributes: 00h
+Full size: BD70h (48496)
+Header size: 18h (24)
+Body size: BD58h (48472)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: WdtDxe
+Fixed: No
+Offset: C2608h
+File GUID: 5AAB83E5-F027-4CA7-BFD0-16358CC9E453
+Type: 07h
+Attributes: 00h
+Full size: 9D6h (2518)
+Header size: 18h (24)
+Body size: 9BEh (2494)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Dh, valid
+Data checksum: AAh, valid

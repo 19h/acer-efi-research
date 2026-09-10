@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: Yes
+Base: FAE88Eh
+Address: FFFAE88Eh
+Offset: 5016h
+Full size: 10h (16)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Text: DXE apriori file
+Fixed: No
+Offset: 78h
+File GUID: FC510EE7-FFDC-11D4-BD41-0080C73C8881
+Type: 02h
+Attributes: 00h
+Full size: BCh (188)
+Header size: 18h (24)
+Body size: A4h (164)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B6h, valid
+Data checksum: AAh, valid

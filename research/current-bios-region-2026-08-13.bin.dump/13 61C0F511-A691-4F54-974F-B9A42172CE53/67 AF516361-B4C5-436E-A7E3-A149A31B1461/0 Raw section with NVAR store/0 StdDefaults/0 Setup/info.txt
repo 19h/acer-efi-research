@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: Setup
+Fixed: Yes
+Base: FA9893h
+Header address: FFFA9893h
+Data address: FFFA98A4h
+Offset: 17h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: E38h (3640)
+Header size: 11h (17)
+Body size: E27h (3623)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

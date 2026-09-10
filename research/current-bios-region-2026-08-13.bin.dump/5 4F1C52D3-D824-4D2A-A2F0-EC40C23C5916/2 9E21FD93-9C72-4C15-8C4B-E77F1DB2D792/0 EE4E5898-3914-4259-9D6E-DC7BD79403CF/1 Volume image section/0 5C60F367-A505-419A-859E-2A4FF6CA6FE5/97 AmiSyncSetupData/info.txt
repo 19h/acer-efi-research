@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiSyncSetupData
+Fixed: No
+Offset: 285B28h
+File GUID: 3DFE2E72-9F6D-4350-BA4F-20333B52B876
+Type: 07h
+Attributes: 00h
+Full size: 170Ah (5898)
+Header size: 18h (24)
+Body size: 16F2h (5874)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 47h, valid
+Data checksum: AAh, valid

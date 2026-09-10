@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerDiagnosticLogDxe
+Fixed: No
+Offset: 7186D8h
+File GUID: 85D8435F-A603-4DAD-A285-7230D84F9F69
+Type: 07h
+Attributes: 00h
+Full size: 4C16h (19478)
+Header size: 18h (24)
+Body size: 4BFEh (19454)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FDh, valid
+Data checksum: AAh, valid

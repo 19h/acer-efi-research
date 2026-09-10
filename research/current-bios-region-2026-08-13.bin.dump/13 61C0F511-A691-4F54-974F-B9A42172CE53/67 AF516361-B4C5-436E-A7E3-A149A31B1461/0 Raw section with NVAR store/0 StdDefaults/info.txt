@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: StdDefaults
+Fixed: Yes
+Base: FA987Ch
+Header address: FFFA987Ch
+Data address: FFFA9893h
+Offset: 4h
+Variable GUID: 4599D26F-1A11-49B8-B91F-858745CFF824
+GUID index: 0
+Full size: 5012h (20498)
+Header size: 17h (23)
+Body size: 4FFBh (20475)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

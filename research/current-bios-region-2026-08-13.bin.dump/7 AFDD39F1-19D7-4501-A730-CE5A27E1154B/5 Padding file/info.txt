@@ -1,0 +1,17 @@
+Type: File
+Subtype: Pad
+Fixed: No
+Base: BCE300h
+Header address: FFBCE300h
+Data address: FFBCE318h
+Offset: 6E300h
+File GUID: FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF
+Type: F0h
+Attributes: 00h
+Full size: 31CE8h (204008)
+Header size: 18h (24)
+Body size: 31CD0h (203984)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

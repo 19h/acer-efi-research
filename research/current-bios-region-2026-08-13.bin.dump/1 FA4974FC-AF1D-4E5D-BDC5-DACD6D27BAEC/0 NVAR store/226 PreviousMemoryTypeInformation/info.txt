@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Link
+Text: PreviousMemoryTypeInformation
+Fixed: Yes
+Base: 5EDE3h
+Header address: FF05EDE3h
+Data address: FF05EDEDh
+Offset: 2ED6Bh
+Full size: 4Ah (74)
+Header size: Ah (10)
+Body size: 40h (64)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)
+Next node at offset: 2F044h

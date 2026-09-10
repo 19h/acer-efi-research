@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootMediaInfo
+Fixed: No
+Offset: 287238h
+File GUID: 3F7753EF-D36F-45CC-8A1A-2EAAFF1038B7
+Type: 07h
+Attributes: 00h
+Full size: 6A6h (1702)
+Header size: 18h (24)
+Body size: 68Eh (1678)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 88h, valid
+Data checksum: AAh, valid

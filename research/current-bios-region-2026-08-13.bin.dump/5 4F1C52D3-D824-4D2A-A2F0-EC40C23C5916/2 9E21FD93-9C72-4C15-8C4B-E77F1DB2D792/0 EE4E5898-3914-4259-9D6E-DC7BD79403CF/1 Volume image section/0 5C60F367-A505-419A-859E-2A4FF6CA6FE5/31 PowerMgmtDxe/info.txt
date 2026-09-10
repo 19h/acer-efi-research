@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PowerMgmtDxe
+Fixed: No
+Offset: 9BFC0h
+File GUID: F7731B4C-58A2-4DF4-8980-5645D39ECE58
+Type: 07h
+Attributes: 00h
+Full size: 1D4Ah (7498)
+Header size: 18h (24)
+Body size: 1D32h (7474)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Bh, valid
+Data checksum: AAh, valid

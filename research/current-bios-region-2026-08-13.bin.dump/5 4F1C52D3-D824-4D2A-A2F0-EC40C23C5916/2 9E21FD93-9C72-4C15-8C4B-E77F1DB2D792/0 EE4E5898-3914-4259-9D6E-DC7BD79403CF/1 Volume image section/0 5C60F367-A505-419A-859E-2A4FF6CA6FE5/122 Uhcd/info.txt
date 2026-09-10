@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Uhcd
+Fixed: No
+Offset: 47EA68h
+File GUID: 580DD900-385D-11D7-883A-00500473D4EB
+Type: 07h
+Attributes: 00h
+Full size: 11396h (70550)
+Header size: 18h (24)
+Body size: 1137Eh (70526)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Ch, valid
+Data checksum: AAh, valid

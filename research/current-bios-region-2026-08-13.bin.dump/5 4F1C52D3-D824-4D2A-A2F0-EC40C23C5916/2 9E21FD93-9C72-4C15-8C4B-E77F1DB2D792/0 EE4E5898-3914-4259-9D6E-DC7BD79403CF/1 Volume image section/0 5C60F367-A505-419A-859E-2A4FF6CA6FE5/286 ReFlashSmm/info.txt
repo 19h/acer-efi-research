@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: ReFlashSmm
+Fixed: No
+Offset: B6A548h
+File GUID: E90A7B5E-37B2-43E4-B281-4C8E349045E9
+Type: 0Ah
+Attributes: 00h
+Full size: 1682h (5762)
+Header size: 18h (24)
+Body size: 166Ah (5738)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

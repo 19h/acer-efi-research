@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: MeSetup
+Fixed: Yes
+Base: 2143h
+Header address: FF002143h
+Data address: FF002156h
+Offset: 20B3h
+Variable GUID: 5432122D-D034-49D2-A6DE-65A829EB4C74
+GUID index: 7
+Full size: 49h (73)
+Header size: 13h (19)
+Body size: 36h (54)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

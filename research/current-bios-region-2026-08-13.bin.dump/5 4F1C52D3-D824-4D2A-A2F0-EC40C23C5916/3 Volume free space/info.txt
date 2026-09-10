@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: 79C158h
+Address: FF79C158h
+Offset: 71D158h
+Full size: 3B4EA8h (3886760)

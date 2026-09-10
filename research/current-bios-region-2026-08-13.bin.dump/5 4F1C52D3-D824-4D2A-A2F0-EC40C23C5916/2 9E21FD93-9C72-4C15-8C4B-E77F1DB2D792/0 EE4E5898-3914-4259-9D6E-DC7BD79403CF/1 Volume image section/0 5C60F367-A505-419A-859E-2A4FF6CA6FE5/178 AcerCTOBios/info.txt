@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerCTOBios
+Fixed: No
+Offset: 716CF8h
+File GUID: BB636D6D-3DE4-47B3-A437-DBC5EA9EED0B
+Type: 07h
+Attributes: 00h
+Full size: 19DEh (6622)
+Header size: 18h (24)
+Body size: 19C6h (6598)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

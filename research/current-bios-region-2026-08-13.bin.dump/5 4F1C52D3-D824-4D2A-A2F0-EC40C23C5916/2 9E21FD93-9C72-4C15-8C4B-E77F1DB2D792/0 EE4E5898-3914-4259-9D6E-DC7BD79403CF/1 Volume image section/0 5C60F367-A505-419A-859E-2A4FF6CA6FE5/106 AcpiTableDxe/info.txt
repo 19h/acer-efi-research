@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiTableDxe
+Fixed: No
+Offset: 42C030h
+File GUID: 9622E42C-8E38-4A08-9E8F-54F784652F6B
+Type: 07h
+Attributes: 00h
+Full size: 51E6h (20966)
+Header size: 18h (24)
+Body size: 51CEh (20942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

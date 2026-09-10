@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: D10060h
+Header address: FFD10060h
+Data address: FFD10064h
+Offset: 18h
+Type: 19h
+Full size: Ch (12)
+Header size: 4h (4)
+Body size: 8h (8)

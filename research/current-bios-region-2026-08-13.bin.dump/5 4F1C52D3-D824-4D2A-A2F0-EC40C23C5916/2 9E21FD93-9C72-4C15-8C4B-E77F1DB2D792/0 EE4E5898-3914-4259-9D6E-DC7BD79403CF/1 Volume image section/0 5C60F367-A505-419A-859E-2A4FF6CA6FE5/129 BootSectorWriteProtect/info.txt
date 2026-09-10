@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootSectorWriteProtect
+Fixed: No
+Offset: 4C7168h
+File GUID: 53D7E8EC-56F5-4F9C-8198-7BFB2ED4E05E
+Type: 07h
+Attributes: 00h
+Full size: 17C6h (6086)
+Header size: 18h (24)
+Body size: 17AEh (6062)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

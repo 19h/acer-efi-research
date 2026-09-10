@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: HSTI_RESULTS
+Fixed: Yes
+Base: 20162h
+Header address: FF020162h
+Data address: FF02017Ah
+Offset: 200EAh
+Variable GUID: 8732B833-5367-422C-A77D-99E5B51039A8
+GUID index: 64
+Full size: 33Dh (829)
+Header size: 18h (24)
+Body size: 325h (805)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

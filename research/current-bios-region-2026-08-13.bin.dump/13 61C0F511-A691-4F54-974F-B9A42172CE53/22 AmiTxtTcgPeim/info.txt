@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AmiTxtTcgPeim
+Fixed: No
+Base: F48BE8h
+Header address: FFF48BE8h
+Data address: FFF48C00h
+Offset: 28BE8h
+File GUID: 9962883C-C025-4EBB-B699-4EA4D147C8A8
+Type: 06h
+Attributes: 00h
+Full size: 11F2h (4594)
+Header size: 18h (24)
+Body size: 11DAh (4570)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 81h, valid
+Data checksum: AAh, valid

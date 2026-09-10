@@ -1,0 +1,9 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Offset: 86F4h
+Type: 15h
+Full size: Eh (14)
+Header size: 4h (4)
+Body size: Ah (10)
+Text: Ahci

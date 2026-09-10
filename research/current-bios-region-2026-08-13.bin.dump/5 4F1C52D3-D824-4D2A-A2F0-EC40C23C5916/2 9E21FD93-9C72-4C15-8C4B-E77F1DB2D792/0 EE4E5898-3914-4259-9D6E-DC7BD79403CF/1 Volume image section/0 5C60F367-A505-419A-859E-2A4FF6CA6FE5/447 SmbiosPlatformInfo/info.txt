@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosPlatformInfo
+Fixed: No
+Offset: E59D38h
+File GUID: D22C15F5-818B-4940-90EB-ABB377255644
+Type: 07h
+Attributes: 00h
+Full size: 501Ah (20506)
+Header size: 18h (24)
+Body size: 5002h (20482)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiCpuFeaturesDxe
+Fixed: No
+Offset: 8F9B8h
+File GUID: 10B12ADD-F5E2-CC78-5CA0-B77F76223ACD
+Type: 07h
+Attributes: 00h
+Full size: FEEh (4078)
+Header size: 18h (24)
+Body size: FD6h (4054)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CpuInitDxe
+Fixed: No
+Offset: E1B3A8h
+File GUID: FCCCE259-07E1-417A-A755-E0F2CF39295E
+Type: 07h
+Attributes: 00h
+Full size: 1DEEh (7662)
+Header size: 18h (24)
+Body size: 1DD6h (7638)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

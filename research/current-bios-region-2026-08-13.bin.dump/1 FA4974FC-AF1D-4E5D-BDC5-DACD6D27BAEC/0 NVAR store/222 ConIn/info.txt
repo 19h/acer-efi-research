@@ -1,0 +1,13 @@
+Type: NVAR entry
+Subtype: Data
+Text: ConIn
+Fixed: Yes
+Base: 5ED26h
+Header address: FF05ED26h
+Data address: FF05ED30h
+Offset: 2ECAEh
+Full size: 26h (38)
+Header size: Ah (10)
+Body size: 1Ch (28)
+Tail size: 0h (0)
+Attributes: 88h (DataOnly, Valid)

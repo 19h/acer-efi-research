@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Nvme
+Fixed: No
+Offset: A4BD48h
+File GUID: 634E8DB5-C432-43BE-A653-9CA2922CC458
+Type: 07h
+Attributes: 00h
+Full size: 8036h (32822)
+Header size: 18h (24)
+Body size: 801Eh (32798)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EzFileBrowser
+Fixed: No
+Offset: 476B50h
+File GUID: 13B03F00-18B8-48DA-8B1C-B290C69BAAFE
+Type: 07h
+Attributes: 00h
+Full size: 7F16h (32534)
+Header size: 18h (24)
+Body size: 7EFEh (32510)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Eh, valid
+Data checksum: AAh, valid

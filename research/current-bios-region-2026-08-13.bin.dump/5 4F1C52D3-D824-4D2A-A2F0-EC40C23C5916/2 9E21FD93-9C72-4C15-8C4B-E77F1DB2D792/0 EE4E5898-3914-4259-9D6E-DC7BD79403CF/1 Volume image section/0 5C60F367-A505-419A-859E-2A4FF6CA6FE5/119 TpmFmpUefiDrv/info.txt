@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TpmFmpUefiDrv
+Fixed: No
+Offset: 45E6D0h
+File GUID: 366DF820-5D6D-4884-9611-E3E595090D9E
+Type: 07h
+Attributes: 00h
+Full size: B002h (45058)
+Header size: 18h (24)
+Body size: AFEAh (45034)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Eh, valid
+Data checksum: AAh, valid

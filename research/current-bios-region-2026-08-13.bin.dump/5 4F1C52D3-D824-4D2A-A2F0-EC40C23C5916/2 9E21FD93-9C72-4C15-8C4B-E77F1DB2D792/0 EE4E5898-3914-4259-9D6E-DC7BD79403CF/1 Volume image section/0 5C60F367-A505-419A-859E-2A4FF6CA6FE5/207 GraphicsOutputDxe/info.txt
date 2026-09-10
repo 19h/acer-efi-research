@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: GraphicsOutputDxe
+Fixed: No
+Offset: 771E30h
+File GUID: 20830080-CC28-4169-9836-7F42B8D0C8C9
+Type: 07h
+Attributes: 00h
+Full size: 2312h (8978)
+Header size: 18h (24)
+Body size: 22FAh (8954)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

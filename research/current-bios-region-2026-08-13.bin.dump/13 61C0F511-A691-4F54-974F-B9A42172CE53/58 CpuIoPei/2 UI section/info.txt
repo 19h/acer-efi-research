@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F8814Ch
+Header address: FFF8814Ch
+Data address: FFF88150h
+Offset: 8D4h
+Type: 15h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Text: CpuIoPei

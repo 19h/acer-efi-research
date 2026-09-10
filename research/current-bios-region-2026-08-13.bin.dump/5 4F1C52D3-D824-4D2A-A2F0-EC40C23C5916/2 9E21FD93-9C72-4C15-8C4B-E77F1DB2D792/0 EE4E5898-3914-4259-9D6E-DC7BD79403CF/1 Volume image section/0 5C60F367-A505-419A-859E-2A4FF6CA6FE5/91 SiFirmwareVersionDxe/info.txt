@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SiFirmwareVersionDxe
+Fixed: No
+Offset: 2809B8h
+File GUID: 0CEFD645-588E-4ED7-9943-054808CD7572
+Type: 07h
+Attributes: 00h
+Full size: 19C2h (6594)
+Header size: 18h (24)
+Body size: 19AAh (6570)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

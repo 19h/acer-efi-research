@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AMITCGPPIVAR
+Fixed: Yes
+Base: 3E0B7h
+Header address: FF03E0B7h
+Data address: FF03E0CFh
+Offset: E03Fh
+Variable GUID: A8A2093B-FEFA-43C1-8E62-CE526847265E
+GUID index: 22
+Full size: 30h (48)
+Header size: 18h (24)
+Body size: 18h (24)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

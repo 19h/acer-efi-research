@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 49BFCh
+Type: 19h
+Full size: 989Eh (39070)
+Header size: 4h (4)
+Body size: 989Ah (39066)

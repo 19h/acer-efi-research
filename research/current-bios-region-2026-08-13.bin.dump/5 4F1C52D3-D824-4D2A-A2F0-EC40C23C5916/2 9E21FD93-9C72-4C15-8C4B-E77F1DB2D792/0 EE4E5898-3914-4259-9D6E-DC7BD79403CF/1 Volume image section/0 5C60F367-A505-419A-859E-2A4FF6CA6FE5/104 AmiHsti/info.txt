@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiHsti
+Fixed: No
+Offset: 424790h
+File GUID: CCA91175-03E3-442A-B3B8-2E4A335C1DEA
+Type: 07h
+Attributes: 00h
+Full size: 5D6Ah (23914)
+Header size: 18h (24)
+Body size: 5D52h (23890)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Ah, valid
+Data checksum: AAh, valid

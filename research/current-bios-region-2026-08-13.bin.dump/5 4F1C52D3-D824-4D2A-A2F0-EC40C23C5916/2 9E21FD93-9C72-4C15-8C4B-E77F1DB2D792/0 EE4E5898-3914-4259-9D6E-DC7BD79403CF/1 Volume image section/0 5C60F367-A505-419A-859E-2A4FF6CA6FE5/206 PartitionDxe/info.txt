@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PartitionDxe
+Fixed: No
+Offset: 76E260h
+File GUID: 1FA1F39E-FEFF-4AAE-BD7B-38A070A3B609
+Type: 07h
+Attributes: 00h
+Full size: 3BCAh (15306)
+Header size: 18h (24)
+Body size: 3BB2h (15282)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CCh, valid
+Data checksum: AAh, valid

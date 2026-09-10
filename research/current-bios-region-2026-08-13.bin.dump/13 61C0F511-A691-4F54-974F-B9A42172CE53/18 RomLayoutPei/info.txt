@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: RomLayoutPei
+Fixed: No
+Base: F35D40h
+Header address: FFF35D40h
+Data address: FFF35D58h
+Offset: 15D40h
+File GUID: 7EB7126D-C45E-4BD0-9357-7F507C5C9CF9
+Type: 06h
+Attributes: 00h
+Full size: 6D32h (27954)
+Header size: 18h (24)
+Body size: 6D1Ah (27930)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 44h, valid
+Data checksum: AAh, valid

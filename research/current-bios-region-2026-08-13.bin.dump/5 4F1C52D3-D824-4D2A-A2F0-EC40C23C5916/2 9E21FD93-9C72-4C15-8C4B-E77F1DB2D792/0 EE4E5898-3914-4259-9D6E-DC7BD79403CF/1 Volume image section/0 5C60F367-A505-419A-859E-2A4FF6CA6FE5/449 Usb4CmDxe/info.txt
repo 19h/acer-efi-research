@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Usb4CmDxe
+Fixed: No
+Offset: E601B0h
+File GUID: 5CD9649D-2874-4834-802B-C559C94703AE
+Type: 07h
+Attributes: 00h
+Full size: ACBEh (44222)
+Header size: 18h (24)
+Body size: ACA6h (44198)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B7h, valid
+Data checksum: AAh, valid

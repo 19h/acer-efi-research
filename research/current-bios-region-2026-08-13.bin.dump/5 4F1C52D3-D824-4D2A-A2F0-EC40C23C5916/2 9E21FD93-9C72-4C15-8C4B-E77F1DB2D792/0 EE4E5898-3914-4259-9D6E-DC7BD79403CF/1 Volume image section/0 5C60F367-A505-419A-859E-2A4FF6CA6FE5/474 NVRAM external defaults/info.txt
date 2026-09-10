@@ -1,0 +1,15 @@
+Type: File
+Subtype: Freeform
+Text: NVRAM external defaults
+Fixed: Yes
+Offset: FB5DD0h
+File GUID: 9221315B-30BB-46B5-813E-1B1BF4712BD3
+Type: 02h
+Attributes: 00h
+Full size: 7CFh (1999)
+Header size: 18h (24)
+Body size: 7B7h (1975)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ABh, valid
+Data checksum: AAh, valid

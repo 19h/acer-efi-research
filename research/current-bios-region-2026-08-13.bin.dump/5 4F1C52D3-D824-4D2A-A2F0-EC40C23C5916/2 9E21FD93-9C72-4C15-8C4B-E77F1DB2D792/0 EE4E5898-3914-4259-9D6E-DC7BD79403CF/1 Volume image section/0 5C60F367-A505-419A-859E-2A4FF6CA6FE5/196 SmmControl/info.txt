@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmmControl
+Fixed: No
+Offset: 73FD00h
+File GUID: A0BAD9F7-AB78-491B-B583-C52B7F84B9E0
+Type: 07h
+Attributes: 00h
+Full size: 205Eh (8286)
+Header size: 18h (24)
+Body size: 2046h (8262)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 06h, valid
+Data checksum: AAh, valid

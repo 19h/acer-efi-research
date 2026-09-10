@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HardwareSignatureEntry
+Fixed: No
+Offset: 445020h
+File GUID: B7EE4835-84CE-4B15-BF52-2D11574CE470
+Type: 07h
+Attributes: 00h
+Full size: 1AD6h (6870)
+Header size: 18h (24)
+Body size: 1ABEh (6846)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

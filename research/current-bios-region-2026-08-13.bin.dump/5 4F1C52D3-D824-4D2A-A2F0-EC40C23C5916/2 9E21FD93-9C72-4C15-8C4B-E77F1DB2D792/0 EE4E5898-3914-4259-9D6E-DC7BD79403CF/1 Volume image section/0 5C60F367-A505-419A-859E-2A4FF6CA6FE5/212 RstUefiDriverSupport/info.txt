@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RstUefiDriverSupport
+Fixed: No
+Offset: 780080h
+File GUID: 12A5DC4A-88AA-89DA-89D0-D4547191E3F4
+Type: 07h
+Attributes: 00h
+Full size: B96h (2966)
+Header size: 18h (24)
+Body size: B7Eh (2942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

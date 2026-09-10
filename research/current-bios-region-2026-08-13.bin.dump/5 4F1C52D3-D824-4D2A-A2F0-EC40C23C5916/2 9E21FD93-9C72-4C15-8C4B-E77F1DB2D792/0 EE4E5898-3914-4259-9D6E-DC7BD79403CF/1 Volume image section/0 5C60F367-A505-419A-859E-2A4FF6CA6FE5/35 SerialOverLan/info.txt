@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SerialOverLan
+Fixed: No
+Offset: A9C38h
+File GUID: FB142B99-DF57-46CB-BC69-0BF858A734F9
+Type: 07h
+Attributes: 00h
+Full size: 2B4Ah (11082)
+Header size: 18h (24)
+Body size: 2B32h (11058)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 16h, valid
+Data checksum: AAh, valid

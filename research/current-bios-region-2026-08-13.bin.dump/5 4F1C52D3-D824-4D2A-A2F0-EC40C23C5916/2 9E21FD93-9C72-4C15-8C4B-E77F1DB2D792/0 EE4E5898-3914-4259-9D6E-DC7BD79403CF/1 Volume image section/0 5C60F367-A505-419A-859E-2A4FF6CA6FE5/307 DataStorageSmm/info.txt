@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: DataStorageSmm
+Fixed: No
+Offset: BCBC10h
+File GUID: 4BFFC0D3-7E33-4370-8A28-3238FC33AD2F
+Type: 0Ah
+Attributes: 00h
+Full size: 56AEh (22190)
+Header size: 18h (24)
+Body size: 5696h (22166)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

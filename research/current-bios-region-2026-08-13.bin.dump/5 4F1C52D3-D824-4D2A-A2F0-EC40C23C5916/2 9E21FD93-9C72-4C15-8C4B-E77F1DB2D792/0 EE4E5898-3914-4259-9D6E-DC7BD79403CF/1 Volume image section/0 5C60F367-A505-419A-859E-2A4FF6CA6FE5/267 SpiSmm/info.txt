@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SpiSmm
+Fixed: No
+Offset: AFA428h
+File GUID: 27F4917B-A707-4AAD-9676-26DF168CBF0D
+Type: 0Ah
+Attributes: 00h
+Full size: 249Eh (9374)
+Header size: 18h (24)
+Body size: 2486h (9350)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E9h, valid
+Data checksum: AAh, valid

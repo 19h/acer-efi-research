@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 1DFCh
+Type: 19h
+Full size: 190Eh (6414)
+Header size: 4h (4)
+Body size: 190Ah (6410)

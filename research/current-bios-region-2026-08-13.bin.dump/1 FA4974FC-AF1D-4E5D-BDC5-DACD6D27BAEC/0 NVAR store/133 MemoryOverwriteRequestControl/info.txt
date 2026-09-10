@@ -1,0 +1,16 @@
+Type: NVAR entry
+Subtype: Link
+Text: MemoryOverwriteRequestControl
+Fixed: Yes
+Base: 5674Ah
+Header address: FF05674Ah
+Data address: FF056773h
+Offset: 266D2h
+Variable GUID: E20939BE-32D4-41BE-A150-897F85D49829
+GUID index: 66
+Full size: 2Ah (42)
+Header size: 29h (41)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)
+Next node at offset: 2E569h

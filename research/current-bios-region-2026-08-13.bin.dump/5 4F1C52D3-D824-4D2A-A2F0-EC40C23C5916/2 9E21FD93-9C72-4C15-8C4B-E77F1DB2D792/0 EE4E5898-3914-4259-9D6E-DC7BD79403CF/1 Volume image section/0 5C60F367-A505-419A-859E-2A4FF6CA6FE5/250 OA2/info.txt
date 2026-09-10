@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OA2
+Fixed: No
+Offset: A5B498h
+File GUID: 952821AA-EACD-465B-B478-5429DFC9A747
+Type: 07h
+Attributes: 00h
+Full size: F7Eh (3966)
+Header size: 18h (24)
+Body size: F66h (3942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Dh, valid
+Data checksum: AAh, valid

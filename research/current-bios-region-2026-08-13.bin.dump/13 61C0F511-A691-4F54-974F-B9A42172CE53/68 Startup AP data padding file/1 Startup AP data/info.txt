@@ -1,0 +1,7 @@
+Type: Startup AP data
+Subtype: X86 128K
+Fixed: Yes
+Base: FFA000h
+Address: FFFFA000h
+Offset: 4B750h
+Full size: D88h (3464)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PciDynamicSetup
+Fixed: No
+Offset: 446AF8h
+File GUID: 2CE5604F-A982-4D2E-8FD0-D1600C2E1515
+Type: 07h
+Attributes: 00h
+Full size: D4BEh (54462)
+Header size: 18h (24)
+Body size: D4A6h (54438)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Dh, valid
+Data checksum: AAh, valid

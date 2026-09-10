@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerSku
+Fixed: Yes
+Base: 3DEDBh
+Header address: FF03DEDBh
+Data address: FF03DEEEh
+Offset: DE63h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 1Ch (28)
+Header size: 13h (19)
+Body size: 9h (9)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

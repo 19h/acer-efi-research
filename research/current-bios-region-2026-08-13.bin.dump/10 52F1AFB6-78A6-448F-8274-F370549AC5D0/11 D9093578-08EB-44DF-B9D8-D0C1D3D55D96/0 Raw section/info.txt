@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: E70850h
+Header address: FFE70850h
+Data address: FFE70854h
+Offset: 18h
+Type: 19h
+Full size: 4Fh (79)
+Header size: 4h (4)
+Body size: 4Bh (75)

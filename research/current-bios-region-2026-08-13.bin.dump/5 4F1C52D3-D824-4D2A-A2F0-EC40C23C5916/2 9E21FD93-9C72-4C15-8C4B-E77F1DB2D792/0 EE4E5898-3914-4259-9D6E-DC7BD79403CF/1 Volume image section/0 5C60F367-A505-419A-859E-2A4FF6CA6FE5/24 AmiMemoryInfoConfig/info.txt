@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiMemoryInfoConfig
+Fixed: No
+Offset: 940A0h
+File GUID: 1310BA34-D7B4-4A80-A645-8C0417C6AA55
+Type: 07h
+Attributes: 00h
+Full size: BF2h (3058)
+Header size: 18h (24)
+Body size: BDAh (3034)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Fh, valid
+Data checksum: AAh, valid

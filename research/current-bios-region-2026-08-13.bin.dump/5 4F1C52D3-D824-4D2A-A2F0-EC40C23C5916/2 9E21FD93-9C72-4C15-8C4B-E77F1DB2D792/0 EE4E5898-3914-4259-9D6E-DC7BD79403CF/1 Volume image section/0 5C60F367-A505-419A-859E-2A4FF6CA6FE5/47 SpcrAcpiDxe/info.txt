@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SpcrAcpiDxe
+Fixed: No
+Offset: E1D60h
+File GUID: 31740724-5F96-48CA-AA0F-332ACA6B9A75
+Type: 07h
+Attributes: 00h
+Full size: DDEh (3550)
+Header size: 18h (24)
+Body size: DC6h (3526)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DDh, valid
+Data checksum: AAh, valid

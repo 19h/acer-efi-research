@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: FirmwarePerformance
+Fixed: Yes
+Base: 4E499h
+Header address: FF04E499h
+Data address: FF04E4B8h
+Offset: 1E421h
+Variable GUID: C095791A-3001-47B2-80C9-EAC7319F2FA4
+GUID index: 40
+Full size: 2Fh (47)
+Header size: 1Fh (31)
+Body size: 10h (16)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

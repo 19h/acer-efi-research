@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmbiosDmiEdit
+Fixed: No
+Offset: B976A8h
+File GUID: E2A74738-8934-48F5-8412-99E948C8DC1B
+Type: 0Ah
+Attributes: 00h
+Full size: 60DEh (24798)
+Header size: 18h (24)
+Body size: 60C6h (24774)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 97h, valid
+Data checksum: AAh, valid

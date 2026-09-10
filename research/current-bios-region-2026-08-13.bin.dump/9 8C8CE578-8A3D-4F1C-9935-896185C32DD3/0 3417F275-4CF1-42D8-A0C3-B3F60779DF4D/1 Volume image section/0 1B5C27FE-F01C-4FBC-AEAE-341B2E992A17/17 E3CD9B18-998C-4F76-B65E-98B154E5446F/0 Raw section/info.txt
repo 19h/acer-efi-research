@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: D472D0h
+Header address: FFD472D0h
+Data address: FFD472D4h
+Offset: 18h
+Type: 19h
+Full size: 106Ch (4204)
+Header size: 4h (4)
+Body size: 1068h (4200)

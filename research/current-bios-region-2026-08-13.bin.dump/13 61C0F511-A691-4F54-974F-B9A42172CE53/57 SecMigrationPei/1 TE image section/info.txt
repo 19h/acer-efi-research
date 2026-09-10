@@ -1,0 +1,20 @@
+Type: Section
+Subtype: TE image
+Fixed: No
+Base: F871C0h
+Header address: FFF871C0h
+Data address: FFF871C4h
+Offset: 30h
+Type: 12h
+Full size: 684h (1668)
+Header size: 4h (4)
+Body size: 680h (1664)
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 27Dh
+Image base: FFF87044h
+Adjusted image base: FFF871C4h

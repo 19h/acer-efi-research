@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PowerLostNotifyDxe
+Fixed: No
+Offset: 23DFD0h
+File GUID: 17A269DE-7C35-4132-9EA0-A3EB5AB87F1E
+Type: 07h
+Attributes: 00h
+Full size: 18DEh (6366)
+Header size: 18h (24)
+Body size: 18C6h (6342)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EzFmpFwUpdate
+Fixed: No
+Offset: 4696D8h
+File GUID: 56CD6FEF-9038-49DA-8275-1B2F5B9791A9
+Type: 07h
+Attributes: 00h
+Full size: D476h (54390)
+Header size: 18h (24)
+Body size: D45Eh (54366)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D6h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CastroCovePmicNvm
+Fixed: No
+Offset: 23F8B0h
+File GUID: 7537E889-FC63-42D2-B400-F7646C45CEE3
+Type: 07h
+Attributes: 00h
+Full size: 380Eh (14350)
+Header size: 18h (24)
+Body size: 37F6h (14326)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B2h, valid
+Data checksum: AAh, valid

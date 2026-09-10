@@ -1,0 +1,12 @@
+Type: NVAR entry
+Subtype: Invalid
+Fixed: Yes
+Base: 58EA3h
+Header address: FF058EA3h
+Data address: FF058EADh
+Offset: 28E2Bh
+Full size: 29Ch (668)
+Header size: Ah (10)
+Body size: 292h (658)
+Tail size: 0h (0)
+Attributes: 03h (Runtime, AsciiName)

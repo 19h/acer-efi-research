@@ -1,0 +1,18 @@
+Type: File
+Subtype: Raw
+Text: AMI ROM hole
+Fixed: Yes
+Base: 800A8h
+Header address: FF0800A8h
+Data address: FF0800C0h
+Offset: 10A8h
+File GUID: 05CA020B-0FC1-11DC-9011-00173153EBA8
+Type: 01h
+Attributes: 04h
+Full size: 200018h (2097176)
+Header size: 18h (24)
+Body size: 200000h (2097152)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: EvaluateDefaults4FirstBoot
+Fixed: Yes
+Base: 4F968h
+Header address: FF04F968h
+Data address: FF04F98Eh
+Offset: 1F8F0h
+Variable GUID: 4B4D31BE-88C6-446A-A4A9-4AD0F612B32E
+GUID index: 61
+Full size: 2Eh (46)
+Header size: 26h (38)
+Body size: 8h (8)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

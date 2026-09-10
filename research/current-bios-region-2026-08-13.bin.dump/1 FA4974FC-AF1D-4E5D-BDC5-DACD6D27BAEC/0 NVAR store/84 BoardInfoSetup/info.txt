@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BoardInfoSetup
+Fixed: Yes
+Base: 4E470h
+Header address: FF04E470h
+Data address: FF04E48Ah
+Offset: 1E3F8h
+Variable GUID: 1E785E1A-8EC4-49E4-8275-FBBDEDED18E7
+GUID index: 39
+Full size: 29h (41)
+Header size: 1Ah (26)
+Body size: Fh (15)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

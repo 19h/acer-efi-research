@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HddTemperature
+Fixed: No
+Offset: 4D3A40h
+File GUID: 4139CCCD-BE87-4C64-A44B-8AFEFC40C217
+Type: 07h
+Attributes: 00h
+Full size: 1BE6h (7142)
+Header size: 18h (24)
+Body size: 1BCEh (7118)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

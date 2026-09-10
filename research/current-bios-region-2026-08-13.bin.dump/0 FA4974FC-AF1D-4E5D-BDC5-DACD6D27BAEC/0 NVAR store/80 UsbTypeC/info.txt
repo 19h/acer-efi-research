@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: UsbTypeC
+Fixed: Yes
+Base: 1E3E3h
+Header address: FF01E3E3h
+Data address: FF01E3F7h
+Offset: 1E36Bh
+Variable GUID: FC876842-D8F0-4844-AE32-1FF843797B17
+GUID index: 37
+Full size: 18h (24)
+Header size: 14h (20)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

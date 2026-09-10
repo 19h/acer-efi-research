@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiAfuProtocol
+Fixed: No
+Offset: 2878E0h
+File GUID: AFF347CA-AEA4-4447-968A-E6FE751C24C6
+Type: 07h
+Attributes: 00h
+Full size: A08Ah (41098)
+Header size: 18h (24)
+Body size: A072h (41074)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: GPC
+Fixed: Yes
+Base: 3E224h
+Header address: FF03E224h
+Data address: FF03E233h
+Offset: E1ACh
+Variable GUID: 92DAAF2F-C02B-455B-B2EC-F5A3594F4AEA
+GUID index: 25
+Full size: 1Ch (28)
+Header size: Fh (15)
+Body size: Dh (13)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

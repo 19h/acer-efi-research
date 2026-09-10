@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: NbSmi
+Fixed: No
+Offset: AD2DD8h
+File GUID: D933DEDE-0260-4E76-A7D9-2F9F2440E5A5
+Type: 0Ah
+Attributes: 00h
+Full size: 1ABEh (6846)
+Header size: 18h (24)
+Body size: 1AA6h (6822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

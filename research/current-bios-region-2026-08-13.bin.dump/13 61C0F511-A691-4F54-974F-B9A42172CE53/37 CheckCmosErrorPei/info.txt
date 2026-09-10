@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: CheckCmosErrorPei
+Fixed: No
+Base: F6F040h
+Header address: FFF6F040h
+Data address: FFF6F058h
+Offset: 4F040h
+File GUID: 1B1E0A50-C420-4F20-80E0-1043206438DC
+Type: 06h
+Attributes: 00h
+Full size: 38Eh (910)
+Header size: 18h (24)
+Body size: 376h (886)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 38h, valid
+Data checksum: AAh, valid

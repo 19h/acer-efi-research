@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: EEB34h
+Type: 19h
+Full size: FACh (4012)
+Header size: 4h (4)
+Body size: FA8h (4008)

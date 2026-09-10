@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: No
+Base: F88178h
+Header address: FFF88178h
+Data address: FFF88190h
+Offset: 68178h
+File GUID: 7934156D-CFCE-460E-92F5-A07909A59ECA
+Type: 01h
+Attributes: 00h
+Full size: 10658h (67160)
+Header size: 18h (24)
+Body size: 10640h (67136)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CAh, valid
+Data checksum: AAh, valid

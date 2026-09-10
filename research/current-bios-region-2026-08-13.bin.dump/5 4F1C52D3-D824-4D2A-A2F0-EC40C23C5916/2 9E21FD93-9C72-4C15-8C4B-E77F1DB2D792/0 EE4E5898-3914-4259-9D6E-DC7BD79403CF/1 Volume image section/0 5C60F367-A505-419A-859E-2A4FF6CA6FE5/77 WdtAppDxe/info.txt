@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: WdtAppDxe
+Fixed: No
+Offset: 254B90h
+File GUID: CE366D33-B057-4C03-8561-CAF17738B66F
+Type: 07h
+Attributes: 00h
+Full size: 70Ah (1802)
+Header size: 18h (24)
+Body size: 6F2h (1778)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 79h, valid
+Data checksum: AAh, valid

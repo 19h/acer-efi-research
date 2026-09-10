@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspEndOfPei2Peim
+Fixed: No
+Base: D43A80h
+Header address: FFD43A80h
+Data address: FFD43A98h
+Offset: 33A10h
+File GUID: 8B555AE2-4254-43A2-839E-4869604CCC9A
+Type: 06h
+Attributes: 00h
+Full size: 1D4h (468)
+Header size: 18h (24)
+Body size: 1BCh (444)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

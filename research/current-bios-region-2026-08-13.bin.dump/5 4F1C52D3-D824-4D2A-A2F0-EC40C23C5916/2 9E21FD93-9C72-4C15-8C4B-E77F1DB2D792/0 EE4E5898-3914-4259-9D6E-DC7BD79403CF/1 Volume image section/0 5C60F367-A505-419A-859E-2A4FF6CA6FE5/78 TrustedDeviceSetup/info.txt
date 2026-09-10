@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TrustedDeviceSetup
+Fixed: No
+Offset: 2552A0h
+File GUID: D4FF05AA-3C7D-4B8A-A1EE-AA5EFA0B1742
+Type: 07h
+Attributes: 00h
+Full size: 459Ah (17818)
+Header size: 18h (24)
+Body size: 4582h (17794)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 15h, valid
+Data checksum: AAh, valid

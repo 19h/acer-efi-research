@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerOcProfile
+Fixed: Yes
+Base: 4DA99h
+Header address: FF04DA99h
+Data address: FF04DAB2h
+Offset: 1DA21h
+Variable GUID: 48E75953-73C0-485F-BC7F-09279BBE31F3
+GUID index: 29
+Full size: 1Ah (26)
+Header size: 19h (25)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

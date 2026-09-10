@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: CheckPopupPasswordErrorFlag
+Fixed: Yes
+Base: 1F8F0h
+Header address: FF01F8F0h
+Data address: FF01F917h
+Offset: 1F878h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: 28h (40)
+Header size: 27h (39)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

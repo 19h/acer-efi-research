@@ -1,0 +1,19 @@
+Type: NVAR entry
+Subtype: Full
+Text: KEK
+Fixed: Yes
+Base: 36547h
+Header address: FF036547h
+Data address: FF036556h
+Offset: 64CFh
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 5
+Full size: E31h (3633)
+Header size: Fh (15)
+Body size: DF7h (3575)
+Tail size: 2Bh (43)
+Attributes: D3h (Runtime, AsciiName, ExtHeader, AuthWrite, Valid)
+Extended header size: 2Bh (43)
+Extended attributes: 20h (TimeBasedAuthWrite)
+Timestamp: 6390F8A3h
+Hash: 0000000000000000000000000000000000000000000000000000000000000000

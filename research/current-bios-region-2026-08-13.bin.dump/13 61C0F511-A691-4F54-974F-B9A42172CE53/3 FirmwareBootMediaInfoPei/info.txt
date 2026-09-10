@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FirmwareBootMediaInfoPei
+Fixed: No
+Base: F20970h
+Header address: FFF20970h
+Data address: FFF20988h
+Offset: 970h
+File GUID: A8F14FA9-FC88-45F4-A622-F06E6C56E632
+Type: 06h
+Attributes: 00h
+Full size: 2DAh (730)
+Header size: 18h (24)
+Body size: 2C2h (706)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D0h, valid
+Data checksum: AAh, valid

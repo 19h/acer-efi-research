@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HidSimplePointer
+Fixed: No
+Offset: 797D20h
+File GUID: 859F2D28-2894-4EF7-A05C-F8BFC7922DB7
+Type: 07h
+Attributes: 00h
+Full size: 142Eh (5166)
+Header size: 18h (24)
+Body size: 1416h (5142)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Dh, valid
+Data checksum: AAh, valid

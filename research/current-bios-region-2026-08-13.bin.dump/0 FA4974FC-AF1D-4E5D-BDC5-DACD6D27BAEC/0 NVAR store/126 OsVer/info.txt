@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: OsVer
+Fixed: Yes
+Base: 20150h
+Header address: FF020150h
+Data address: FF020161h
+Offset: 200D8h
+Variable GUID: 48E75953-73C0-485F-BC7F-09279BBE31F3
+GUID index: 29
+Full size: 12h (18)
+Header size: 11h (17)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

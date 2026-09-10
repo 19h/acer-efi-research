@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsfDxe
+Fixed: No
+Offset: E298C0h
+File GUID: 33C6406D-2F6B-41B5-8705-52BAFB633C09
+Type: 07h
+Attributes: 00h
+Full size: 24DAh (9434)
+Header size: 18h (24)
+Body size: 24C2h (9410)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

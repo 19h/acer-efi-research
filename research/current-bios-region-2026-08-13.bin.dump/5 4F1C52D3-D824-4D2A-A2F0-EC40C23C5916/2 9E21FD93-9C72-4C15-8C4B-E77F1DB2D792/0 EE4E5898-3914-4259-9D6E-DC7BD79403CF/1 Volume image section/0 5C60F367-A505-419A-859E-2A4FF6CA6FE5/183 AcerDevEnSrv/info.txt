@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerDevEnSrv
+Fixed: No
+Offset: 725490h
+File GUID: 75A10838-8621-44E0-930F-CE14A8EF7728
+Type: 07h
+Attributes: 00h
+Full size: BB2h (2994)
+Header size: 18h (24)
+Body size: B9Ah (2970)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 61h, valid
+Data checksum: AAh, valid

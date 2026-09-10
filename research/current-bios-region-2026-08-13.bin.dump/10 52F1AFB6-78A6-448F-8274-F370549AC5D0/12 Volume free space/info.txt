@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: E708A0h
+Address: FFE708A0h
+Offset: B08A0h
+Full size: C760h (51040)

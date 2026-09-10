@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SecureEraseDxe
+Fixed: No
+Offset: 102720h
+File GUID: FB62F7F0-5433-11E4-B810-402CF41D8A90
+Type: 07h
+Attributes: 00h
+Full size: D3BAh (54202)
+Header size: 18h (24)
+Body size: D3A2h (54178)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Dh, valid
+Data checksum: AAh, valid

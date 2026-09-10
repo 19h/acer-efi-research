@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcerSkuId
+Fixed: No
+Offset: 711220h
+File GUID: 8726B34E-F15C-4451-944D-DC61FF3CAFB4
+Type: 07h
+Attributes: 00h
+Full size: 203Ah (8250)
+Header size: 18h (24)
+Body size: 2022h (8226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 53h, valid
+Data checksum: AAh, valid

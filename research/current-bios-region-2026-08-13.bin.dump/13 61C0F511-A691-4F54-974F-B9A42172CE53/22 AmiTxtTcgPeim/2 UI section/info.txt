@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F49DACh
+Header address: FFF49DACh
+Data address: FFF49DB0h
+Offset: 11C4h
+Type: 15h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Text: AmiTxtTcgPeim

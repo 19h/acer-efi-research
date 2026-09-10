@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerBootOrderDataDefault
+Fixed: Yes
+Base: 1F7EBh
+Header address: FF01F7EBh
+Data address: FF01F80Fh
+Offset: 1F773h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 13
+Full size: ACh (172)
+Header size: 24h (36)
+Body size: 88h (136)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

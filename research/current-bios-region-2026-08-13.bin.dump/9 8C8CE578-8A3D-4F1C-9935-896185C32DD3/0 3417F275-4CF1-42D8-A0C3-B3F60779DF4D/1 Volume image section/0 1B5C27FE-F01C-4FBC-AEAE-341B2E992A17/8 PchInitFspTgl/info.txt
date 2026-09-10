@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PchInitFspTgl
+Fixed: No
+Base: D3FD30h
+Header address: FFD3FD30h
+Data address: FFD3FD48h
+Offset: 2FCC0h
+File GUID: 54D7CC18-492A-4B43-AD9E-A461D81F82B5
+Type: 06h
+Attributes: 00h
+Full size: AAAh (2730)
+Header size: 18h (24)
+Body size: A92h (2706)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B8h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: BootingDeviceTypeInfo
+Fixed: Yes
+Base: 3DC17h
+Header address: FF03DC17h
+Data address: FF03DC38h
+Offset: DB9Fh
+Variable GUID: 77FA9ABD-0359-4D32-BD60-28F4E78F784B
+GUID index: 9
+Full size: 25h (37)
+Header size: 21h (33)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

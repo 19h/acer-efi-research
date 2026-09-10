@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ACERIntelDRS
+Fixed: No
+Offset: 713DF0h
+File GUID: 1136D4DD-D9B7-4801-8352-E7582D32A05A
+Type: 07h
+Attributes: 00h
+Full size: 1506h (5382)
+Header size: 18h (24)
+Body size: 14EEh (5358)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A0h, valid
+Data checksum: AAh, valid

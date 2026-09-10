@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TpmSmbiosDxe
+Fixed: No
+Offset: 509738h
+File GUID: 077A3100-1667-45FA-B98C-37651B5073EE
+Type: 07h
+Attributes: 00h
+Full size: 2EF6h (12022)
+Header size: 18h (24)
+Body size: 2EDEh (11998)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

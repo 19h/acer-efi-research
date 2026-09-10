@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtWrapperDxe
+Fixed: No
+Offset: F01E8h
+File GUID: D77C900D-A1C7-41C5-B989-0C3D37FCA432
+Type: 07h
+Attributes: 00h
+Full size: DB1Eh (56094)
+Header size: 18h (24)
+Body size: DB06h (56070)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

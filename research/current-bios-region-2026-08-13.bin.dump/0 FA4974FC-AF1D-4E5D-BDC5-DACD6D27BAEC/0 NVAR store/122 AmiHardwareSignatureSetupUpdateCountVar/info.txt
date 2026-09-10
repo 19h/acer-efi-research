@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AmiHardwareSignatureSetupUpdateCountVar
+Fixed: Yes
+Base: 2005Fh
+Header address: FF02005Fh
+Data address: FF020092h
+Offset: 1FFE7h
+Variable GUID: 81C76078-BFDE-4368-9790-570914C01A65
+GUID index: 63
+Full size: 37h (55)
+Header size: 33h (51)
+Body size: 4h (4)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

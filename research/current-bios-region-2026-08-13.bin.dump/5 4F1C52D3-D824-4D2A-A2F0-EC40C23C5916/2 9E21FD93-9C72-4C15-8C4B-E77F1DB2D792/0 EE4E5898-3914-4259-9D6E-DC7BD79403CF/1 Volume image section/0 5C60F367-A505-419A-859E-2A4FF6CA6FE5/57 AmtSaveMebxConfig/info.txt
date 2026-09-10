@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtSaveMebxConfig
+Fixed: No
+Offset: 102010h
+File GUID: 76CBE15D-3C00-4597-8F13-621D77E879E1
+Type: 07h
+Attributes: 00h
+Full size: 70Eh (1806)
+Header size: 18h (24)
+Body size: 6F6h (1782)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 73h, valid
+Data checksum: AAh, valid

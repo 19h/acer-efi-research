@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: ClientId
+Fixed: Yes
+Base: 4F57Fh
+Header address: FF04F57Fh
+Data address: FF04F593h
+Offset: 1F507h
+Variable GUID: 9FB9A8A1-2F4A-43A6-889C-D0F7B6C47AD5
+GUID index: 49
+Full size: 28h (40)
+Header size: 14h (20)
+Body size: 14h (20)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

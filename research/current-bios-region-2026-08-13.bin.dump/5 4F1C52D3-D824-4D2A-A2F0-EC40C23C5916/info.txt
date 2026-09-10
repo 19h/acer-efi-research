@@ -1,0 +1,23 @@
+Type: Volume
+Subtype: FFSv3
+Fixed: Yes
+Base: 7F000h
+Header address: FF07F000h
+Data address: FF07F078h
+Offset: 7F000h
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+Signature: _FVH
+FileSystem GUID: 5473C07A-3DCB-4DCA-BD6F-1E9689E7349A
+Full size: AD2000h (11345920)
+Header size: 78h (120)
+Body size: AD1F88h (11345800)
+Revision: 2
+Attributes: 0004FEFFh
+Erase polarity: 1
+Checksum: 0C07h, valid
+NumBlocks: AD2h (2770), valid
+Length: 1000h (4096), valid
+Extended header size: 14h (20)
+Volume GUID: 4F1C52D3-D824-4D2A-A2F0-EC40C23C5916

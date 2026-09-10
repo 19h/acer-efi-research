@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: RomDataMigration
+Fixed: No
+Base: F81A98h
+Header address: FFF81A98h
+Data address: FFF81AB0h
+Offset: 61A98h
+File GUID: 539A558A-C4C7-4978-B52D-1492415EF64D
+Type: 06h
+Attributes: 00h
+Full size: F5Ah (3930)
+Header size: 18h (24)
+Body size: F42h (3906)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: SioSetupData
+Fixed: Yes
+Base: 223Eh
+Header address: FF00223Eh
+Data address: FF002256h
+Offset: 21AEh
+Variable GUID: 6B0CC1BC-910F-411E-B6CB-0E314D0BB8C1
+GUID index: 12
+Full size: 19h (25)
+Header size: 18h (24)
+Body size: 1h (1)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

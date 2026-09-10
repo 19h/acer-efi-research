@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: PCI_COMMON
+Fixed: Yes
+Base: 23976h
+Header address: FF023976h
+Data address: FF02398Ch
+Offset: 22C8h
+Variable GUID: ACA9F304-21E2-4852-9875-7FF4881D67A5
+GUID index: 15
+Full size: 1Ch (28)
+Header size: 16h (22)
+Body size: 6h (6)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspGlobalDataInitPei
+Fixed: No
+Base: DC86C8h
+Header address: FFDC86C8h
+Data address: FFDC86E0h
+Offset: 86C8h
+File GUID: BAEB5BEE-5B33-480A-8AB7-B29C85E7CEAB
+Type: 06h
+Attributes: 00h
+Full size: 452h (1106)
+Header size: 18h (24)
+Body size: 43Ah (1082)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: Yes
+Base: FA9860h
+Header address: FFFA9860h
+Data address: FFFA9878h
+Offset: 89860h
+File GUID: AF516361-B4C5-436E-A7E3-A149A31B1461
+Type: 02h
+Attributes: 00h
+Full size: 504Eh (20558)
+Header size: 18h (24)
+Body size: 5036h (20534)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CBh, valid
+Data checksum: AAh, valid

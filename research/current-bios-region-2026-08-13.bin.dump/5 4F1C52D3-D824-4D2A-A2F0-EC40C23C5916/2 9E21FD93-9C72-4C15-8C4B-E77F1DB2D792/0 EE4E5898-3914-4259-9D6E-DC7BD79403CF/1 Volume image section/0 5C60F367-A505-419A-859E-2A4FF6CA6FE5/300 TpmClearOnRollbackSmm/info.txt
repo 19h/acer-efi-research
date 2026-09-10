@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: TpmClearOnRollbackSmm
+Fixed: No
+Offset: BA6F10h
+File GUID: C56EDB22-3D78-4705-A222-BDD6BD154DA0
+Type: 0Ah
+Attributes: 00h
+Full size: 1EBAh (7866)
+Header size: 18h (24)
+Body size: 1EA2h (7842)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

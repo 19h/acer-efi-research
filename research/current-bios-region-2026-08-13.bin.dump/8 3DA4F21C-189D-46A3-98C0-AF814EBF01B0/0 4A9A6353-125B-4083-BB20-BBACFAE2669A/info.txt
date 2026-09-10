@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: No
+Base: C50078h
+Header address: FFC50078h
+Data address: FFC50090h
+Offset: 78h
+File GUID: 4A9A6353-125B-4083-BB20-BBACFAE2669A
+Type: 01h
+Attributes: 00h
+Full size: 18h (24)
+Header size: 18h (24)
+Body size: 0h (0)
+Tail size: 0h (0)
+State: F8h
+Header checksum: FFh, valid
+Data checksum: AAh, valid

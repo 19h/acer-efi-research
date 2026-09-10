@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: RTCWakeup
+Fixed: No
+Offset: BD12C0h
+File GUID: 93FACD34-BB78-4C70-BBC8-61AD48DCC63B
+Type: 0Ah
+Attributes: 00h
+Full size: 1CB2h (7346)
+Header size: 18h (24)
+Body size: 1C9Ah (7322)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

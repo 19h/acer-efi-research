@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: CapsuleLongModeBuffer
+Fixed: Yes
+Base: 3E008h
+Header address: FF03E008h
+Data address: FF03E029h
+Offset: DF90h
+Variable GUID: 711C703F-C285-4B10-A3B0-36ECBD3C8BE2
+GUID index: 19
+Full size: 39h (57)
+Header size: 21h (33)
+Body size: 18h (24)
+Tail size: 0h (0)
+Attributes: 82h (AsciiName, Valid)

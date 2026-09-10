@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmtCompatiblity
+Fixed: No
+Offset: 283660h
+File GUID: 890A3508-E816-41CF-B7E6-ED28E5BB5C28
+Type: 07h
+Attributes: 00h
+Full size: 566h (1382)
+Header size: 18h (24)
+Body size: 54Eh (1358)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DAh, valid
+Data checksum: AAh, valid

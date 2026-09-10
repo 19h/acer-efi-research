@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Empty (FFh)
+Fixed: Yes
+Base: FA8E7Ah
+Address: FFFA8E7Ah
+Offset: 502Ah
+Full size: 10h (16)

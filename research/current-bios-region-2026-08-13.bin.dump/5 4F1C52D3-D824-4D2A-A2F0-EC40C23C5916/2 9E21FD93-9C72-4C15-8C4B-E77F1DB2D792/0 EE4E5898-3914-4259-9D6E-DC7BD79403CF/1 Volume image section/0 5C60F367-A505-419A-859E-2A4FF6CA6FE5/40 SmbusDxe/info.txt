@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmbusDxe
+Fixed: No
+Offset: BFEE0h
+File GUID: E052D8A6-224A-4C32-8D37-2E0AE162364D
+Type: 07h
+Attributes: 00h
+Full size: 181Ah (6170)
+Header size: 18h (24)
+Body size: 1802h (6146)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

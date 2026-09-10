@@ -1,0 +1,18 @@
+Type: File
+Subtype: Freeform
+Text: AMI v2 protected ranges hash file
+Fixed: No
+Base: F86A00h
+Header address: FFF86A00h
+Data address: FFF86A18h
+Offset: 66A00h
+File GUID: CBC91F44-A4BC-4A5B-8696-703451D0B053
+Type: 02h
+Attributes: 00h
+Full size: 6Ch (108)
+Header size: 18h (24)
+Body size: 54h (84)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B2h, valid
+Data checksum: AAh, valid

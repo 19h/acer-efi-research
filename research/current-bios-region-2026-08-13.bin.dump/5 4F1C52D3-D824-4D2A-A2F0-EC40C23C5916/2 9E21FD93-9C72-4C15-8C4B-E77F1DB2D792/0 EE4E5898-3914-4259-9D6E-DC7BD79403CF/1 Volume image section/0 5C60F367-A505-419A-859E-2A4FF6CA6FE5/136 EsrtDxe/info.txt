@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EsrtDxe
+Fixed: No
+Offset: 4D7048h
+File GUID: 999BD818-7DF7-4A9A-A502-9B75033E6A0F
+Type: 07h
+Attributes: 00h
+Full size: 185Ah (6234)
+Header size: 18h (24)
+Body size: 1842h (6210)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Ah, valid
+Data checksum: AAh, valid

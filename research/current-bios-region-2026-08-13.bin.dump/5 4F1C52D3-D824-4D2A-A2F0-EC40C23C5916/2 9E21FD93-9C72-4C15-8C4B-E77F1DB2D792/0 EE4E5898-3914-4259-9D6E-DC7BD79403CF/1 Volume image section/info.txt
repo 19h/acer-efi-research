@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Volume image
+Fixed: Yes
+Offset: 20h
+Type: 17h
+Full size: 1210008h (18939912)
+Header size: 8h (8)
+Body size: 1210000h (18939904)

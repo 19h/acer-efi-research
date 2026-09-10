@@ -1,0 +1,30 @@
+Type: Microcode
+Subtype: Intel
+Fixed: Yes
+Base: B60400h
+Address: FFB60400h
+Offset: 18h
+Full size: 36C00h (224256)
+Header size: 0h (0u)
+Body size: 36C00h (224256)
+Tail size: 0h (0u)
+Date: 22.02.2024
+CPU signature: 00090672h
+Revision: 00000036h
+Minimal update revision: 0000001Fh
+CPU platform Id: 00000007h
+Checksum: E2775EC6h, valid
+Extended header entries: 4
+Extended header checksum: 75FE6B00h, valid
+CPU signature #1: 00090672h
+CPU platform Id #1: 00000007h
+Checksum #1: E2775EC6h, valid
+CPU signature #2: 00090675h
+CPU platform Id #2: 00000007h
+Checksum #2: E2775EC3h, valid
+CPU signature #3: 000B06F2h
+CPU platform Id #3: 00000007h
+Checksum #3: E2755E46h, valid
+CPU signature #4: 000B06F5h
+CPU platform Id #4: 00000007h
+Checksum #4: E2755E43h, valid

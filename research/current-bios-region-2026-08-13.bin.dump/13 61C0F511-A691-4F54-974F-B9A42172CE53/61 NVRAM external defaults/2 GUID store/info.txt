@@ -1,0 +1,8 @@
+Type: NVAR GUID store
+Subtype: 
+Fixed: Yes
+Base: FA8E8Ah
+Address: FFFA8E8Ah
+Offset: 503Ah
+Full size: 10h (16)
+GUIDs in store: 1

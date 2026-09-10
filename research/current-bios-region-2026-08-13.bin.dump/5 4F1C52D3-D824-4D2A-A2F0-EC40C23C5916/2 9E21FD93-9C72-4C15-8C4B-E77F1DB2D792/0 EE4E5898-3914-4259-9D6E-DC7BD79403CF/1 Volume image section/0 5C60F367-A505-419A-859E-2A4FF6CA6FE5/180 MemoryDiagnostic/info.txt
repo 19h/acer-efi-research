@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MemoryDiagnostic
+Fixed: No
+Offset: 71D2F0h
+File GUID: 013464B6-AC20-4E86-A2F9-23CC4650DDC2
+Type: 07h
+Attributes: 00h
+Full size: 2EB2h (11954)
+Header size: 18h (24)
+Body size: 2E9Ah (11930)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

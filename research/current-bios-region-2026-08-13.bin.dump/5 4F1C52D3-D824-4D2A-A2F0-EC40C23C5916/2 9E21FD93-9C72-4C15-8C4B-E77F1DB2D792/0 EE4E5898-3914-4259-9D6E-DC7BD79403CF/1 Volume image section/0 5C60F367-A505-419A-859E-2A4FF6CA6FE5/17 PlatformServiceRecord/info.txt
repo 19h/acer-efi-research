@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformServiceRecord
+Fixed: No
+Offset: 7F0D0h
+File GUID: CF2E24FE-ACA6-4D6E-9486-E9A55495D654
+Type: 07h
+Attributes: 00h
+Full size: 5AC2h (23234)
+Header size: 18h (24)
+Body size: 5AAAh (23210)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F6h, valid
+Data checksum: AAh, valid

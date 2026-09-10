@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TpvDxe
+Fixed: No
+Offset: F6E870h
+File GUID: 3FE57AC2-C675-46B1-8458-AC6206588424
+Type: 07h
+Attributes: 00h
+Full size: 25FAh (9722)
+Header size: 18h (24)
+Body size: 25E2h (9698)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

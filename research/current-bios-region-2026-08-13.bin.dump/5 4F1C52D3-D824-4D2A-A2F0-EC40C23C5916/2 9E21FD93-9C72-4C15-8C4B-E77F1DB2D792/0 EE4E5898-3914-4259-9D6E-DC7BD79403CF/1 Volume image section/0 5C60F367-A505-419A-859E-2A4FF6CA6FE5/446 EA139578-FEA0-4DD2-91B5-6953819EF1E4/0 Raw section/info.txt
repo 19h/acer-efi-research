@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 18h
+Type: 19h
+Full size: 15FEh (5630)
+Header size: 4h (4)
+Body size: 15FAh (5626)

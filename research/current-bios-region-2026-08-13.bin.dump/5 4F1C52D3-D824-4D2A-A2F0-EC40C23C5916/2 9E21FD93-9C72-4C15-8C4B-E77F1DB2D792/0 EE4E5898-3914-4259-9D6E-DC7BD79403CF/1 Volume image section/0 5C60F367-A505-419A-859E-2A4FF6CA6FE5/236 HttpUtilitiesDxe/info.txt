@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HttpUtilitiesDxe
+Fixed: No
+Offset: 9A6720h
+File GUID: 22EA234F-E72A-11E4-91F9-28D2447C4829
+Type: 07h
+Attributes: 00h
+Full size: 11CAh (4554)
+Header size: 18h (24)
+Body size: 11B2h (4530)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E5h, valid
+Data checksum: AAh, valid
