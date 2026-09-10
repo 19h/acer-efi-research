@@ -1,0 +1,178 @@
+capture_time=2026-08-13T18:53:24+02:00
+boot_id=714bd1af-bfbd-48a5-a48e-563f6b38e1e6
+kernel=Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64 GNU/Linux
+
+== EFI boot state ==
+BootCurrent: 0000
+Timeout: 1 seconds
+BootOrder: 0000
+Boot0000* Ubuntu	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ubuntu\shimx64.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 34 00 5c 00 45 00 46 00 49 00 5c 00 75 00 62 00 75 00 6e 00 74 00 75 00 5c 00 73 00 68 00 69 00 6d 00 78 00 36 00 34 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot0001* EBH safe write test	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ida-assist\uefi-ebh-test1.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 4a 00 5c 00 45 00 46 00 49 00 5c 00 69 00 64 00 61 00 2d 00 61 00 73 00 73 00 69 00 73 00 74 00 5c 00 75 00 65 00 66 00 69 00 2d 00 65 00 62 00 68 00 2d 00 74 00 65 00 73 00 74 00 31 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot0002* EBH set 0 and cold reset	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ida-assist\uefi-ebh-set0-reset.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 54 00 5c 00 45 00 46 00 49 00 5c 00 69 00 64 00 61 00 2d 00 61 00 73 00 73 00 69 00 73 00 74 00 5c 00 75 00 65 00 66 00 69 00 2d 00 65 00 62 00 68 00 2d 00 73 00 65 00 74 00 30 00 2d 00 72 00 65 00 73 00 65 00 74 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot0003* EBH set 1 no reset	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ida-assist\uefi-ebh-set1.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 48 00 5c 00 45 00 46 00 49 00 5c 00 69 00 64 00 61 00 2d 00 61 00 73 00 73 00 69 00 73 00 74 00 5c 00 75 00 65 00 66 00 69 00 2d 00 65 00 62 00 68 00 2d 00 73 00 65 00 74 00 31 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+
+== SaSetup ==
+SaSetup[0x404] ExtendedBankHashing = 1
+
+== Live decoder ==
+Intel DRAM decoder read-only probe
+CPU: GenuineIntel family 0x6 model 0xb7 stepping 0x1
+Host bridge: 8086:a700
+MCHBAR: raw=0x0000fedc0001 base=0x0000fedc0000 enabled=yes
+Memory boundaries: TOM=0x001000000000 TOUUD=0x001080000000 TOLUD=0x80000000 TSEGMB=0x7f000000 DPR=0x7f000127
+
+Address-decoder registers (all reads):
+MAD_INTER_CHANNEL +0xd800 = 0x08020001 (DDR type DDR5)
+MAD_INTRA_CH0    +0xd804 = 0x00000100 (EIM=on)
+MAD_INTRA_CH1    +0xd808 = 0x00000100 (EIM=on)
+MAD_DIMM_CH0 +0xd80c = 0xd0100010
+  DECODER_EBH=3 (XaB=on, XbB=on), BG0 option=1
+  DIMM L=8.0 GiB/1 rank(s), DIMM S=8.0 GiB/1 rank(s)
+MAD_DIMM_CH1 +0xd810 = 0xd0100010
+  DECODER_EBH=3 (XaB=on, XbB=on), BG0 option=1
+  DIMM L=8.0 GiB/1 rank(s), DIMM S=8.0 GiB/1 rank(s)
+CHANNEL_HASH     +0xd824 = 0x130c3200
+CHANNEL_EHASH    +0xd828 = 0x00000000
+
+SMRR state (MSR reads):
+  CPU 0 : MTRRCAP=0x00005d0a SMRR_BASE=0x7f000006 SMRR_MASK=0xff000c00 => [0x7f000000, 0x7fffffff] (16 MiB), valid, locked
+  CPU 16: MTRRCAP=0x00005d0a SMRR_BASE=0x7f000006 SMRR_MASK=0xff000c00 => [0x7f000000, 0x7fffffff] (16 MiB), valid, locked
+
+Interpretation:
+  DECODER_EBH changes DRAM bank hashing and is the closest documented
+  analogue to the AMD BankSwizzleMode primitive. Intel's 13th-gen
+  datasheet classifies MCHBAR D800-D810 as BIOS RW, SMM R, OS R.
+  This probe establishes configuration only; it does not establish
+  that an OS write is accepted, nor that useful aliases would result.
+
+== UEFI app result ==
+00000000: 07 00 00 00 45 42 48 31 01 00 01 00 01 ff a0 66  ....EBH1.......f
+00000010: 07 00 00 00 78 05 00 00 00 00 00 00 00 00 00 00  ....x...........
+00000020: 00 00 00 00 08 00 00 00 00 00 00 80 13 00 00 00  ................
+00000030: 00 00 00 80                                      ....
+
+== Previous-boot tail ==
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-core24-1643.mount - Mount unit for core24, revision 1643.
+Aug 13 18:52:39 null systemd[1]: snap-cups-1235.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-cups-1235.mount - Mount unit for cups, revision 1235.
+Aug 13 18:52:39 null systemd[1]: snap-cups-1238.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-cups-1238.mount - Mount unit for cups, revision 1238.
+Aug 13 18:52:39 null systemd[1]: snap-desktop\x2dsecurity\x2dcenter-139.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-desktop\x2dsecurity\x2dcenter-139.mount - Mount unit for desktop-security-center, revision 139.
+Aug 13 18:52:39 null systemd[1]: snap-desktop\x2dsecurity\x2dcenter-151.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-desktop\x2dsecurity\x2dcenter-151.mount - Mount unit for desktop-security-center, revision 151.
+Aug 13 18:52:39 null systemd[1]: snap-firefox-8736.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-firefox-8736.mount - Mount unit for firefox, revision 8736.
+Aug 13 18:52:39 null systemd[1]: snap-firefox-8754.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-firefox-8754.mount - Mount unit for firefox, revision 8754.
+Aug 13 18:52:39 null systemd[1]: snap-firmware\x2dupdater-223.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-firmware\x2dupdater-223.mount - Mount unit for firmware-updater, revision 223.
+Aug 13 18:52:39 null systemd[1]: snap-firmware\x2dupdater-226.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-firmware\x2dupdater-226.mount - Mount unit for firmware-updater, revision 226.
+Aug 13 18:52:39 null systemd[1]: snap-gnome\x2d3\x2d28\x2d1804-198.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gnome\x2d3\x2d28\x2d1804-198.mount - Mount unit for gnome-3-28-1804, revision 198.
+Aug 13 18:52:39 null systemd[1]: snap-gnome\x2d3\x2d34\x2d1804-93.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gnome\x2d3\x2d34\x2d1804-93.mount - Mount unit for gnome-3-34-1804, revision 93.
+Aug 13 18:52:39 null systemd[1]: snap-gnome\x2d42\x2d2204-247.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gnome\x2d42\x2d2204-247.mount - Mount unit for gnome-42-2204, revision 247.
+Aug 13 18:52:39 null systemd[1]: snap-gnome\x2d42\x2d2204-263.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gnome\x2d42\x2d2204-263.mount - Mount unit for gnome-42-2204, revision 263.
+Aug 13 18:52:39 null systemd[1]: snap-gnome\x2d46\x2d2404-153.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gnome\x2d46\x2d2404-153.mount - Mount unit for gnome-46-2404, revision 153.
+Aug 13 18:52:39 null systemd[1]: snap-gnome\x2d46\x2d2404-164.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gnome\x2d46\x2d2404-164.mount - Mount unit for gnome-46-2404, revision 164.
+Aug 13 18:52:39 null systemd[1]: snap-gtk2\x2dcommon\x2dthemes-13.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gtk2\x2dcommon\x2dthemes-13.mount - Mount unit for gtk2-common-themes, revision 13.
+Aug 13 18:52:39 null systemd[1]: snap-gtk\x2dcommon\x2dthemes-1535.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-gtk\x2dcommon\x2dthemes-1535.mount - Mount unit for gtk-common-themes, revision 1535.
+Aug 13 18:52:39 null systemd[1]: snap-mesa\x2d2404-1165.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-mesa\x2d2404-1165.mount - Mount unit for mesa-2404, revision 1165.
+Aug 13 18:52:39 null systemd[1]: snap-mesa\x2d2404-1839.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-mesa\x2d2404-1839.mount - Mount unit for mesa-2404, revision 1839.
+Aug 13 18:52:39 null systemd[1]: snap-prompting\x2dclient-204.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-prompting\x2dclient-204.mount - Mount unit for prompting-client, revision 204.
+Aug 13 18:52:39 null systemd[1]: snap-prompting\x2dclient-222.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-prompting\x2dclient-222.mount - Mount unit for prompting-client, revision 222.
+Aug 13 18:52:39 null systemd[1]: snap-slack-181.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-slack-181.mount - Mount unit for slack, revision 181.
+Aug 13 18:52:39 null systemd[1]: snap-snap\x2dstore-1367.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-snap\x2dstore-1367.mount - Mount unit for snap-store, revision 1367.
+Aug 13 18:52:39 null systemd[1]: snap-snap\x2dstore-1390.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-snap\x2dstore-1390.mount - Mount unit for snap-store, revision 1390.
+Aug 13 18:52:39 null systemd[1]: snap-snapd-26865.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-snapd-26865.mount - Mount unit for snapd, revision 26865.
+Aug 13 18:52:39 null systemd[1]: snap-snapd-27591.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-snapd-27591.mount - Mount unit for snapd, revision 27591.
+Aug 13 18:52:39 null systemd[1]: snap-snapd\x2ddesktop\x2dintegration-387.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-snapd\x2ddesktop\x2dintegration-387.mount - Mount unit for snapd-desktop-integration, revision 387.
+Aug 13 18:52:39 null systemd[1]: snap-snapd\x2ddesktop\x2dintegration-391.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-snapd\x2ddesktop\x2dintegration-391.mount - Mount unit for snapd-desktop-integration, revision 391.
+Aug 13 18:52:39 null systemd[1]: snap-thunderbird-1170.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-thunderbird-1170.mount - Mount unit for thunderbird, revision 1170.
+Aug 13 18:52:39 null systemd[1]: snap-thunderbird-1201.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-thunderbird-1201.mount - Mount unit for thunderbird, revision 1201.
+Aug 13 18:52:39 null systemd[1]: tmp.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted tmp.mount - Temporary Directory /tmp.
+Aug 13 18:52:39 null systemd[1]: snap-bare-5.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted snap-bare-5.mount - Mount unit for bare, revision 5.
+Aug 13 18:52:39 null systemd[1]: Stopped target snapd.mounts-pre.target - Mounting snaps.
+Aug 13 18:52:39 null systemd[1]: systemd-resolved-monitor.socket: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Closed systemd-resolved-monitor.socket - Resolve Monitor Varlink Socket.
+Aug 13 18:52:39 null systemd[1]: systemd-resolved-varlink.socket: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Closed systemd-resolved-varlink.socket - Resolve Service Varlink Socket.
+Aug 13 18:52:39 null systemd[1]: systemd-fsck@dev-disk-by\x2duuid-8D60\x2d4284.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-fsck@dev-disk-by\x2duuid-8D60\x2d4284.service - File System Check on /dev/disk/by-uuid/8D60-4284.
+Aug 13 18:52:39 null systemd[1]: systemd-sysctl.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-sysctl.service - Apply Kernel Variables.
+Aug 13 18:52:39 null systemd[1]: systemd-modules-load.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-modules-load.service - Load Kernel Modules.
+Aug 13 18:52:39 null systemd[1]: media-null-px.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted media-null-px.mount - /media/null/px.
+Aug 13 18:52:39 null systemd[1]: run-snapd-ns-snapd\x2ddesktop\x2dintegration.mnt.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted run-snapd-ns-snapd\x2ddesktop\x2dintegration.mnt.mount - /run/snapd/ns/snapd-desktop-integration.mnt.
+Aug 13 18:52:39 null systemd[1]: Unmounting run-snapd-ns.mount - /run/snapd/ns...
+Aug 13 18:52:39 null systemd[1]: run-snapd-ns.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted run-snapd-ns.mount - /run/snapd/ns.
+Aug 13 18:52:39 null systemd[1]: Stopped target swap.target - Swaps.
+Aug 13 18:52:39 null systemd[1]: Deactivating swap media-null-ares-swapfile.swap - /media/null/ares/swapfile...
+Aug 13 18:52:39 null systemd[1]: media-null-ares-swapfile.swap: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Deactivated swap media-null-ares-swapfile.swap - /media/null/ares/swapfile.
+Aug 13 18:52:39 null systemd[1]: Unmounting media-null-ares.mount - /media/null/ares...
+Aug 13 18:52:39 null kernel: EXT4-fs (nvme0n1p1): unmounting filesystem e671d608-b756-4baa-a9ad-2f58c942c219.
+Aug 13 18:52:39 null systemd[1]: models.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted models.mount - /models.
+Aug 13 18:52:39 null systemd[1]: systemd-fsck@dev-disk-by\x2duuid-e671d608\x2db756\x2d4baa\x2da9ad\x2d2f58c942c219.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-fsck@dev-disk-by\x2duuid-e671d608\x2db756\x2d4baa\x2da9ad\x2d2f58c942c219.service - File System Check on /dev/disk/by-uuid/e671d608-b756-4baa-a9ad-2f58c942c219.
+Aug 13 18:52:39 null systemd[1]: Removed slice system-systemd\x2dfsck.slice - Slice /system/systemd-fsck.
+Aug 13 18:52:39 null kernel: EXT4-fs (nvme1n1p1): unmounting filesystem ab4937ca-1d79-4b5c-b2a1-25e4d9682112.
+Aug 13 18:52:39 null systemd[1]: media-null-ares.mount: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Unmounted media-null-ares.mount - /media/null/ares.
+Aug 13 18:52:39 null systemd[1]: Stopped target local-fs-pre.target - Preparation for Local File Systems.
+Aug 13 18:52:39 null systemd[1]: Reached target umount.target - Unmount All Filesystems.
+Aug 13 18:52:39 null systemd[1]: Stopping lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling...
+Aug 13 18:52:39 null systemd[1]: systemd-remount-fs.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-remount-fs.service - Remount Root and Kernel File Systems.
+Aug 13 18:52:39 null systemd[1]: systemd-fsck-root.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-fsck-root.service - File System Check on Root Device.
+Aug 13 18:52:39 null systemd[1]: systemd-tmpfiles-setup-dev.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-tmpfiles-setup-dev.service - Create Static Device Nodes in /dev.
+Aug 13 18:52:39 null systemd[1]: systemd-tmpfiles-setup-dev-early.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped systemd-tmpfiles-setup-dev-early.service - Create Static Device Nodes in /dev gracefully.
+Aug 13 18:52:39 null systemd[1]: lvm2-monitor.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Stopped lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Aug 13 18:52:39 null systemd[1]: Reached target shutdown.target - System Shutdown.
+Aug 13 18:52:39 null systemd[1]: Reached target final.target - Late Shutdown Services.
+Aug 13 18:52:39 null systemd[1]: systemd-reboot.service: Deactivated successfully.
+Aug 13 18:52:39 null systemd[1]: Finished systemd-reboot.service - System Reboot.
+Aug 13 18:52:39 null systemd[1]: Reached target reboot.target - System Reboot.
+Aug 13 18:52:39 null systemd[1]: Shutting down.
+Aug 13 18:52:40 null systemd-shutdown[1]: Syncing filesystems and block devices.
+Aug 13 18:52:40 null systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+Aug 13 18:52:40 null systemd-journald[948]: Received SIGTERM from PID 1 (systemd-shutdow).
+Aug 13 18:52:40 null systemd-udevd[995]: Failed to remove file descriptor "config-serialization" from the store, ignoring: Connection refused
+Aug 13 18:52:40 null openvpn3-servic[3342]: Error releasing name net.openvpn.v3.log: The connection is closed
+Aug 13 18:52:40 null systemd-journald[948]: Journal stopped

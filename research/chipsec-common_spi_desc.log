@@ -1,0 +1,76 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:04
+[CHIPSEC] Arguments: -m common.spi_desc -l /media/null/ares/intel-dram-alias/research/chipsec-common_spi_desc.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:17
+[CHIPSEC] Arguments: -m common.spi_desc -l /media/null/ares/intel-dram-alias/research/chipsec-common_spi_desc.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:45
+[CHIPSEC] Arguments: -m common.spi_desc -l /media/null/ares/intel-dram-alias/research/chipsec-common_spi_desc.log -nl
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+ 
+[+] loaded chipsec.modules.common.spi_desc
+[*] running loaded modules ..
+
+[*] Running module: chipsec.modules.common.spi_desc
+[*] Metadata tags: ['OPENSOURCE', 'IA', 'COMMON', 'SPI_DESC']
+[x][ =======================================================================
+[x][ Module: SPI Flash Region Access Control
+[x][ =======================================================================
+[*] FRAP = 0x00004ACF << SPI Flash Regions Access Permissions Register (8086.SPI.SPIBAR + 0x50 instance: bus: 0, dev: 31, func: 5, rid: 17, base: 0x83100000, size: 0x0)
+    [00] BRRA             = CF << BIOS Region Read Access 
+    [08] BRWA             = 4A << BIOS Region Write Access 
+    [16] BMRAG            = 0 << BIOS Master Read Access Grant 
+    [24] BMWAG            = 0 << BIOS Master Write Access Grant 
+[*] Software access to SPI flash regions: read = 0xCF, write = 0x4A
+
+[+] PASSED: SPI flash permissions prevent SW from writing to flash descriptor
+
+[CHIPSEC] ***************************  SUMMARY  ***************************
+[CHIPSEC] Time elapsed            0.003
+[CHIPSEC] Modules failed to run   0:
+[CHIPSEC] Modules passed          1:
+[+] PASSED: chipsec.modules.common.spi_desc
+[CHIPSEC] Modules information     0:
+[CHIPSEC] Modules failed          0:
+[CHIPSEC] Modules with warnings   0:
+[CHIPSEC] Modules not applicable  0:
+[CHIPSEC] Modules total           1
+[CHIPSEC] *****************************************************************

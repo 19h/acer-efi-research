@@ -1,0 +1,176 @@
+capture_time=2026-08-13T18:28:35+02:00
+boot_id=121424a6-7d84-4314-9f2d-9aa63de58095
+kernel=Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64 GNU/Linux
+
+== EFI boot state ==
+BootCurrent: 0000
+Timeout: 1 seconds
+BootOrder: 0000
+Boot0000* Ubuntu	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ubuntu\shimx64.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 34 00 5c 00 45 00 46 00 49 00 5c 00 75 00 62 00 75 00 6e 00 74 00 75 00 5c 00 73 00 68 00 69 00 6d 00 78 00 36 00 34 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot0001* EBH safe write test	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ida-assist\uefi-ebh-test1.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 4a 00 5c 00 45 00 46 00 49 00 5c 00 69 00 64 00 61 00 2d 00 61 00 73 00 73 00 69 00 73 00 74 00 5c 00 75 00 65 00 66 00 69 00 2d 00 65 00 62 00 68 00 2d 00 74 00 65 00 73 00 74 00 31 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot0002* EBH set 0 and cold reset	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ida-assist\uefi-ebh-set0-reset.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 54 00 5c 00 45 00 46 00 49 00 5c 00 69 00 64 00 61 00 2d 00 61 00 73 00 73 00 69 00 73 00 74 00 5c 00 75 00 65 00 66 00 69 00 2d 00 65 00 62 00 68 00 2d 00 73 00 65 00 74 00 30 00 2d 00 72 00 65 00 73 00 65 00 74 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot0003* EBH set 1 no reset	HD(2,GPT,37680aa7-e562-f449-acda-307dcde35e37,0x800,0x219800)/\EFI\ida-assist\uefi-ebh-set1.efi
+      dp: 04 01 2a 00 02 00 00 00 00 08 00 00 00 00 00 00 00 98 21 00 00 00 00 00 a7 0a 68 37 62 e5 49 f4 ac da 30 7d cd e3 5e 37 02 02 / 04 04 48 00 5c 00 45 00 46 00 49 00 5c 00 69 00 64 00 61 00 2d 00 61 00 73 00 73 00 69 00 73 00 74 00 5c 00 75 00 65 00 66 00 69 00 2d 00 65 00 62 00 68 00 2d 00 73 00 65 00 74 00 31 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+
+== SaSetup ==
+SaSetup[0x404] ExtendedBankHashing = 1
+
+== Live decoder ==
+Intel DRAM decoder read-only probe
+CPU: GenuineIntel family 0x6 model 0xb7 stepping 0x1
+Host bridge: 8086:a700
+MCHBAR: raw=0x0000fedc0001 base=0x0000fedc0000 enabled=yes
+Memory boundaries: TOM=0x001000000000 TOUUD=0x001080000000 TOLUD=0x80000000 TSEGMB=0x7f000000 DPR=0x7f000127
+
+Address-decoder registers (all reads):
+MAD_INTER_CHANNEL +0xd800 = 0x08020001 (DDR type DDR5)
+MAD_INTRA_CH0    +0xd804 = 0x00000100 (EIM=on)
+MAD_INTRA_CH1    +0xd808 = 0x00000100 (EIM=on)
+MAD_DIMM_CH0 +0xd80c = 0xd0100010
+  DECODER_EBH=3 (XaB=on, XbB=on), BG0 option=1
+  DIMM L=8.0 GiB/1 rank(s), DIMM S=8.0 GiB/1 rank(s)
+MAD_DIMM_CH1 +0xd810 = 0xd0100010
+  DECODER_EBH=3 (XaB=on, XbB=on), BG0 option=1
+  DIMM L=8.0 GiB/1 rank(s), DIMM S=8.0 GiB/1 rank(s)
+CHANNEL_HASH     +0xd824 = 0x130c3200
+CHANNEL_EHASH    +0xd828 = 0x00000000
+
+SMRR state (MSR reads):
+  CPU 0 : MTRRCAP=0x00005d0a SMRR_BASE=0x7f000006 SMRR_MASK=0xff000c00 => [0x7f000000, 0x7fffffff] (16 MiB), valid, locked
+  CPU 16: MTRRCAP=0x00005d0a SMRR_BASE=0x7f000006 SMRR_MASK=0xff000c00 => [0x7f000000, 0x7fffffff] (16 MiB), valid, locked
+
+Interpretation:
+  DECODER_EBH changes DRAM bank hashing and is the closest documented
+  analogue to the AMD BankSwizzleMode primitive. Intel's 13th-gen
+  datasheet classifies MCHBAR D800-D810 as BIOS RW, SMM R, OS R.
+  This probe establishes configuration only; it does not establish
+  that an OS write is accepted, nor that useful aliases would result.
+
+== UEFI app result ==
+result variable not present
+
+== Previous-boot tail ==
+An error was encountered while opening journal file or directory /var/log/journal/7a908a5ced14448b99f57bc1403efea7/system@5beb6a958543444aaaa8f30151248bb4-00000000047078c3-000657bf61dc1bca.journal, ignoring file: No such file or directory
+Aug 13 18:23:03 null systemd[9391]: Stopping gvfs-daemon.service - Virtual filesystem service...
+Aug 13 18:23:03 null systemd[9391]: Stopping gvfs-metadata.service - Virtual filesystem metadata service...
+Aug 13 18:23:03 null systemd[9391]: Stopping localsearch-3.service - LocalSearch indexer...
+Aug 13 18:23:03 null systemd[9391]: Stopping mpris-proxy.service - Bluetooth mpris proxy...
+Aug 13 18:23:03 null systemd[9391]: Stopping openvpn3-desktop-session-watcher.service - OpenVPN 3 Linux Session watcher...
+Aug 13 18:23:03 null systemd[9391]: Stopping snap.firmware-updater.firmware-notifier.service - Service for snap application firmware-updater.firmware-notifier...
+Aug 13 18:23:03 null systemd[9391]: Stopping ssh-agent.service - OpenSSH Agent...
+Aug 13 18:23:03 null systemd[9391]: Stopped gcr-ssh-agent.service - GCR ssh-agent wrapper.
+Aug 13 18:23:03 null systemd[9391]: gcr-ssh-agent.service: Consumed 2.557s CPU time over 1w 3d 17h 31min 10.456s wall clock time, 5.1M memory peak, 1.5M memory swap peak.
+Aug 13 18:23:03 null ssh-agent[10222]: exiting on signal 15
+Aug 13 18:23:03 null mpris-proxy[9441]: org.bluez appeared
+Aug 13 18:23:03 null mpris-proxy[9441]: Bluetooth Adapter /org/bluez/hci0 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.spotify at :1.403 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.brave.instance129917 at :1.314 found
+Aug 13 18:23:03 null mpris-proxy[9441]: Bluetooth Device /org/bluez/hci0/dev_18_3F_70_EE_3F_27 disconnected
+Aug 13 18:23:03 null mpris-proxy[9441]: Bluetooth Device /org/bluez/hci0/dev_18_3F_70_EE_3F_27 disconnected
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.spotify at :1.403 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.brave.instance129917 at :1.314 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.brave.instance3450841 at :1.2769 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.188 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.188 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 found
+Aug 13 18:23:03 null mpris-proxy[9441]: Bluetooth Device /org/bluez/hci0/dev_18_3F_70_EE_3F_27 disconnected
+Aug 13 18:23:03 null mpris-proxy[9441]: Bluetooth Device /org/bluez/hci0/dev_18_3F_70_EE_3F_27 disconnected
+Aug 13 18:23:03 null mpris-proxy[9441]: Bluetooth Adapter /org/bluez/hci0 removed
+Aug 13 18:23:03 null mpris-proxy[9441]: org.bluez disappeared
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.brave.instance3450841 at :1.2769 disappear
+Aug 13 18:23:03 null mpris-proxy[9441]: player org.mpris.MediaPlayer2.TelegramDesktop at :1.3642 disappear
+Aug 13 18:23:03 null gpg-agent[271014]: gpg-agent (GnuPG) 2.4.8 stopped
+Aug 13 18:23:03 null systemd[9391]: Stopped mpris-proxy.service - Bluetooth mpris proxy.
+Aug 13 18:23:03 null systemd[9391]: mpris-proxy.service: Consumed 2.776s CPU time over 1w 3d 17h 31min 11.034s wall clock time, 4.2M memory peak, 688K memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped openvpn3-desktop-session-watcher.service - OpenVPN 3 Linux Session watcher.
+Aug 13 18:23:03 null systemd[9391]: Stopped ssh-agent.service - OpenSSH Agent.
+Aug 13 18:23:03 null systemd[9391]: Stopped dconf.service - User preferences database.
+Aug 13 18:23:03 null systemd[9391]: Stopped gpg-agent.service - GnuPG cryptographic agent and passphrase cache.
+Aug 13 18:23:03 null systemd[9391]: gpg-agent.service: Consumed 14.751s CPU time over 1w 3d 14h 53min 15.441s wall clock time, 3.9M memory peak, 88K memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: gvfs-daemon.service: Failed to kill control group /user.slice/user-1000.slice/user@1000.service/session.slice/gvfs-daemon.service, ignoring: Operation not permitted
+Aug 13 18:23:03 null systemd[9391]: gvfs-daemon.service: Killing process 248566 (gvfsd-admin) with signal SIGKILL.
+Aug 13 18:23:03 null systemd[9391]: gvfs-daemon.service: Killing process 690801 (python3) with signal SIGKILL.
+Aug 13 18:23:03 null systemd[9391]: gvfs-daemon.service: Failed to kill control group /user.slice/user-1000.slice/user@1000.service/session.slice/gvfs-daemon.service, ignoring: Operation not permitted
+Aug 13 18:23:03 null systemd[9391]: gvfs-daemon.service: Unit process 248566 (gvfsd-admin) remains running after unit stopped.
+Aug 13 18:23:03 null systemd[9391]: gvfs-daemon.service: Unit process 690801 (python3) remains running after unit stopped.
+Aug 13 18:23:03 null systemd[9391]: Stopped gvfs-daemon.service - Virtual filesystem service.
+Aug 13 18:23:03 null systemd[9391]: Stopped gnome-keyring-daemon.service - GNOME Keyring daemon.
+Aug 13 18:23:03 null systemd[9391]: gnome-keyring-daemon.service: Consumed 31.370s CPU time over 1w 3d 17h 31min 11.044s wall clock time, 12.9M memory peak, 2.6M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped gvfs-metadata.service - Virtual filesystem metadata service.
+Aug 13 18:23:03 null systemd[9391]: Stopped at-spi-dbus-bus.service - Accessibility services bus.
+Aug 13 18:23:03 null systemd[9391]: Stopped evolution-calendar-factory.service - Evolution calendar service.
+Aug 13 18:23:03 null systemd[9391]: evolution-calendar-factory.service: Consumed 12.674s CPU time over 1w 3d 17h 31min 9.128s wall clock time, 9.2M memory peak, 2.9M memory swap peak.
+Aug 13 18:23:03 null gnome-shell-calendar-server[10395]: The calendar backend for 'Personal' has crashed.
+Aug 13 18:23:03 null gnome-shell-calendar-server[10395]: The calendar backend for 'Birthdays & Anniversaries' has crashed.
+Aug 13 18:23:03 null systemd[9391]: Stopped evolution-addressbook-factory.service - Evolution address book service.
+Aug 13 18:23:03 null systemd[9391]: evolution-addressbook-factory.service: Consumed 12.510s CPU time over 1w 3d 17h 31min 9.076s wall clock time, 11.5M memory peak, 3.5M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped wireplumber.service - Multimedia Service Session Manager.
+Aug 13 18:23:03 null systemd[9391]: wireplumber.service: Consumed 24.599s CPU time over 1w 3d 17h 31min 11.066s wall clock time, 15.6M memory peak, 12.3M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopping dbus.service - D-Bus User Message Bus...
+Aug 13 18:23:03 null systemd[9391]: Stopping pipewire.service - PipeWire Multimedia Service...
+Aug 13 18:23:03 null io.snapcraft.Launcher[2940058]: Exiting on terminated.
+Aug 13 18:23:03 null systemd[9391]: Stopped pipewire.service - PipeWire Multimedia Service.
+Aug 13 18:23:03 null systemd[9391]: pipewire.service: Consumed 27min 50.605s CPU time over 1w 3d 17h 31min 11.082s wall clock time, 22.3M memory peak, 8.6M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped dbus.service - D-Bus User Message Bus.
+Aug 13 18:23:03 null systemd[9391]: dbus.service: Consumed 3h 36min 39.117s CPU time over 1w 3d 17h 31min 11.084s wall clock time, 7.6G memory peak, 3.7G memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped evolution-source-registry.service - Evolution source registry.
+Aug 13 18:23:03 null systemd[9391]: Removed slice session.slice - User Core Session Slice.
+Aug 13 18:23:03 null systemd[9391]: session.slice: Consumed 2d 5h 19min 59.237s CPU time over 1w 3d 17h 31min 11.111s wall clock time, 16.9G memory peak, 9.6G memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped snap.firmware-updater.firmware-notifier.service - Service for snap application firmware-updater.firmware-notifier.
+Aug 13 18:23:03 null systemd[9391]: snap.firmware-updater.firmware-notifier.service: Consumed 4.452s CPU time over 3d 17h 59min 32.341s wall clock time, 68.3M memory peak, 2.5M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped localsearch-3.service - LocalSearch indexer.
+Aug 13 18:23:03 null systemd[9391]: localsearch-3.service: Consumed 5min 32.256s CPU time over 1w 3d 17h 31min 8.969s wall clock time, 346.5M memory peak, 19.9M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Removed slice background.slice - User Background Tasks Slice.
+Aug 13 18:23:03 null systemd[9391]: background.slice: Consumed 5min 32.256s CPU time over 1w 3d 17h 31min 10.819s wall clock time, 346.6M memory peak, 19.9M memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Stopped target basic.target - Basic System.
+Aug 13 18:23:03 null systemd[9391]: Stopped target paths.target - Paths.
+Aug 13 18:23:03 null systemd[9391]: Stopped ubuntu-report.path - Pending report trigger for Ubuntu Report.
+Aug 13 18:23:03 null systemd[9391]: Stopped target sockets.target - Sockets.
+Aug 13 18:23:03 null systemd[9391]: Stopped target timers.target - Timers.
+Aug 13 18:23:03 null systemd[9391]: Stopped launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+Aug 13 18:23:03 null systemd[9391]: Stopped snap.firmware-updater.firmware-notifier.timer - Timer firmware-notifier for snap application firmware-updater.firmware-notifier.
+Aug 13 18:23:03 null systemd[9391]: Stopped ubuntu-insights-collect.timer - "Run Ubuntu-Insights collect 5 mins after boot and every month relative to the activation time".
+Aug 13 18:23:03 null systemd[9391]: Stopped ubuntu-insights-upload.timer - "Run Ubuntu-Insights upload 8 mins after boot and every week relative to the activation time".
+Aug 13 18:23:03 null systemd[9391]: Closed dbus.socket - D-Bus User Message Bus Socket.
+Aug 13 18:23:03 null systemd[9391]: Closed dirmngr.socket - GnuPG network certificate management daemon.
+Aug 13 18:23:03 null systemd[9391]: Closed gnome-keyring-daemon.socket - GNOME Keyring daemon.
+Aug 13 18:23:03 null systemd[9391]: Closed gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Aug 13 18:23:03 null systemd[9391]: Closed gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+Aug 13 18:23:03 null systemd[9391]: Stopping gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+Aug 13 18:23:03 null systemd[9391]: Stopping gpg-agent.socket - GnuPG cryptographic agent and passphrase cache...
+Aug 13 18:23:03 null systemd[9391]: Closed keyboxd.socket - GnuPG public key management service.
+Aug 13 18:23:03 null systemd[9391]: Closed pipewire-pulse.socket - PipeWire PulseAudio.
+Aug 13 18:23:03 null systemd[9391]: Closed pipewire.socket - PipeWire Multimedia System Sockets.
+Aug 13 18:23:03 null systemd[9391]: Closed pk-debconf-helper.socket - debconf communication socket.
+Aug 13 18:23:03 null systemd[9391]: Closed snapd.session-agent.socket - REST API socket for snapd user session agent.
+Aug 13 18:23:03 null systemd[9391]: Closed speech-dispatcher.socket - Speech Dispatcher Socket.
+Aug 13 18:23:03 null systemd[9391]: Closed systemd-ask-password.socket - Query the User Interactively for a Password.
+Aug 13 18:23:03 null systemd[9391]: Closed systemd-importd.socket - Disk Image Download Service Socket.
+Aug 13 18:23:03 null systemd[9391]: Closed systemd-machined.socket - Virtual Machine and Container Registration Service Socket.
+Aug 13 18:23:03 null systemd[9391]: Closed gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+Aug 13 18:23:03 null systemd[9391]: Closed gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+Aug 13 18:23:03 null systemd[9391]: Closed gcr-ssh-agent.socket - GCR ssh-agent wrapper.
+Aug 13 18:23:03 null systemd[9391]: Stopping ssh-agent.socket - OpenSSH Agent socket...
+Aug 13 18:23:03 null systemd[9391]: Closed ssh-agent.socket - OpenSSH Agent socket.
+Aug 13 18:23:03 null systemd[9391]: Removed slice app.slice - User Application Slice.
+Aug 13 18:23:03 null systemd[9391]: app.slice: Consumed 1month 1w 4d 18h 57min 55.061s CPU time over 1w 3d 17h 31min 11.561s wall clock time, 52.5G memory peak, 40.3G memory swap peak.
+Aug 13 18:23:03 null systemd[9391]: Reached target shutdown.target - Shutdown.
+Aug 13 18:23:03 null systemd[9391]: Finished systemd-exit.service - Exit the Session.
+Aug 13 18:23:03 null systemd[9391]: Reached target exit.target - Exit the Session.

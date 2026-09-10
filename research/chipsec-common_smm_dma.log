@@ -1,0 +1,75 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:05
+[CHIPSEC] Arguments: -m common.smm_dma -l /media/null/ares/intel-dram-alias/research/chipsec-common_smm_dma.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:18
+[CHIPSEC] Arguments: -m common.smm_dma -l /media/null/ares/intel-dram-alias/research/chipsec-common_smm_dma.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:46
+[CHIPSEC] Arguments: -m common.smm_dma -l /media/null/ares/intel-dram-alias/research/chipsec-common_smm_dma.log -nl
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+ 
+[+] loaded chipsec.modules.common.smm_dma
+[*] running loaded modules ..
+
+[*] Running module: chipsec.modules.common.smm_dma
+[*] Metadata tags: ['OPENSOURCE', 'IA', 'COMMON', 'SMM_DMA']
+[x][ =======================================================================
+[x][ Module: SMM TSEG Range Configuration Check
+[x][ =======================================================================
+[*] TSEG      : 0x000000007F000000 - 0x000000007FFFFFFF (size = 0x01000000)
+[*] SMRR range: 0x000000007F000000 - 0x000000007FFFFFFF (size = 0x01000000)
+
+[*] Checking TSEG range configuration..
+[+] TSEG range covers entire SMRAM
+[+] TSEG range is locked
+[+] PASSED: TSEG is properly configured. SMRAM is protected from DMA attacks
+
+[CHIPSEC] ***************************  SUMMARY  ***************************
+[CHIPSEC] Time elapsed            0.036
+[CHIPSEC] Modules failed to run   0:
+[CHIPSEC] Modules passed          1:
+[+] PASSED: chipsec.modules.common.smm_dma
+[CHIPSEC] Modules information     0:
+[CHIPSEC] Modules failed          0:
+[CHIPSEC] Modules with warnings   0:
+[CHIPSEC] Modules not applicable  0:
+[CHIPSEC] Modules total           1
+[CHIPSEC] *****************************************************************

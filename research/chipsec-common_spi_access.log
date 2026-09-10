@@ -1,0 +1,141 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:03
+[CHIPSEC] Arguments: -m common.spi_access -l /media/null/ares/intel-dram-alias/research/chipsec-common_spi_access.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:16
+[CHIPSEC] Arguments: -m common.spi_access -l /media/null/ares/intel-dram-alias/research/chipsec-common_spi_access.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:43
+[CHIPSEC] Arguments: -m common.spi_access -l /media/null/ares/intel-dram-alias/research/chipsec-common_spi_access.log -nl
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+ 
+[+] loaded chipsec.modules.common.spi_access
+[*] running loaded modules ..
+
+[*] Running module: chipsec.modules.common.spi_access
+[*] Metadata tags: ['OPENSOURCE', 'IA', 'COMMON', 'SPI_ACCESS']
+[x][ =======================================================================
+[x][ Module: SPI Flash Region Access Control
+[x][ =======================================================================
+SPI Flash Region Access Permissions
+------------------------------------------------------------
+
+BIOS Region Write Access Grant (00):
+  8086.SPI.SPIBAR.FREG0_FLASHD: 0
+  8086.SPI.SPIBAR.FREG1_BIOS: 0
+  8086.SPI.SPIBAR.FREG2_ME: 0
+  8086.SPI.SPIBAR.FREG3_GBE: 0
+  8086.SPI.SPIBAR.FREG4_PD: 0
+  8086.SPI.SPIBAR.FREG5: 0
+  8086.SPI.SPIBAR.FREG6: 0
+  8086.SPI.SPIBAR.FREG7: 0
+  8086.SPI.SPIBAR.FREG8_EC: 0
+  8086.SPI.SPIBAR.FREG9: 0
+  8086.SPI.SPIBAR.FREG10: 0
+  8086.SPI.SPIBAR.FREG11: 0
+  8086.SPI.SPIBAR.FREG12: 0
+  8086.SPI.SPIBAR.FREG13: 0
+  8086.SPI.SPIBAR.FREG14: 0
+  8086.SPI.SPIBAR.FREG15: 0
+BIOS Region Read Access Grant (00):
+  8086.SPI.SPIBAR.FREG0_FLASHD: 0
+  8086.SPI.SPIBAR.FREG1_BIOS: 0
+  8086.SPI.SPIBAR.FREG2_ME: 0
+  8086.SPI.SPIBAR.FREG3_GBE: 0
+  8086.SPI.SPIBAR.FREG4_PD: 0
+  8086.SPI.SPIBAR.FREG5: 0
+  8086.SPI.SPIBAR.FREG6: 0
+  8086.SPI.SPIBAR.FREG7: 0
+  8086.SPI.SPIBAR.FREG8_EC: 0
+  8086.SPI.SPIBAR.FREG9: 0
+  8086.SPI.SPIBAR.FREG10: 0
+  8086.SPI.SPIBAR.FREG11: 0
+  8086.SPI.SPIBAR.FREG12: 0
+  8086.SPI.SPIBAR.FREG13: 0
+  8086.SPI.SPIBAR.FREG14: 0
+  8086.SPI.SPIBAR.FREG15: 0
+BIOS Region Write Access (4A):
+  8086.SPI.SPIBAR.FREG0_FLASHD: 0
+  8086.SPI.SPIBAR.FREG1_BIOS: 1
+  8086.SPI.SPIBAR.FREG2_ME: 0
+  8086.SPI.SPIBAR.FREG3_GBE: 1
+  8086.SPI.SPIBAR.FREG4_PD: 0
+  8086.SPI.SPIBAR.FREG5: 0
+  8086.SPI.SPIBAR.FREG6: 1
+  8086.SPI.SPIBAR.FREG7: 0
+  8086.SPI.SPIBAR.FREG8_EC: 0
+  8086.SPI.SPIBAR.FREG9: 0
+  8086.SPI.SPIBAR.FREG10: 0
+  8086.SPI.SPIBAR.FREG11: 0
+  8086.SPI.SPIBAR.FREG12: 0
+  8086.SPI.SPIBAR.FREG13: 0
+  8086.SPI.SPIBAR.FREG14: 0
+  8086.SPI.SPIBAR.FREG15: 0
+BIOS Region Read Access (CF):
+  8086.SPI.SPIBAR.FREG0_FLASHD: 1
+  8086.SPI.SPIBAR.FREG1_BIOS: 1
+  8086.SPI.SPIBAR.FREG2_ME: 1
+  8086.SPI.SPIBAR.FREG3_GBE: 1
+  8086.SPI.SPIBAR.FREG4_PD: 0
+  8086.SPI.SPIBAR.FREG5: 0
+  8086.SPI.SPIBAR.FREG6: 1
+  8086.SPI.SPIBAR.FREG7: 1
+  8086.SPI.SPIBAR.FREG8_EC: 0
+  8086.SPI.SPIBAR.FREG9: 0
+  8086.SPI.SPIBAR.FREG10: 0
+  8086.SPI.SPIBAR.FREG11: 0
+  8086.SPI.SPIBAR.FREG12: 0
+  8086.SPI.SPIBAR.FREG13: 0
+  8086.SPI.SPIBAR.FREG14: 0
+  8086.SPI.SPIBAR.FREG15: 0
+WARNING: Software has write access to GBe region in SPI flash
+WARNING: Certain SPI flash regions are writeable by software
+
+[CHIPSEC] ***************************  SUMMARY  ***************************
+[CHIPSEC] Time elapsed            0.007
+[CHIPSEC] Modules failed to run   0:
+[CHIPSEC] Modules passed          0:
+[CHIPSEC] Modules information     0:
+[CHIPSEC] Modules failed          0:
+[CHIPSEC] Modules with warnings   1:
+WARNING: chipsec.modules.common.spi_access
+[CHIPSEC] Modules not applicable  0:
+[CHIPSEC] Modules total           1
+[CHIPSEC] *****************************************************************

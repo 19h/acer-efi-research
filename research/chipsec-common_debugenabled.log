@@ -1,0 +1,76 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:07
+[CHIPSEC] Arguments: -m common.debugenabled -l /media/null/ares/intel-dram-alias/research/chipsec-common_debugenabled.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:19
+[CHIPSEC] Arguments: -m common.debugenabled -l /media/null/ares/intel-dram-alias/research/chipsec-common_debugenabled.log -nl
+
+ERROR: Message: "Cannot find chipsec.ko module"
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:06:49
+[CHIPSEC] Arguments: -m common.debugenabled -l /media/null/ares/intel-dram-alias/research/chipsec-common_debugenabled.log -nl
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+ 
+[+] loaded chipsec.modules.common.debugenabled
+[*] running loaded modules ..
+
+[*] Running module: chipsec.modules.common.debugenabled
+[*] Metadata tags: ['OPENSOURCE', 'IA', 'COMMON', 'DEBUGENABLED']
+[x][ =======================================================================
+[x][ Module: Debug features test
+[x][ =======================================================================
+
+[*] Checking IA32_DEBUG_INTERFACE MSR status
+[+] CPU debug enable is set consitently
+[+] CPU debug lock is set consitently
+[+] CPU debug interface state is correct.
+
+[*] Module Results:
+[+] PASSED: All checks have successfully passed
+
+[CHIPSEC] ***************************  SUMMARY  ***************************
+[CHIPSEC] Time elapsed            0.009
+[CHIPSEC] Modules failed to run   0:
+[CHIPSEC] Modules passed          1:
+[+] PASSED: chipsec.modules.common.debugenabled
+[CHIPSEC] Modules information     0:
+[CHIPSEC] Modules failed          0:
+[CHIPSEC] Modules with warnings   0:
+[CHIPSEC] Modules not applicable  0:
+[CHIPSEC] Modules total           1
+[CHIPSEC] *****************************************************************
