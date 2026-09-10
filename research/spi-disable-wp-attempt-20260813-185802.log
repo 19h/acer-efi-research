@@ -1,0 +1,30 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:58:02
+[CHIPSEC] Arguments: spi disable-wp
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+[CHIPSEC] Executing command 'spi' with args ['disable-wp']
+
+[CHIPSEC] Trying to disable BIOS write protection..
+[-] Couldn't disable BIOS region write protection in SPI flash
+[CHIPSEC] Time elapsed 0.001

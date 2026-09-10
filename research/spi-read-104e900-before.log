@@ -1,0 +1,35 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:55:49
+[CHIPSEC] Arguments: spi read 0x104e900 0x40 research/spi-live-104e900-before.bin
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+[CHIPSEC] Executing command 'spi' with args ['read', '0x104e900', '0x40', 'research/spi-live-104e900-before.bin']
+
+[CHIPSEC] Reading 0x40 bytes from SPI Flash starting at FLA = 0x104E900
+[CHIPSEC] it may take a few minutes (use DEBUG or VERBOSE logger options to see progress)
+[spi] Reading 0x40 bytes from SPI at FLA = 0x104e900 (in 1 0x40-byte chunks + 0x0-byte remainder)
+__|
+-
+SPI read complete
+[CHIPSEC] Completed SPI flash memory read
+[CHIPSEC] Time elapsed 0.001

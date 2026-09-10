@@ -1,0 +1,32 @@
+
+################################################################
+##                                                            ##
+##  CHIPSEC: Platform Hardware Security Assessment Framework  ##
+##                                                            ##
+################################################################
+[CHIPSEC] Version  : 2.0.7
+[CHIPSEC] Start    : 2026-08-13 18:57:11
+[CHIPSEC] Arguments: spi write 0x104e913 research/spi-byte-00.bin
+
+
+[CHIPSEC] OS      : Linux 6.18.0-9-generic #9-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 12 16:49:02 UTC 2026 x86_64
+[CHIPSEC] Python  : 3.14.4 (64-bit) - Enabled GIL
+[CHIPSEC] Helper  : LinuxHelper (/media/null/ares/intel-dram-alias/research/sources/chipsec/chipsec/helper/linux/chipsec.ko)
+
+[CHIPSEC] Mfg ID  : GenuineIntel
+[CHIPSEC] Platform: RPL-S 8+16
+[CHIPSEC]    CPUID: B0671
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: A700
+[CHIPSEC]      RID: 01
+[CHIPSEC] PCH     : Intel Z790 PCH
+[CHIPSEC]      VID: 8086
+[CHIPSEC]      DID: 7A04
+[CHIPSEC]      RID: 11
+[CHIPSEC] Executing command 'spi' with args ['write', '0x104e913', 'research/spi-byte-00.bin']
+
+[CHIPSEC] Writing to SPI flash memory at FLA = 0x104E913 from 'research/spi-byte-00.bin                                        '
+[spi] Writing 0x1 bytes to SPI at FLA = 0x104e913 (in 0 0x4-byte chunks + 0x1-byte remainder)
+[spi] Writing remaining 0x1 bytes to FLA = 0x104e913
+[CHIPSEC] Completed SPI flash memory write
+[CHIPSEC] Time elapsed 0.001
