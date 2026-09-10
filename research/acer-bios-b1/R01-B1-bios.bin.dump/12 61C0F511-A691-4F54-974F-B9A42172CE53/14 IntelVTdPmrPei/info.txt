@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: IntelVTdPmrPei
+Fixed: No
+Base: EB30D8h
+Header address: FFF2E3F0h
+Data address: FFF2E408h
+Offset: E3F0h
+File GUID: F906769F-4AED-4A0D-8C7C-FF21B9D1051A
+Type: 06h
+Attributes: 00h
+Full size: 158Ah (5514)
+Header size: 18h (24)
+Body size: 1572h (5490)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E8h, valid
+Data checksum: AAh, valid

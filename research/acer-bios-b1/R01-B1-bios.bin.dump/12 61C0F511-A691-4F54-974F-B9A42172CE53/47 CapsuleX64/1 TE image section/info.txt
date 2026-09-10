@@ -1,0 +1,20 @@
+Type: Section
+Subtype: TE image
+Fixed: No
+Base: EFBB20h
+Header address: FFF76E38h
+Data address: FFF76E3Ch
+Offset: 20h
+Type: 12h
+Full size: 3E34h (15924)
+Header size: 4h (4)
+Body size: 3E30h (15920)
+Signature: 5A56h
+Machine type: x86-64
+Number of sections: 5
+Subsystem: 0Bh
+Stripped size: 1B8h (440)
+Base of code: 280h
+Address of entry point: B38h
+Image base: FFF76CACh
+Adjusted image base: FFF76E3Ch

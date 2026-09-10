@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: DF482Ch
+Address: FFE6FB44h
+Offset: B08A0h
+Full size: C760h (51040)

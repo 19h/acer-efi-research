@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: TcgStorageSecurityPei
+Fixed: No
+Base: F0B808h
+Header address: FFF86B20h
+Data address: FFF86B38h
+Offset: 66B20h
+File GUID: 8ED25ADD-7C2D-4326-9186-85CCF74C79F6
+Type: 06h
+Attributes: 00h
+Full size: 670h (1648)
+Header size: 18h (24)
+Body size: 658h (1624)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

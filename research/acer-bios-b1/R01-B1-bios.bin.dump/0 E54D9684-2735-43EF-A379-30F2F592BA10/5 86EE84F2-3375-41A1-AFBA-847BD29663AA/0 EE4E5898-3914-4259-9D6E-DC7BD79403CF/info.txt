@@ -1,0 +1,13 @@
+Type: Section
+Subtype: GUID defined
+Fixed: No
+Base: 4E298h
+Header address: FF0C95B0h
+Data address: FF0C95C8h
+Offset: 18h
+Section GUID: EE4E5898-3914-4259-9D6E-DC7BD79403CF
+Type: 02h
+Full size: 14E50Ch (1369356)
+Header size: 18h (24)
+Body size: 14E4F4h (1369332)
+Attributes: 0001h

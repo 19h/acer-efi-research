@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: C0D76Ch
+Address: FFC88A84h
+Offset: 3A130h
+Full size: 85ED0h (548560)

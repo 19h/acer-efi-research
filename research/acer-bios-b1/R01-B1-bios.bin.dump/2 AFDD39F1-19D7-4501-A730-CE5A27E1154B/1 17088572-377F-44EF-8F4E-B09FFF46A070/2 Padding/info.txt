@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: B4E9E0h
+Address: FFBC9CF8h
+Offset: 6B418h
+Full size: 2010h (8208)

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: D4A358h
+Header address: FFDC5670h
+Data address: FFDC5674h
+Offset: 58FCh
+Type: 15h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Text: PeiCore

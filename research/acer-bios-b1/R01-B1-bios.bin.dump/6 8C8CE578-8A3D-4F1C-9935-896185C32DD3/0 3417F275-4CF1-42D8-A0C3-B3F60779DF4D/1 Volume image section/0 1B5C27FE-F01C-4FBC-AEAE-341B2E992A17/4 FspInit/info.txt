@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspInit
+Fixed: No
+Base: CB9B30h
+Header address: FFD34E48h
+Data address: FFD34E60h
+Offset: 26028h
+File GUID: 131B73AC-C033-4DE1-8794-6DAB08E731CF
+Type: 06h
+Attributes: 00h
+Full size: 2CF5h (11509)
+Header size: 18h (24)
+Body size: 2CDDh (11485)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 49h, valid
+Data checksum: AAh, valid

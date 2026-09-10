@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: CpuPei
+Fixed: No
+Offset: E320h
+File GUID: E60A79D5-DC9B-47F1-87D3-51BF697B6121
+Type: 06h
+Attributes: 00h
+Full size: 662h (1634)
+Header size: 18h (24)
+Body size: 64Ah (1610)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D5h, valid
+Data checksum: AAh, valid

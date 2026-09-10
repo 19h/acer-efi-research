@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: F2E500h
+Header address: FFFA9818h
+Data address: FFFA981Ch
+Offset: 18h
+Type: 19h
+Full size: 8h (8)
+Header size: 4h (4)
+Body size: 4h (4)

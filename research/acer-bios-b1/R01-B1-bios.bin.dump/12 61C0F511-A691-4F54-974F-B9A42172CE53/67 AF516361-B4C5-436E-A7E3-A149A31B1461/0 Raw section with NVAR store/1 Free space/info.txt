@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: Yes
+Base: F33576h
+Address: FFFAE88Eh
+Offset: 5016h
+Full size: 10h (16)

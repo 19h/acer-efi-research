@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: PlatformInitAdvancedPostMem
+Fixed: No
+Offset: FC30h
+File GUID: 314EE04C-1106-4DC6-ACBC-CF19C0DBC5CC
+Type: 06h
+Attributes: 00h
+Full size: 64C2h (25794)
+Header size: 18h (24)
+Body size: 64AAh (25770)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

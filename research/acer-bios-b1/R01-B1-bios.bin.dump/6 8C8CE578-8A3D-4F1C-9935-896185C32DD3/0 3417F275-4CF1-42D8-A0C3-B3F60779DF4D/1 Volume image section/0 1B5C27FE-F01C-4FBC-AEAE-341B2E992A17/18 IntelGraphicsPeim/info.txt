@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: IntelGraphicsPeim
+Fixed: No
+Base: CCBDD8h
+Header address: FFD470F0h
+Data address: FFD47108h
+Offset: 382D0h
+File GUID: 76ED893A-B2F9-4C7D-A05F-1EA170ECF6CD
+Type: 06h
+Attributes: 00h
+Full size: E04Fh (57423)
+Header size: 18h (24)
+Body size: E037h (57399)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

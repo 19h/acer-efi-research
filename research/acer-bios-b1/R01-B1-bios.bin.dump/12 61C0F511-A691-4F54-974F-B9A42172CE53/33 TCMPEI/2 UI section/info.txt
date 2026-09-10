@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EE9428h
+Header address: FFF64740h
+Data address: FFF64744h
+Offset: D58h
+Type: 15h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Text: TCMPEI

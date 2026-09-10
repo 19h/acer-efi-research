@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: ResetSystemPei
+Fixed: No
+Base: D4BE1Ch
+Header address: FFDC7134h
+Data address: FFDC714Ch
+Offset: 7E90h
+File GUID: 6141E486-7543-4F1A-A579-FF532ED78E75
+Type: 06h
+Attributes: 00h
+Full size: 836h (2102)
+Header size: 18h (24)
+Body size: 81Eh (2078)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

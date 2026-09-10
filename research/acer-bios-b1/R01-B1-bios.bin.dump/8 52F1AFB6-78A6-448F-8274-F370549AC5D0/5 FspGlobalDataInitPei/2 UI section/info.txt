@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: D4CA68h
+Header address: FFDC7D80h
+Data address: FFDC7D84h
+Offset: 414h
+Type: 15h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Text: FspGlobalDataInitPei

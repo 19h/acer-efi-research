@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: Usb4PlatformPei
+Fixed: No
+Offset: 5360h
+File GUID: 15446019-9170-436A-A981-CC7521E9D7F9
+Type: 06h
+Attributes: 00h
+Full size: 76Ah (1898)
+Header size: 18h (24)
+Body size: 752h (1874)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

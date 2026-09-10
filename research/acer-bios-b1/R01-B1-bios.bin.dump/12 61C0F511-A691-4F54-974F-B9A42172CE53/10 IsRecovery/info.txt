@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: IsRecovery
+Fixed: No
+Base: EA7D88h
+Header address: FFF230A0h
+Data address: FFF230B8h
+Offset: 30A0h
+File GUID: 8E199D3F-3A74-492B-8CB3-93D668D87D07
+Type: 06h
+Attributes: 00h
+Full size: E62h (3682)
+Header size: 18h (24)
+Body size: E4Ah (3658)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 79h, valid
+Data checksum: AAh, valid

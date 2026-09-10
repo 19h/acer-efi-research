@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SiliconPolicyPeiPreMem
+Fixed: No
+Base: ED1018h
+Header address: FFF4C330h
+Data address: FFF4C348h
+Offset: 2C330h
+File GUID: 3307DD15-23BA-4546-A004-FCBCC47D4A49
+Type: 06h
+Attributes: 00h
+Full size: 8E1Eh (36382)
+Header size: 18h (24)
+Body size: 8E06h (36358)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

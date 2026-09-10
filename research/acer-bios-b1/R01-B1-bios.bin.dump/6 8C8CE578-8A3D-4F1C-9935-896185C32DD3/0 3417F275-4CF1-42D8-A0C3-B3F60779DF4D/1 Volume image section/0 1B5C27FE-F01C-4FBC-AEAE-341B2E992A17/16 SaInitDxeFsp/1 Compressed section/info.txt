@@ -1,0 +1,14 @@
+Type: Section
+Subtype: Compressed
+Fixed: No
+Base: CCA29Ch
+Header address: FFD455B4h
+Data address: FFD455BDh
+Offset: ACh
+Type: 01h
+Full size: AADh (2733)
+Header size: 9h (9)
+Body size: AA4h (2724)
+Compression type: 01h
+Decompressed size: 1472h (5234)
+Compression algorithm: EFI 1.1

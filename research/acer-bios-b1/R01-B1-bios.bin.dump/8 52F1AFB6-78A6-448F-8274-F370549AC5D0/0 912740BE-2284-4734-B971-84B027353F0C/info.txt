@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: No
+Base: D44004h
+Header address: FFDBF31Ch
+Data address: FFDBF334h
+Offset: 78h
+File GUID: 912740BE-2284-4734-B971-84B027353F0C
+Type: 01h
+Attributes: 00h
+Full size: ACh (172)
+Header size: 18h (24)
+Body size: 94h (148)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 77h, valid
+Data checksum: AAh, valid

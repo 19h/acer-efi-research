@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Base: EFB778h
+Header address: FFF76A90h
+Data address: FFF76AA8h
+Offset: 56A90h
+File GUID: C91C3C17-FC74-46E5-BDBE-6F486A5A9F3C
+Type: 02h
+Attributes: 00h
+Full size: 21Ch (540)
+Header size: 18h (24)
+Body size: 204h (516)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Ch, valid
+Data checksum: AAh, valid

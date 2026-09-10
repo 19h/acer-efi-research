@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: DF3C1Ch
+Header address: FFE6EF34h
+Data address: FFE6EF38h
+Offset: 6BB8h
+Type: 15h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Text: FspInitPreMem

@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: EA488Ch
+Address: FFF1FBA4h
+Offset: EA488Ch
+Full size: 45Ch (1116)

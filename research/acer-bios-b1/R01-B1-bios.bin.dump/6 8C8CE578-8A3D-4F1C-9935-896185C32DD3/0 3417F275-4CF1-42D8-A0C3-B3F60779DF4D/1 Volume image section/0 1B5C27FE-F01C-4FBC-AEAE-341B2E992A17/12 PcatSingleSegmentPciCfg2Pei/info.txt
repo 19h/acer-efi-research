@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PcatSingleSegmentPciCfg2Pei
+Fixed: No
+Base: CC6EE0h
+Header address: FFD421F8h
+Data address: FFD42210h
+Offset: 333D8h
+File GUID: 4F1F379F-2A62-48BB-AC34-D3F135C6E2B7
+Type: 06h
+Attributes: 00h
+Full size: 634h (1588)
+Header size: 18h (24)
+Body size: 61Ch (1564)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

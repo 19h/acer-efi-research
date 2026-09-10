@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EF519Ch
+Header address: FFF704B4h
+Data address: FFF704B8h
+Offset: 9E4h
+Type: 15h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Text: OverVoltagePei

@@ -1,0 +1,17 @@
+Type: File
+Subtype: Volume image
+Fixed: No
+Base: C93AE0h
+Header address: FFD0EDF8h
+Data address: FFD0EE10h
+Offset: 48h
+File GUID: 3417F275-4CF1-42D8-A0C3-B3F60779DF4D
+Type: 0Bh
+Attributes: 08h
+Full size: 5A028h (368680)
+Header size: 18h (24)
+Body size: 5A010h (368656)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Fh, valid
+Data checksum: AAh, valid

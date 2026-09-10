@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: HeciInit
+Fixed: No
+Base: CC4278h
+Header address: FFD3F590h
+Data address: FFD3F5A8h
+Offset: 30770h
+File GUID: EEE8D8EC-40C2-159B-71C7-8796EEEF3FBC
+Type: 06h
+Attributes: 00h
+Full size: 2310h (8976)
+Header size: 18h (24)
+Body size: 22F8h (8952)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Eh, valid
+Data checksum: AAh, valid

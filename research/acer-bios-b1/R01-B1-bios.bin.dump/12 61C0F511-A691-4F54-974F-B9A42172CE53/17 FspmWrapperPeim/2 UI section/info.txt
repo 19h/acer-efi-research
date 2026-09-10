@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EBA9F0h
+Header address: FFF35D08h
+Data address: FFF35D0Ch
+Offset: 5D8h
+Type: 15h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Text: FspmWrapperPeim

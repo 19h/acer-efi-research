@@ -1,0 +1,18 @@
+Type: File
+Subtype: Freeform
+Text: OEM Logo - Predator 16:10
+Fixed: No
+Base: 2D7A0h
+Header address: FF0A8AB8h
+Data address: FF0A8AD0h
+Offset: 2D7A0h
+File GUID: 32E8260B-3861-4EB0-8C47-E4313116E24E
+Type: 02h
+Attributes: 00h
+Full size: 14DAFh (85423)
+Header size: 18h (24)
+Body size: 14D97h (85399)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,20 @@
+Type: Section
+Subtype: TE image
+Fixed: No
+Base: EC1778h
+Header address: FFF3CA90h
+Data address: FFF3CA94h
+Offset: 18h
+Type: 12h
+Full size: 6544h (25924)
+Header size: 4h (4)
+Body size: 6540h (25920)
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1A8h (424)
+Base of code: 220h
+Address of entry point: 3BDh
+Image base: FFF3C914h
+Adjusted image base: FFF3CA94h

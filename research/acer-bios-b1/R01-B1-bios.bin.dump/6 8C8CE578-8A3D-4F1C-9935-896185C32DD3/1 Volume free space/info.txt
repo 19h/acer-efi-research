@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: CEDB08h
+Address: FFD68E20h
+Offset: 5A070h
+Full size: 55F90h (352144)

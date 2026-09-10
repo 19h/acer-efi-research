@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EE41B8h
+Header address: FFF5F4D0h
+Data address: FFF5F4D4h
+Offset: 8D8h
+Type: 15h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Text: AsfPei

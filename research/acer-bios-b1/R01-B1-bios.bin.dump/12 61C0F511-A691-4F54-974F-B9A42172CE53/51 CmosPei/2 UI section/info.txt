@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F09720h
+Header address: FFF84A38h
+Data address: FFF84A3Ch
+Offset: 2040h
+Type: 15h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Text: CmosPei

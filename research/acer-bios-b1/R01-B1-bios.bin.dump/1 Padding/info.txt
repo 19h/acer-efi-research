@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: 200000h
+Address: FF27B318h
+Offset: 200000h
+Full size: 8E31E0h (9318880)

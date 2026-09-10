@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: 19C7A8h
+Address: FF217AC0h
+Offset: 19C7A8h
+Full size: 63858h (407640)

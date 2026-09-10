@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PlatformInfoPei
+Fixed: No
+Base: EA7490h
+Header address: FFF227A8h
+Data address: FFF227C0h
+Offset: 27A8h
+File GUID: 52B3DBA7-9565-48E8-8E13-EC7196721B3C
+Type: 06h
+Attributes: 00h
+Full size: 8F6h (2294)
+Header size: 18h (24)
+Body size: 8DEh (2270)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EEh, valid
+Data checksum: AAh, valid

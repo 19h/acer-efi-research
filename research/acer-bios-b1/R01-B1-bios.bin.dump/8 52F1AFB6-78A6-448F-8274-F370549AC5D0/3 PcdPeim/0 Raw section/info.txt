@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: D4A394h
+Header address: FFDC56ACh
+Data address: FFDC56B0h
+Offset: 18h
+Type: 19h
+Full size: 1A4h (420)
+Header size: 4h (4)
+Body size: 1A0h (416)

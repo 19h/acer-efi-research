@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Base: B50A08h
+Header address: FFBCBD20h
+Data address: FFBCBD24h
+Offset: 18h
+Type: 19h
+Full size: 8D4h (2260)
+Header size: 4h (4)
+Body size: 8D0h (2256)

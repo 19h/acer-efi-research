@@ -1,0 +1,12 @@
+Type: Section
+Subtype: Freeform subtype GUID
+Fixed: No
+Base: EF9088h
+Header address: FFF743A0h
+Data address: FFF743B4h
+Offset: 18h
+Type: 18h
+Full size: 8Ch (140)
+Header size: 14h (20)
+Body size: 78h (120)
+Subtype GUID: 2EBE0275-6458-4AF9-91ED-D3F4EDB100AA

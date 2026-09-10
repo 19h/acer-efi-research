@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: AcerTestLogCount
+Fixed: Yes
+Base: F2AEB9h
+Header address: FFFA61D1h
+Data address: FFFA61EDh
+Offset: 2369h
+Variable GUID: 48E75953-73C0-485F-BC7F-09279BBE31F3
+GUID index: 18
+Full size: 1Fh (31)
+Header size: 1Ch (28)
+Body size: 3h (3)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

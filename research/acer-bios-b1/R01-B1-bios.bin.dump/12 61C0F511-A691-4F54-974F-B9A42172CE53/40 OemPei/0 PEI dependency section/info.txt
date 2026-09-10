@@ -1,0 +1,16 @@
+Type: Section
+Subtype: PEI dependency
+Fixed: No
+Base: EF4650h
+Header address: FFF6F968h
+Data address: FFF6F96Ch
+Offset: 18h
+Type: 1Bh
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Parsed expression:
+PUSH 2AB86EF5-ECB5-4134-B556-3854CA1FE1B4
+PUSH 01F34D25-4DE2-23AD-3FF3-36353FF323F1
+AND
+END

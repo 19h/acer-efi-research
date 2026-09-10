@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EF3CF8h
+Header address: FFF6F010h
+Data address: FFF6F014h
+Offset: 35B8h
+Type: 15h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Text: PEI_Module

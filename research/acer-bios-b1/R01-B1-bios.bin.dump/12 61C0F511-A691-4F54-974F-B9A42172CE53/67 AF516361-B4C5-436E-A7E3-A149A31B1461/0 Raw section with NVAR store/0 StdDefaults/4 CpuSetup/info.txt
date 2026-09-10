@@ -1,0 +1,15 @@
+Type: NVAR entry
+Subtype: Full
+Text: CpuSetup
+Fixed: Yes
+Base: F2F44Eh
+Header address: FFFAA766h
+Data address: FFFAA77Ah
+Offset: EEAh
+Variable GUID: B08F97FF-E6E8-4193-A997-5E9E9B0ADB32
+GUID index: 3
+Full size: 3D7h (983)
+Header size: 14h (20)
+Body size: 3C3h (963)
+Tail size: 0h (0)
+Attributes: 83h (Runtime, AsciiName, Valid)

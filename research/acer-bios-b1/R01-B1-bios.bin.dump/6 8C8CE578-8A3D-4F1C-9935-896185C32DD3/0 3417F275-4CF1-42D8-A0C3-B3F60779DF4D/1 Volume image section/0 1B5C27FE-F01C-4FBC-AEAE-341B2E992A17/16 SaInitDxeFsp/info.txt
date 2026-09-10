@@ -1,0 +1,18 @@
+Type: File
+Subtype: DXE driver
+Text: SaInitDxeFsp
+Fixed: No
+Base: CCA1F0h
+Header address: FFD45508h
+Data address: FFD45520h
+Offset: 366E8h
+File GUID: 1C652EC8-2347-44C1-93E0-D1BEE8C82FFC
+Type: 07h
+Attributes: 00h
+Full size: B59h (2905)
+Header size: 18h (24)
+Body size: B41h (2881)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D2h, valid
+Data checksum: AAh, valid

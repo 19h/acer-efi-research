@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: D43A98h
+Address: FFDBEDB0h
+Offset: D43A98h
+Full size: 4F4h (1268)

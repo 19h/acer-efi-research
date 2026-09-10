@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: PeiPciePhyFwLoadingInit
+Fixed: No
+Offset: 1350h
+File GUID: 90BF2BFB-F998-4CBC-AD72-008D4D047A4B
+Type: 06h
+Attributes: 00h
+Full size: 400Eh (16398)
+Header size: 18h (24)
+Body size: 3FF6h (16374)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DCh, valid
+Data checksum: AAh, valid

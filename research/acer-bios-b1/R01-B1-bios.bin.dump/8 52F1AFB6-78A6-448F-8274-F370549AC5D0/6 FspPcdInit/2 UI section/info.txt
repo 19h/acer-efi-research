@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: D4CDD0h
+Header address: FFDC80E8h
+Data address: FFDC80ECh
+Offset: 324h
+Type: 15h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Text: FspPcdInit

@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PlatformConfigTool
+Fixed: No
+Base: EA6100h
+Header address: FFF21418h
+Data address: FFF21430h
+Offset: 1418h
+File GUID: A20F7425-BC87-47D1-945C-637603323584
+Type: 06h
+Attributes: 00h
+Full size: 72Eh (1838)
+Header size: 18h (24)
+Body size: 716h (1814)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 69h, valid
+Data checksum: AAh, valid

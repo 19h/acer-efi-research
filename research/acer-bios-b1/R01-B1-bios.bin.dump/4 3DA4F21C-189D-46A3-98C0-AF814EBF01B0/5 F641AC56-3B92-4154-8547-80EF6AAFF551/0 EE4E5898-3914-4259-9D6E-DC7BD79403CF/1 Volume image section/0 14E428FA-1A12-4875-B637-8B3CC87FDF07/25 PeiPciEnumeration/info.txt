@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: PeiPciEnumeration
+Fixed: No
+Offset: 4CBF0h
+File GUID: 01FB5D53-4FF9-4AD9-ADF5-7DC63659A1B2
+Type: 06h
+Attributes: 00h
+Full size: 1F2Eh (7982)
+Header size: 18h (24)
+Body size: 1F16h (7958)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CFh, valid
+Data checksum: AAh, valid

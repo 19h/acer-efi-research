@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PEI_Module
+Fixed: No
+Base: EF0740h
+Header address: FFF6BA58h
+Data address: FFF6BA70h
+Offset: 4BA58h
+File GUID: 7D3FBD2E-2509-4CC1-91EE-26DBAB7B84A9
+Type: 06h
+Attributes: 00h
+Full size: 35E2h (13794)
+Header size: 18h (24)
+Body size: 35CAh (13770)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Eh, valid
+Data checksum: AAh, valid

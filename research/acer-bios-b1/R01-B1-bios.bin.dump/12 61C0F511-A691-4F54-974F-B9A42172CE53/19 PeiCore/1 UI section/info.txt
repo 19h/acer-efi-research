@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EC7CBCh
+Header address: FFF42FD4h
+Data address: FFF42FD8h
+Offset: 655Ch
+Type: 15h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Text: PeiCore

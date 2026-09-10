@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AcPowerLossPei
+Fixed: No
+Base: EF4388h
+Header address: FFF6F6A0h
+Data address: FFF6F6B8h
+Offset: 4F6A0h
+File GUID: 2C5C58D8-6C8F-4037-9590-25459BC58A08
+Type: 06h
+Attributes: 00h
+Full size: 2AEh (686)
+Header size: 18h (24)
+Body size: 296h (662)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Fh, valid
+Data checksum: AAh, valid

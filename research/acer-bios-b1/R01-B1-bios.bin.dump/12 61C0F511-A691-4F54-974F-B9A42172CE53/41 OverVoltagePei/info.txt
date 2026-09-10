@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: OverVoltagePei
+Fixed: No
+Base: EF47B8h
+Header address: FFF6FAD0h
+Data address: FFF6FAE8h
+Offset: 4FAD0h
+File GUID: 8A93DBCA-E866-4B9E-BC86-879924ADA586
+Type: 06h
+Attributes: 00h
+Full size: A16h (2582)
+Header size: 18h (24)
+Body size: 9FEh (2558)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

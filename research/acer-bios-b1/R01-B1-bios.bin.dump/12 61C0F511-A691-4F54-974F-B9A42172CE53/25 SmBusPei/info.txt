@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SmBusPei
+Fixed: No
+Base: ED0EB8h
+Header address: FFF4C1D0h
+Data address: FFF4C1E8h
+Offset: 2C1D0h
+File GUID: 9EA28D33-0175-4788-BEA8-6950516030A5
+Type: 06h
+Attributes: 00h
+Full size: 15Ah (346)
+Header size: 18h (24)
+Body size: 142h (322)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

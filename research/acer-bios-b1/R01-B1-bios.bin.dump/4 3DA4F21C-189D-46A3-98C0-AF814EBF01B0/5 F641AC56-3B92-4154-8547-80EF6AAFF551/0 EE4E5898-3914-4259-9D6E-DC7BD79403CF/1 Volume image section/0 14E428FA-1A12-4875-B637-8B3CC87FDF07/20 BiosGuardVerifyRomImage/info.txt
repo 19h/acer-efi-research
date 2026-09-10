@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardVerifyRomImage
+Fixed: No
+Offset: 3E6B0h
+File GUID: B8D62377-7970-4CE1-87F4-9DDE56AE8982
+Type: 06h
+Attributes: 00h
+Full size: 5246h (21062)
+Header size: 18h (24)
+Body size: 522Eh (21038)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Fh, valid
+Data checksum: AAh, valid

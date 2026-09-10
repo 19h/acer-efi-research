@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Volume image
+Fixed: No
+Offset: 24h
+Type: 17h
+Full size: A1004h (659460)
+Header size: 4h (4)
+Body size: A1000h (659456)

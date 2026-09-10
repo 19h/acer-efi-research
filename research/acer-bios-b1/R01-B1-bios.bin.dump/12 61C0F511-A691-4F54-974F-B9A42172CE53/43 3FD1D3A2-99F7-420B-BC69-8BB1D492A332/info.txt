@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Base: EF9070h
+Header address: FFF74388h
+Data address: FFF743A0h
+Offset: 54388h
+File GUID: 3FD1D3A2-99F7-420B-BC69-8BB1D492A332
+Type: 02h
+Attributes: 00h
+Full size: A4h (164)
+Header size: 18h (24)
+Body size: 8Ch (140)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Ch, valid
+Data checksum: AAh, valid

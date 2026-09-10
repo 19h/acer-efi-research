@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: BD31E0h
+Address: FFC4E4F8h
+Offset: BD31E0h
+Full size: 45Ch (1116)

@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: E00F8Ch
+Address: FFE7C2A4h
+Offset: E00F8Ch
+Full size: 93900h (604416)

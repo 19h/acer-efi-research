@@ -1,0 +1,14 @@
+Type: Section
+Subtype: Compressed
+Fixed: No
+Base: CC756Ch
+Header address: FFD42884h
+Data address: FFD4288Dh
+Offset: 54h
+Type: 01h
+Full size: 180h (384)
+Header size: 9h (9)
+Body size: 177h (375)
+Compression type: 01h
+Decompressed size: 3BAh (954)
+Compression algorithm: EFI 1.1

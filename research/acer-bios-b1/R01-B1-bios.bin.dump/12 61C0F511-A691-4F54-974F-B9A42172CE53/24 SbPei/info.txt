@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SbPei
+Fixed: No
+Base: ECFCB8h
+Header address: FFF4AFD0h
+Data address: FFF4AFE8h
+Offset: 2AFD0h
+File GUID: C1FBD624-27EA-40D1-AA48-94C3DC5C7E0D
+Type: 06h
+Attributes: 00h
+Full size: 11FAh (4602)
+Header size: 18h (24)
+Body size: 11E2h (4578)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

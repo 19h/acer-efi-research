@@ -1,0 +1,18 @@
+Type: File
+Subtype: DXE driver
+Text: HeciInitDxeFsp
+Fixed: No
+Base: CC8B70h
+Header address: FFD43E88h
+Data address: FFD43EA0h
+Offset: 35068h
+File GUID: C92652E3-C7DE-4C78-9577-1C897C51BFFA
+Type: 07h
+Attributes: 00h
+Full size: 167Ah (5754)
+Header size: 18h (24)
+Body size: 1662h (5730)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

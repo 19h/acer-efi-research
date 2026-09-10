@@ -1,0 +1,11 @@
+Type: Section
+Subtype: Volume image
+Fixed: No
+Base: C93B04h
+Header address: FFD0EE1Ch
+Data address: FFD0EE20h
+Offset: 24h
+Type: 17h
+Full size: 5A004h (368644)
+Header size: 4h (4)
+Body size: 5A000h (368640)

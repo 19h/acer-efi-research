@@ -1,0 +1,14 @@
+Type: Section
+Subtype: Compressed
+Fixed: No
+Base: CC3364h
+Header address: FFD3E67Ch
+Data address: FFD3E685h
+Offset: 64h
+Type: 01h
+Full size: 463h (1123)
+Header size: 9h (9)
+Body size: 45Ah (1114)
+Compression type: 01h
+Decompressed size: 78Ah (1930)
+Compression algorithm: EFI 1.1

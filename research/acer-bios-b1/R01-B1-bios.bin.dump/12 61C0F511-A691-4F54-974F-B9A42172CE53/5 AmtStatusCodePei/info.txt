@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AmtStatusCodePei
+Fixed: No
+Base: EA5CE0h
+Header address: FFF20FF8h
+Data address: FFF21010h
+Offset: FF8h
+File GUID: A6AEF1F6-F25A-4082-AF39-2229BCF5A6E1
+Type: 06h
+Attributes: 00h
+Full size: 41Ah (1050)
+Header size: 18h (24)
+Body size: 402h (1026)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 28h, valid
+Data checksum: AAh, valid

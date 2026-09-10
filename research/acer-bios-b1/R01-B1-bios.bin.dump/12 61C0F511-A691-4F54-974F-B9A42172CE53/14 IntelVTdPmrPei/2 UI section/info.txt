@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EB4630h
+Header address: FFF2F948h
+Data address: FFF2F94Ch
+Offset: 1558h
+Type: 15h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Text: IntelVTdPmrPei

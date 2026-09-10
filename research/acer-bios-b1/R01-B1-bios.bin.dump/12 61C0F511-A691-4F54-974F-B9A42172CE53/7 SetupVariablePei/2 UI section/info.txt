@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EA6B14h
+Header address: FFF21E2Ch
+Data address: FFF21E30h
+Offset: 2E4h
+Type: 15h
+Full size: 26h (38)
+Header size: 4h (4)
+Body size: 22h (34)
+Text: SetupVariablePei

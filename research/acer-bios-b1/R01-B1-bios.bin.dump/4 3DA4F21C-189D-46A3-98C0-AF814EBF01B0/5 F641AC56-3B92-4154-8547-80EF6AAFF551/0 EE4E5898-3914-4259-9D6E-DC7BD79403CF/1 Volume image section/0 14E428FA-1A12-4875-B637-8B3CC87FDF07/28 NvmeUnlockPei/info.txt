@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: NvmeUnlockPei
+Fixed: No
+Offset: 56CE8h
+File GUID: 42D69902-10E7-4907-AD3B-46A5BF25A1A0
+Type: 06h
+Attributes: 00h
+Full size: 2BF2h (11250)
+Header size: 18h (24)
+Body size: 2BDAh (11226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

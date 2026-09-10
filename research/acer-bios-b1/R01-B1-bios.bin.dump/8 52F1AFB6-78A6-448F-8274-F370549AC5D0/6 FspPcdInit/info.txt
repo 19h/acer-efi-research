@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FspPcdInit
+Fixed: No
+Base: D4CAACh
+Header address: FFDC7DC4h
+Data address: FFDC7DDCh
+Offset: 8B20h
+File GUID: 88C17E54-EBFE-4531-A992-581029F58126
+Type: 06h
+Attributes: 00h
+Full size: 34Eh (846)
+Header size: 18h (24)
+Body size: 336h (822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C7h, valid
+Data checksum: AAh, valid

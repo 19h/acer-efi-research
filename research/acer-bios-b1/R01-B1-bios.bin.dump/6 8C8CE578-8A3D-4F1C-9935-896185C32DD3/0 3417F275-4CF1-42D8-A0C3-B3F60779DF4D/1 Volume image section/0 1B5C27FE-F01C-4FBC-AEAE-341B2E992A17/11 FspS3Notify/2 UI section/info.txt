@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: CC6EB4h
+Header address: FFD421CCh
+Data address: FFD421D0h
+Offset: 404h
+Type: 15h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Text: FspS3Notify

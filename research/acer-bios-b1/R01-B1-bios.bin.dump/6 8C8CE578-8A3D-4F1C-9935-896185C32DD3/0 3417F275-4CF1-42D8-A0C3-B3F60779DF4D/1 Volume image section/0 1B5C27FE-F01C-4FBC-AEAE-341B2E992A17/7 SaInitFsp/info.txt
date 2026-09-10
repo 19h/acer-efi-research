@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SaInitFsp
+Fixed: No
+Base: CC3300h
+Header address: FFD3E618h
+Data address: FFD3E630h
+Offset: 2F7F8h
+File GUID: 4E22BF36-C59D-47C4-9FD1-25A603D75958
+Type: 06h
+Attributes: 00h
+Full size: 4C7h (1223)
+Header size: 18h (24)
+Body size: 4AFh (1199)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 97h, valid
+Data checksum: AAh, valid

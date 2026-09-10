@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EA67F4h
+Header address: FFF21B0Ch
+Data address: FFF21B10h
+Offset: 6F4h
+Type: 15h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Text: PlatformConfigTool

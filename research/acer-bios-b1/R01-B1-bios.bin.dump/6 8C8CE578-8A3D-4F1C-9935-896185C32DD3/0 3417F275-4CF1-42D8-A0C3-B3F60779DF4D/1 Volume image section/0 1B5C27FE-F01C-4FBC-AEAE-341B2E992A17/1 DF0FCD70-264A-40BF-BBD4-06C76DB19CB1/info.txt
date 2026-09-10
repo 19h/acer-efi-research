@@ -1,0 +1,17 @@
+Type: File
+Subtype: SEC core
+Fixed: No
+Base: C93C30h
+Header address: FFD0EF48h
+Data address: FFD0EF60h
+Offset: 128h
+File GUID: DF0FCD70-264A-40BF-BBD4-06C76DB19CB1
+Type: 03h
+Attributes: 00h
+Full size: 4A0h (1184)
+Header size: 18h (24)
+Body size: 488h (1160)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F8h, valid
+Data checksum: AAh, valid

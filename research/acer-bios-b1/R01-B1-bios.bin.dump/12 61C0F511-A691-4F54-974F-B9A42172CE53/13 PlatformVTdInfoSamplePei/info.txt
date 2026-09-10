@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PlatformVTdInfoSamplePei
+Fixed: No
+Base: EB24F8h
+Header address: FFF2D810h
+Data address: FFF2D828h
+Offset: D810h
+File GUID: 839EB770-5C64-4EED-A6D5-EC515B2B2B23
+Type: 06h
+Attributes: 00h
+Full size: BDEh (3038)
+Header size: 18h (24)
+Body size: BC6h (3014)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 42h, valid
+Data checksum: AAh, valid

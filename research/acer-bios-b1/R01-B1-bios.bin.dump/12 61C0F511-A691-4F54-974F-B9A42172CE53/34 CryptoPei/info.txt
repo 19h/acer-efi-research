@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: CryptoPei
+Fixed: No
+Base: EE9450h
+Header address: FFF64768h
+Data address: FFF64780h
+Offset: 44768h
+File GUID: 0D1CE46B-72D9-4BA7-95DA-23511865E661
+Type: 06h
+Attributes: 00h
+Full size: 100Ah (4106)
+Header size: 18h (24)
+Body size: FF2h (4082)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

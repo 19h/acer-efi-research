@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F05624h
+Header address: FFF8093Ch
+Data address: FFF80940h
+Offset: 5CA4h
+Type: 15h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Text: PcdPeim

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: F0674Ch
+Header address: FFF81A64h
+Data address: FFF81A68h
+Offset: 1104h
+Type: 15h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Text: It8637PeiInit

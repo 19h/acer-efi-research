@@ -1,0 +1,6 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: F84CE8h
+Offset: F84CE8h
+Full size: 1A811h (108561)

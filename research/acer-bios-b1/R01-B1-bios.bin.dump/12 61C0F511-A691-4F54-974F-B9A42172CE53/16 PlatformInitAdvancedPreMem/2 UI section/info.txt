@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EBA3C8h
+Header address: FFF356E0h
+Data address: FFF356E4h
+Offset: 4F98h
+Type: 15h
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Text: PlatformInitAdvancedPreMem

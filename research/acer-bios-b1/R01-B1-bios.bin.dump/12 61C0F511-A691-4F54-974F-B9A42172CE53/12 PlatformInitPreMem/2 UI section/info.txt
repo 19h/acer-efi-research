@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EB24B8h
+Header address: FFF2D7D0h
+Data address: FFF2D7D4h
+Offset: 95F8h
+Type: 15h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Text: PlatformInitPreMem

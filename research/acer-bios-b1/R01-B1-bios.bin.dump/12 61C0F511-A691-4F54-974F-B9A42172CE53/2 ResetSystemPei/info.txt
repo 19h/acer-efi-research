@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: ResetSystemPei
+Fixed: No
+Base: EA4E70h
+Header address: FFF20188h
+Data address: FFF201A0h
+Offset: 188h
+File GUID: 6141E486-7543-4F1A-A579-FF532ED78E75
+Type: 06h
+Attributes: 00h
+Full size: 7E6h (2022)
+Header size: 18h (24)
+Body size: 7CEh (1998)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

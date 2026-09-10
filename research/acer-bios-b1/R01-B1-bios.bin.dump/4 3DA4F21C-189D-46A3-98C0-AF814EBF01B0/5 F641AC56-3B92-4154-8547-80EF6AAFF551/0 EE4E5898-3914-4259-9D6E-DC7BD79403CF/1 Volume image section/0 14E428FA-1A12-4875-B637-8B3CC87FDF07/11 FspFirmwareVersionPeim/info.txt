@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: FspFirmwareVersionPeim
+Fixed: No
+Offset: 1A428h
+File GUID: 3245EA7C-9209-41E7-BE2C-EB662B8C0622
+Type: 06h
+Attributes: 00h
+Full size: 62Eh (1582)
+Header size: 18h (24)
+Body size: 616h (1558)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Ch, valid
+Data checksum: AAh, valid

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: EA7444h
+Header address: FFF2275Ch
+Data address: FFF22760h
+Offset: 8F4h
+Type: 15h
+Full size: 3Ch (60)
+Header size: 4h (4)
+Body size: 38h (56)
+Text: PcatSingleSegmentPciCfg2Pei

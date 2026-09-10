@@ -1,0 +1,16 @@
+Type: Microcode
+Subtype: Intel
+Fixed: Yes
+Base: B1A1E0h
+Address: FFB954F8h
+Offset: 36C18h
+Full size: 34800h (215040)
+Header size: 0h (0u)
+Body size: 34800h (215040)
+Tail size: 0h (0u)
+Date: 18.07.2024
+CPU signature: 000B0671h
+Revision: 00000129h
+Minimal update revision: 0000010Bh
+CPU platform Id: 00000032h
+Checksum: A6890DD3h, valid

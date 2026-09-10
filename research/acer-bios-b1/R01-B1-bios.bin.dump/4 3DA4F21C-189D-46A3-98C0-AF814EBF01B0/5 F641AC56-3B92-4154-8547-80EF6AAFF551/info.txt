@@ -1,0 +1,17 @@
+Type: File
+Subtype: Volume image
+Fixed: No
+Base: BD4A3Ch
+Header address: FFC4FD54h
+Data address: FFC4FD6Ch
+Offset: 1400h
+File GUID: F641AC56-3B92-4154-8547-80EF6AAFF551
+Type: 0Bh
+Attributes: 00h
+Full size: 38D2Dh (232749)
+Header size: 18h (24)
+Body size: 38D15h (232725)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 03h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,18 @@
+Type: Section
+Subtype: PEI dependency
+Fixed: No
+Base: CC65A0h
+Header address: FFD418B8h
+Data address: FFD418BCh
+Offset: 18h
+Type: 1Bh
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Parsed expression:
+PUSH 0AE8CE5D-E448-4437-A8D7-EBF5F194F731
+PUSH 01F34D25-4DE2-23AD-3FF3-36353FF323F1
+PUSH D570DE8C-B9C4-4FFA-ADEE-A5827CE31779
+AND
+AND
+END

@@ -1,0 +1,17 @@
+Type: File
+Subtype: Pad
+Fixed: No
+Base: AE3258h
+Header address: FFB5E570h
+Data address: FFB5E588h
+Offset: 78h
+File GUID: FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF
+Type: F0h
+Attributes: 00h
+Full size: 370h (880)
+Header size: 18h (24)
+Body size: 358h (856)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

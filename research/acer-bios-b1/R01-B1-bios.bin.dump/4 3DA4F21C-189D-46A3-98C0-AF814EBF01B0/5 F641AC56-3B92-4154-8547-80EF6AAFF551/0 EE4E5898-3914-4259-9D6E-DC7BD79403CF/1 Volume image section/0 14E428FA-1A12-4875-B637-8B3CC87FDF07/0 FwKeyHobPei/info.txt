@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: FwKeyHobPei
+Fixed: No
+Offset: 78h
+File GUID: 76864548-0261-410E-A8B4-01615BFA3E0A
+Type: 06h
+Attributes: 00h
+Full size: 846h (2118)
+Header size: 18h (24)
+Body size: 82Eh (2094)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 16h, valid
+Data checksum: AAh, valid

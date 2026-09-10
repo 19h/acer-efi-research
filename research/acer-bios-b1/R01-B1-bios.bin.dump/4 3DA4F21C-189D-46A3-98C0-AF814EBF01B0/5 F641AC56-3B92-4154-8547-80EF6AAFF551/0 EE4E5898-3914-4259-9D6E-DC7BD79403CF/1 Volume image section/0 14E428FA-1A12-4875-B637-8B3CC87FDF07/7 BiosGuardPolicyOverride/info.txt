@@ -1,0 +1,15 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardPolicyOverride
+Fixed: No
+Offset: E988h
+File GUID: FAF79E9F-4D40-4F02-8AC9-4B5512708F7F
+Type: 06h
+Attributes: 00h
+Full size: 12A6h (4774)
+Header size: 18h (24)
+Body size: 128Eh (4750)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B3h, valid
+Data checksum: AAh, valid
