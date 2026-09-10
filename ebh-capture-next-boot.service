@@ -1,0 +1,12 @@
+[Unit]
+Description=Capture Intel EBH experiment state after the next boot
+RequiresMountsFor=/media/null/ares
+After=local-fs.target media-null-ares.mount
+ConditionPathExists=/media/null/ares/intel-dram-alias/ARM_CAPTURE_NEXT_BOOT
+
+[Service]
+Type=oneshot
+ExecStart=/media/null/ares/intel-dram-alias/capture_boot_state.sh
+
+[Install]
+WantedBy=multi-user.target

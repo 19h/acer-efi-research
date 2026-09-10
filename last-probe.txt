@@ -1,0 +1,29 @@
+Intel DRAM decoder read-only probe
+CPU: GenuineIntel family 0x6 model 0xb7 stepping 0x1
+Host bridge: 8086:a700
+MCHBAR: raw=0x0000fedc0001 base=0x0000fedc0000 enabled=yes
+Memory boundaries: TOM=0x001000000000 TOUUD=0x001080000000 TOLUD=0x80000000 TSEGMB=0x7f000000 DPR=0x7f000127
+
+Address-decoder registers (all reads):
+MAD_INTER_CHANNEL +0xd800 = 0x08020001 (DDR type DDR5)
+MAD_INTRA_CH0    +0xd804 = 0x00000100 (EIM=on)
+MAD_INTRA_CH1    +0xd808 = 0x00000100 (EIM=on)
+MAD_DIMM_CH0 +0xd80c = 0xd0100010
+  DECODER_EBH=3 (XaB=on, XbB=on), BG0 option=1
+  DIMM L=8.0 GiB/1 rank(s), DIMM S=8.0 GiB/1 rank(s)
+MAD_DIMM_CH1 +0xd810 = 0xd0100010
+  DECODER_EBH=3 (XaB=on, XbB=on), BG0 option=1
+  DIMM L=8.0 GiB/1 rank(s), DIMM S=8.0 GiB/1 rank(s)
+CHANNEL_HASH     +0xd824 = 0x130c3200
+CHANNEL_EHASH    +0xd828 = 0x00000000
+
+SMRR state (MSR reads):
+  CPU 0 : MTRRCAP=0x00005d0a SMRR_BASE=0x7f000006 SMRR_MASK=0xff000c00 => [0x7f000000, 0x7fffffff] (16 MiB), valid, locked
+  CPU 16: MTRRCAP=0x00005d0a SMRR_BASE=0x7f000006 SMRR_MASK=0xff000c00 => [0x7f000000, 0x7fffffff] (16 MiB), valid, locked
+
+Interpretation:
+  DECODER_EBH changes DRAM bank hashing and is the closest documented
+  analogue to the AMD BankSwizzleMode primitive. Intel's 13th-gen
+  datasheet classifies MCHBAR D800-D810 as BIOS RW, SMM R, OS R.
+  This probe establishes configuration only; it does not establish
+  that an OS write is accepted, nor that useful aliases would result.
